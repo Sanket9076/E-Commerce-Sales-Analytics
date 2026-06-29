@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%" style="background-color: #0f172a; font-family: 'Outfit', 'Inter', system-ui, sans-serif; border-radius: 12px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.5);">
+    <!-- Gradient definitions -->
+    <defs>
+        <linearGradient id="blueGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8"/>
+            <stop offset="100%" stop-color="#0284c7" stop-opacity="0.2"/>
+        </linearGradient>
+        <linearGradient id="purpleGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#c084fc" stop-opacity="0.8"/>
+            <stop offset="100%" stop-color="#7e22ce" stop-opacity="0.2"/>
+        </linearGradient>
+        <linearGradient id="greenGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#34d399" stop-opacity="0.8"/>
+            <stop offset="100%" stop-color="#059669" stop-opacity="0.2"/>
+        </linearGradient>
+        <linearGradient id="coralGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#fb7185" stop-opacity="0.8"/>
+            <stop offset="100%" stop-color="#be123c" stop-opacity="0.2"/>
+        </linearGradient>
+    </defs>
+    
+    <!-- Title and details -->
+    <text x="30" y="40" fill="#f8fafc" font-size="20" font-weight="bold">Customer Segmentation (RFM Analysis)</text>
+    <text x="30" y="60" fill="#94a3b8" font-size="12">Distribution of user base across loyalty segments</text>
+    
+    <!-- Content goes here -->
+    
+    <!-- Donut Arcs -->
+    <path d="M 260.0 120.0 A 120 120 0 0 1 379.5066788138577 250.8698536734147 L 339.6711192092385 247.2465691156098 A 80 80 0 0 0 260.0 160.0 Z" fill="#64748b" stroke="#0f172a" stroke-width="2"/><path d="M 379.5066788138577 250.8698536734147 A 120 120 0 0 1 291.6848227054752 355.7414014522142 L 281.12321513698345 317.1609343014761 A 80 80 0 0 0 339.6711192092385 247.2465691156098 Z" fill="#38bdf8" stroke="#0f172a" stroke-width="2"/><path d="M 291.6848227054752 355.7414014522142 A 120 120 0 0 1 177.49912884023865 327.1413005289711 L 204.99941922682578 298.0942003526474 A 80 80 0 0 0 281.12321513698345 317.1609343014761 Z" fill="#34d399" stroke="#0f172a" stroke-width="2"/><path d="M 177.49912884023865 327.1413005289711 A 120 120 0 0 1 141.14841002488004 223.43800856219403 L 180.76560668325334 228.95867237479604 A 80 80 0 0 0 204.99941922682578 298.0942003526474 Z" fill="#fbcfe8" stroke="#0f172a" stroke-width="2"/><path d="M 141.14841002488004 223.43800856219403 A 120 120 0 0 1 193.30834252657388 140.23917189874976 L 215.5388950177159 173.49278126583317 A 80 80 0 0 0 180.76560668325334 228.95867237479604 Z" fill="#fb7185" stroke="#0f172a" stroke-width="2"/><path d="M 193.30834252657388 140.23917189874976 A 120 120 0 0 1 260.0 120.0 L 260.0 160.0 A 80 80 0 0 0 215.5388950177159 173.49278126583317 Z" fill="#c084fc" stroke="#0f172a" stroke-width="2"/>
+    
+    <!-- Donut Central Hole text -->
+    <circle x="260"  r="78" fill="#0f172a"/>
+    <text x="260"  fill="#94a3b8" font-size="12" text-anchor="middle" y="230">TOTAL CUSTOMERS</text>
+    <text x="260"  fill="#f8fafc" font-size="24" font-weight="bold" text-anchor="middle" y="255">27,829</text>
+    
+    <!-- Legend -->
+    
+        <g transform="translate(470, 120)">
+            <rect x="0" y="0" width="14" height="14" rx="3" fill="#64748b"/>
+            <text x="22" y="12" fill="#f8fafc" font-size="12" font-weight="bold">Hibernating</text>
+            <text x="22" y="27" fill="#94a3b8" font-size="11">7,359 (26.4%)</text>
+        </g>
+        
+        <g transform="translate(470, 156)">
+            <rect x="0" y="0" width="14" height="14" rx="3" fill="#38bdf8"/>
+            <text x="22" y="12" fill="#f8fafc" font-size="12" font-weight="bold">Loyal Customers</text>
+            <text x="22" y="27" fill="#94a3b8" font-size="11">5,372 (19.3%)</text>
+        </g>
+        
+        <g transform="translate(470, 192)">
+            <rect x="0" y="0" width="14" height="14" rx="3" fill="#34d399"/>
+            <text x="22" y="12" fill="#f8fafc" font-size="12" font-weight="bold">Champions</text>
+            <text x="22" y="27" fill="#94a3b8" font-size="11">4,541 (16.3%)</text>
+        </g>
+        
+        <g transform="translate(470, 228)">
+            <rect x="0" y="0" width="14" height="14" rx="3" fill="#fbcfe8"/>
+            <text x="22" y="12" fill="#f8fafc" font-size="12" font-weight="bold">Promising/Active</text>
+            <text x="22" y="27" fill="#94a3b8" font-size="11">4,213 (15.1%)</text>
+        </g>
+        
+        <g transform="translate(470, 264)">
+            <rect x="0" y="0" width="14" height="14" rx="3" fill="#fb7185"/>
+            <text x="22" y="12" fill="#f8fafc" font-size="12" font-weight="bold">At Risk</text>
+            <text x="22" y="27" fill="#94a3b8" font-size="11">3,734 (13.4%)</text>
+        </g>
+        
+        <g transform="translate(470, 300)">
+            <rect x="0" y="0" width="14" height="14" rx="3" fill="#c084fc"/>
+            <text x="22" y="12" fill="#f8fafc" font-size="12" font-weight="bold">New Customers</text>
+            <text x="22" y="27" fill="#94a3b8" font-size="11">2,610 (9.4%)</text>
+        </g>
+        
+    
+</svg>

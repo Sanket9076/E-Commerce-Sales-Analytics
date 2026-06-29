@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%" style="background-color: #0f172a; font-family: 'Outfit', 'Inter', system-ui, sans-serif; border-radius: 12px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.5);">
+    <!-- Gradient definitions -->
+    <defs>
+        <linearGradient id="blueGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8"/>
+            <stop offset="100%" stop-color="#0284c7" stop-opacity="0.2"/>
+        </linearGradient>
+        <linearGradient id="purpleGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#c084fc" stop-opacity="0.8"/>
+            <stop offset="100%" stop-color="#7e22ce" stop-opacity="0.2"/>
+        </linearGradient>
+        <linearGradient id="greenGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#34d399" stop-opacity="0.8"/>
+            <stop offset="100%" stop-color="#059669" stop-opacity="0.2"/>
+        </linearGradient>
+        <linearGradient id="coralGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#fb7185" stop-opacity="0.8"/>
+            <stop offset="100%" stop-color="#be123c" stop-opacity="0.2"/>
+        </linearGradient>
+    </defs>
+    
+    <!-- Title and details -->
+    <text x="30" y="40" fill="#f8fafc" font-size="20" font-weight="bold">Top 8 Regions by Sales Revenue</text>
+    <text x="30" y="60" fill="#94a3b8" font-size="12">Regional contribution to total sales volume</text>
+    
+    <!-- Content goes here -->
+    
+    <!-- Grid -->
+    <line x1="120.0" y1="80" x2="120.0" y2="405" stroke="#334155" stroke-dasharray="3" stroke-width="0.75"/><text x="120.0" y="420" fill="#94a3b8" font-size="10" text-anchor="middle">$0k</text><line x1="272.5" y1="80" x2="272.5" y2="405" stroke="#334155" stroke-dasharray="3" stroke-width="0.75"/><text x="272.5" y="420" fill="#94a3b8" font-size="10" text-anchor="middle">$3,400k</text><line x1="425.0" y1="80" x2="425.0" y2="405" stroke="#334155" stroke-dasharray="3" stroke-width="0.75"/><text x="425.0" y="420" fill="#94a3b8" font-size="10" text-anchor="middle">$6,800k</text><line x1="577.5" y1="80" x2="577.5" y2="405" stroke="#334155" stroke-dasharray="3" stroke-width="0.75"/><text x="577.5" y="420" fill="#94a3b8" font-size="10" text-anchor="middle">$10,200k</text><line x1="730.0" y1="80" x2="730.0" y2="405" stroke="#334155" stroke-dasharray="3" stroke-width="0.75"/><text x="730.0" y="420" fill="#94a3b8" font-size="10" text-anchor="middle">$13,600k</text>
+    <line x1="120" y1="80" x2="120" y2="400" stroke="#64748b" stroke-width="1.5"/>
+    
+    <!-- Bars -->
+    <rect x="120" y="80.0" width="610.0" height="29.5" rx="4" fill="url(#blueGrad)" stroke="#0284c7" stroke-width="0.5"/><text x="105" y="98.75" fill="#f8fafc" font-size="12" text-anchor="end" font-weight="bold">SP</text><text x="740.0" y="98.75" fill="#38bdf8" font-size="11" text-anchor="start" font-weight="bold">$13,597.7k</text><rect x="120" y="121.5" width="242.53369358771235" height="29.5" rx="4" fill="url(#blueGrad)" stroke="#0284c7" stroke-width="0.5"/><text x="105" y="140.25" fill="#f8fafc" font-size="12" text-anchor="end" font-weight="bold">RJ</text><text x="372.5336935877124" y="140.25" fill="#38bdf8" font-size="11" text-anchor="start" font-weight="bold">$5,406.4k</text><rect x="120" y="163.0" width="170.88824614885576" height="29.5" rx="4" fill="url(#blueGrad)" stroke="#0284c7" stroke-width="0.5"/><text x="105" y="181.75" fill="#f8fafc" font-size="12" text-anchor="end" font-weight="bold">MG</text><text x="300.8882461488557" y="181.75" fill="#38bdf8" font-size="11" text-anchor="start" font-weight="bold">$3,809.3k</text><rect x="120" y="204.5" width="155.78438553256282" height="29.5" rx="4" fill="url(#blueGrad)" stroke="#0284c7" stroke-width="0.5"/><text x="105" y="223.25" fill="#f8fafc" font-size="12" text-anchor="end" font-weight="bold">RS</text><text x="285.78438553256285" y="223.25" fill="#38bdf8" font-size="11" text-anchor="start" font-weight="bold">$3,472.6k</text><rect x="120" y="246.0" width="94.18662147745458" height="29.5" rx="4" fill="url(#blueGrad)" stroke="#0284c7" stroke-width="0.5"/><text x="105" y="264.75" fill="#f8fafc" font-size="12" text-anchor="end" font-weight="bold">PR</text><text x="224.1866214774546" y="264.75" fill="#38bdf8" font-size="11" text-anchor="start" font-weight="bold">$2,099.5k</text><rect x="120" y="287.5" width="88.55288429514238" height="29.5" rx="4" fill="url(#blueGrad)" stroke="#0284c7" stroke-width="0.5"/><text x="105" y="306.25" fill="#f8fafc" font-size="12" text-anchor="end" font-weight="bold">BA</text><text x="218.55288429514238" y="306.25" fill="#38bdf8" font-size="11" text-anchor="start" font-weight="bold">$1,974.0k</text><rect x="120" y="329.0" width="77.53409392469096" height="29.5" rx="4" fill="url(#blueGrad)" stroke="#0284c7" stroke-width="0.5"/><text x="105" y="347.75" fill="#f8fafc" font-size="12" text-anchor="end" font-weight="bold">SC</text><text x="207.53409392469098" y="347.75" fill="#38bdf8" font-size="11" text-anchor="start" font-weight="bold">$1,728.3k</text><rect x="120" y="370.5" width="74.7471538772097" height="29.5" rx="4" fill="url(#blueGrad)" stroke="#0284c7" stroke-width="0.5"/><text x="105" y="389.25" fill="#f8fafc" font-size="12" text-anchor="end" font-weight="bold">GO</text><text x="204.7471538772097" y="389.25" fill="#38bdf8" font-size="11" text-anchor="start" font-weight="bold">$1,666.2k</text>
+    
+</svg>

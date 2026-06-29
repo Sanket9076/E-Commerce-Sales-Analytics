@@ -1,0 +1,501 @@
+seller_id,seller_zip_code_prefix,seller_city,seller_state
+sel_0001,04278,Belo Horizonte,MG
+sel_0002,33098,Curitiba,PR
+sel_0003,97530,São Paulo,SP
+sel_0004,98080,São Paulo,SP
+sel_0005,12395,Florianópolis,SC
+sel_0006,05165,Belo Horizonte,MG
+sel_0007,29657,São Paulo,SP
+sel_0008,79907,São Paulo,SP
+sel_0009,27062,São Paulo,SP
+sel_0010,92924,Porto Alegre,RS
+sel_0011,29893,Rio de Janeiro,RJ
+sel_0012,37463,Rio de Janeiro,RJ
+sel_0013,01851,Salvador,BA
+sel_0014,21926,Curitiba,PR
+sel_0015,45597,Porto Alegre,RS
+sel_0016,29221,São Paulo,SP
+sel_0017,45118,Recife,PE
+sel_0018,50797,São Paulo,SP
+sel_0019,46082,São Paulo,SP
+sel_0020,06695,Belo Horizonte,MG
+sel_0021,71284,Porto Alegre,RS
+sel_0022,50615,São Paulo,SP
+sel_0023,39427,São Paulo,SP
+sel_0024,82070,Salvador,BA
+sel_0025,48400,Florianópolis,SC
+sel_0026,93349,Belo Horizonte,MG
+sel_0027,87673,São Paulo,SP
+sel_0028,38930,São Paulo,SP
+sel_0029,31512,Fortaleza,CE
+sel_0030,50823,Florianópolis,SC
+sel_0031,84320,São Paulo,SP
+sel_0032,22319,Salvador,BA
+sel_0033,28460,São Paulo,SP
+sel_0034,92988,Porto Alegre,RS
+sel_0035,85939,Brasília,DF
+sel_0036,84227,São Paulo,SP
+sel_0037,96568,São Paulo,SP
+sel_0038,61589,São Paulo,SP
+sel_0039,84886,São Paulo,SP
+sel_0040,29785,Porto Alegre,RS
+sel_0041,08331,Porto Alegre,RS
+sel_0042,05207,São Paulo,SP
+sel_0043,53581,Salvador,BA
+sel_0044,28653,São Paulo,SP
+sel_0045,75341,Brasília,DF
+sel_0046,42245,Florianópolis,SC
+sel_0047,66435,São Paulo,SP
+sel_0048,85259,São Paulo,SP
+sel_0049,35718,Rio de Janeiro,RJ
+sel_0050,98647,São Paulo,SP
+sel_0051,35438,Belo Horizonte,MG
+sel_0052,57155,Curitiba,PR
+sel_0053,53350,Florianópolis,SC
+sel_0054,19131,São Paulo,SP
+sel_0055,12915,Rio de Janeiro,RJ
+sel_0056,15371,Curitiba,PR
+sel_0057,21969,São Paulo,SP
+sel_0058,56333,Curitiba,PR
+sel_0059,51432,Belo Horizonte,MG
+sel_0060,62348,São Paulo,SP
+sel_0061,73512,Rio de Janeiro,RJ
+sel_0062,02504,Florianópolis,SC
+sel_0063,16014,Porto Alegre,RS
+sel_0064,71381,Porto Alegre,RS
+sel_0065,85012,Curitiba,PR
+sel_0066,39469,São Paulo,SP
+sel_0067,60470,Rio de Janeiro,RJ
+sel_0068,95646,São Paulo,SP
+sel_0069,35522,Florianópolis,SC
+sel_0070,24416,Fortaleza,CE
+sel_0071,14947,Rio de Janeiro,RJ
+sel_0072,40117,Florianópolis,SC
+sel_0073,67540,Salvador,BA
+sel_0074,21032,Belo Horizonte,MG
+sel_0075,22174,São Paulo,SP
+sel_0076,70514,Rio de Janeiro,RJ
+sel_0077,79504,Brasília,DF
+sel_0078,03552,São Paulo,SP
+sel_0079,48576,São Paulo,SP
+sel_0080,41306,Florianópolis,SC
+sel_0081,32571,São Paulo,SP
+sel_0082,11322,Florianópolis,SC
+sel_0083,64699,São Paulo,SP
+sel_0084,70822,Salvador,BA
+sel_0085,17828,Curitiba,PR
+sel_0086,73063,Porto Alegre,RS
+sel_0087,70163,São Paulo,SP
+sel_0088,56461,Florianópolis,SC
+sel_0089,71686,Recife,PE
+sel_0090,91422,Curitiba,PR
+sel_0091,41857,São Paulo,SP
+sel_0092,89039,São Paulo,SP
+sel_0093,58422,Belo Horizonte,MG
+sel_0094,60177,Florianópolis,SC
+sel_0095,30451,São Paulo,SP
+sel_0096,03757,São Paulo,SP
+sel_0097,31161,Belo Horizonte,MG
+sel_0098,01942,Belo Horizonte,MG
+sel_0099,83719,São Paulo,SP
+sel_0100,09834,São Paulo,SP
+sel_0101,44309,Brasília,DF
+sel_0102,32195,São Paulo,SP
+sel_0103,64624,São Paulo,SP
+sel_0104,18342,São Paulo,SP
+sel_0105,75847,Porto Alegre,RS
+sel_0106,32850,Belo Horizonte,MG
+sel_0107,54354,Curitiba,PR
+sel_0108,13704,São Paulo,SP
+sel_0109,47438,Porto Alegre,RS
+sel_0110,62213,Rio de Janeiro,RJ
+sel_0111,08100,Florianópolis,SC
+sel_0112,85696,Porto Alegre,RS
+sel_0113,53772,São Paulo,SP
+sel_0114,15322,Porto Alegre,RS
+sel_0115,25931,São Paulo,SP
+sel_0116,19373,Rio de Janeiro,RJ
+sel_0117,37509,Rio de Janeiro,RJ
+sel_0118,10880,Rio de Janeiro,RJ
+sel_0119,73132,Rio de Janeiro,RJ
+sel_0120,86477,São Paulo,SP
+sel_0121,02934,Fortaleza,CE
+sel_0122,99771,Recife,PE
+sel_0123,22798,Salvador,BA
+sel_0124,64092,Rio de Janeiro,RJ
+sel_0125,53565,São Paulo,SP
+sel_0126,22579,Brasília,DF
+sel_0127,52173,São Paulo,SP
+sel_0128,60638,São Paulo,SP
+sel_0129,92303,São Paulo,SP
+sel_0130,73845,Recife,PE
+sel_0131,64788,Porto Alegre,RS
+sel_0132,39890,São Paulo,SP
+sel_0133,08665,São Paulo,SP
+sel_0134,72066,Belo Horizonte,MG
+sel_0135,42104,São Paulo,SP
+sel_0136,77569,São Paulo,SP
+sel_0137,70615,Rio de Janeiro,RJ
+sel_0138,67562,São Paulo,SP
+sel_0139,25356,São Paulo,SP
+sel_0140,09907,São Paulo,SP
+sel_0141,31828,Porto Alegre,RS
+sel_0142,75668,Rio de Janeiro,RJ
+sel_0143,78924,São Paulo,SP
+sel_0144,11745,São Paulo,SP
+sel_0145,77503,Rio de Janeiro,RJ
+sel_0146,42467,Belo Horizonte,MG
+sel_0147,27772,Brasília,DF
+sel_0148,42180,Porto Alegre,RS
+sel_0149,52876,São Paulo,SP
+sel_0150,85607,São Paulo,SP
+sel_0151,42441,São Paulo,SP
+sel_0152,10508,Brasília,DF
+sel_0153,82416,São Paulo,SP
+sel_0154,14104,Fortaleza,CE
+sel_0155,28938,São Paulo,SP
+sel_0156,18361,Rio de Janeiro,RJ
+sel_0157,10016,Brasília,DF
+sel_0158,49434,Florianópolis,SC
+sel_0159,58433,São Paulo,SP
+sel_0160,93214,Salvador,BA
+sel_0161,86717,São Paulo,SP
+sel_0162,88538,Rio de Janeiro,RJ
+sel_0163,40240,Salvador,BA
+sel_0164,14577,Brasília,DF
+sel_0165,18601,Brasília,DF
+sel_0166,15029,São Paulo,SP
+sel_0167,21374,Curitiba,PR
+sel_0168,80276,São Paulo,SP
+sel_0169,45942,São Paulo,SP
+sel_0170,84130,São Paulo,SP
+sel_0171,67244,Florianópolis,SC
+sel_0172,07658,Rio de Janeiro,RJ
+sel_0173,56518,São Paulo,SP
+sel_0174,06778,Salvador,BA
+sel_0175,18146,São Paulo,SP
+sel_0176,35335,Belo Horizonte,MG
+sel_0177,58912,São Paulo,SP
+sel_0178,57057,Belo Horizonte,MG
+sel_0179,15663,Belo Horizonte,MG
+sel_0180,91573,São Paulo,SP
+sel_0181,72511,Brasília,DF
+sel_0182,49393,São Paulo,SP
+sel_0183,20410,Belo Horizonte,MG
+sel_0184,06482,Rio de Janeiro,RJ
+sel_0185,06229,São Paulo,SP
+sel_0186,28535,Florianópolis,SC
+sel_0187,88416,Porto Alegre,RS
+sel_0188,74385,São Paulo,SP
+sel_0189,54264,Florianópolis,SC
+sel_0190,99235,Fortaleza,CE
+sel_0191,32029,São Paulo,SP
+sel_0192,24206,Florianópolis,SC
+sel_0193,04248,Florianópolis,SC
+sel_0194,44540,São Paulo,SP
+sel_0195,54964,Curitiba,PR
+sel_0196,97345,Salvador,BA
+sel_0197,35970,Salvador,BA
+sel_0198,92917,São Paulo,SP
+sel_0199,06075,São Paulo,SP
+sel_0200,30154,Florianópolis,SC
+sel_0201,61332,São Paulo,SP
+sel_0202,30831,São Paulo,SP
+sel_0203,87511,São Paulo,SP
+sel_0204,44025,São Paulo,SP
+sel_0205,10099,São Paulo,SP
+sel_0206,37585,Recife,PE
+sel_0207,67768,São Paulo,SP
+sel_0208,71282,São Paulo,SP
+sel_0209,04617,São Paulo,SP
+sel_0210,35237,São Paulo,SP
+sel_0211,35795,São Paulo,SP
+sel_0212,79193,São Paulo,SP
+sel_0213,96491,Rio de Janeiro,RJ
+sel_0214,58199,Curitiba,PR
+sel_0215,68033,Belo Horizonte,MG
+sel_0216,76574,São Paulo,SP
+sel_0217,06817,São Paulo,SP
+sel_0218,01221,Porto Alegre,RS
+sel_0219,71575,Rio de Janeiro,RJ
+sel_0220,98248,Porto Alegre,RS
+sel_0221,26825,Curitiba,PR
+sel_0222,10171,São Paulo,SP
+sel_0223,44279,Recife,PE
+sel_0224,87951,Belo Horizonte,MG
+sel_0225,95339,Salvador,BA
+sel_0226,67469,Brasília,DF
+sel_0227,54528,São Paulo,SP
+sel_0228,92384,São Paulo,SP
+sel_0229,17683,São Paulo,SP
+sel_0230,88153,São Paulo,SP
+sel_0231,89777,Recife,PE
+sel_0232,23810,Curitiba,PR
+sel_0233,40446,Belo Horizonte,MG
+sel_0234,01053,Rio de Janeiro,RJ
+sel_0235,28549,São Paulo,SP
+sel_0236,77019,Rio de Janeiro,RJ
+sel_0237,43237,Belo Horizonte,MG
+sel_0238,58954,Rio de Janeiro,RJ
+sel_0239,68000,Porto Alegre,RS
+sel_0240,97463,Rio de Janeiro,RJ
+sel_0241,12114,São Paulo,SP
+sel_0242,88012,São Paulo,SP
+sel_0243,44933,Belo Horizonte,MG
+sel_0244,99453,São Paulo,SP
+sel_0245,41687,São Paulo,SP
+sel_0246,27100,São Paulo,SP
+sel_0247,07057,São Paulo,SP
+sel_0248,63277,São Paulo,SP
+sel_0249,10545,Belo Horizonte,MG
+sel_0250,83544,Rio de Janeiro,RJ
+sel_0251,95155,Belo Horizonte,MG
+sel_0252,65799,Porto Alegre,RS
+sel_0253,20342,São Paulo,SP
+sel_0254,01726,Porto Alegre,RS
+sel_0255,14970,Florianópolis,SC
+sel_0256,29683,Curitiba,PR
+sel_0257,92214,São Paulo,SP
+sel_0258,07582,Rio de Janeiro,RJ
+sel_0259,16906,Belo Horizonte,MG
+sel_0260,61901,Rio de Janeiro,RJ
+sel_0261,74259,Porto Alegre,RS
+sel_0262,99992,Belo Horizonte,MG
+sel_0263,81301,Florianópolis,SC
+sel_0264,67162,Salvador,BA
+sel_0265,72810,Rio de Janeiro,RJ
+sel_0266,21861,Rio de Janeiro,RJ
+sel_0267,63216,Curitiba,PR
+sel_0268,99536,Rio de Janeiro,RJ
+sel_0269,84579,São Paulo,SP
+sel_0270,69327,São Paulo,SP
+sel_0271,32358,Rio de Janeiro,RJ
+sel_0272,11155,São Paulo,SP
+sel_0273,31735,Porto Alegre,RS
+sel_0274,42904,São Paulo,SP
+sel_0275,11561,Florianópolis,SC
+sel_0276,31311,São Paulo,SP
+sel_0277,21028,São Paulo,SP
+sel_0278,09418,Porto Alegre,RS
+sel_0279,44369,Rio de Janeiro,RJ
+sel_0280,55496,Rio de Janeiro,RJ
+sel_0281,56069,São Paulo,SP
+sel_0282,77556,São Paulo,SP
+sel_0283,03560,Recife,PE
+sel_0284,76456,Florianópolis,SC
+sel_0285,01772,São Paulo,SP
+sel_0286,40139,Recife,PE
+sel_0287,55921,Curitiba,PR
+sel_0288,97289,Rio de Janeiro,RJ
+sel_0289,80069,Rio de Janeiro,RJ
+sel_0290,64993,Florianópolis,SC
+sel_0291,58125,São Paulo,SP
+sel_0292,51968,Rio de Janeiro,RJ
+sel_0293,90016,São Paulo,SP
+sel_0294,95919,Curitiba,PR
+sel_0295,62261,São Paulo,SP
+sel_0296,82560,Brasília,DF
+sel_0297,52645,Rio de Janeiro,RJ
+sel_0298,87900,Belo Horizonte,MG
+sel_0299,85246,São Paulo,SP
+sel_0300,61515,Rio de Janeiro,RJ
+sel_0301,35099,São Paulo,SP
+sel_0302,28742,São Paulo,SP
+sel_0303,45236,Rio de Janeiro,RJ
+sel_0304,50692,Curitiba,PR
+sel_0305,56255,São Paulo,SP
+sel_0306,11735,São Paulo,SP
+sel_0307,99176,Rio de Janeiro,RJ
+sel_0308,46870,Rio de Janeiro,RJ
+sel_0309,09993,São Paulo,SP
+sel_0310,86426,Curitiba,PR
+sel_0311,05067,São Paulo,SP
+sel_0312,27130,Recife,PE
+sel_0313,82439,Salvador,BA
+sel_0314,17544,São Paulo,SP
+sel_0315,15993,Rio de Janeiro,RJ
+sel_0316,29569,Belo Horizonte,MG
+sel_0317,34586,Rio de Janeiro,RJ
+sel_0318,22992,Curitiba,PR
+sel_0319,99032,Belo Horizonte,MG
+sel_0320,22465,Porto Alegre,RS
+sel_0321,15168,Recife,PE
+sel_0322,41888,Belo Horizonte,MG
+sel_0323,50192,Belo Horizonte,MG
+sel_0324,94718,São Paulo,SP
+sel_0325,78607,São Paulo,SP
+sel_0326,83213,Porto Alegre,RS
+sel_0327,92382,São Paulo,SP
+sel_0328,90687,Curitiba,PR
+sel_0329,16866,Belo Horizonte,MG
+sel_0330,75177,Curitiba,PR
+sel_0331,46508,Curitiba,PR
+sel_0332,87706,Rio de Janeiro,RJ
+sel_0333,67317,São Paulo,SP
+sel_0334,02658,Belo Horizonte,MG
+sel_0335,65251,Salvador,BA
+sel_0336,48472,São Paulo,SP
+sel_0337,61258,Belo Horizonte,MG
+sel_0338,58080,Porto Alegre,RS
+sel_0339,69386,São Paulo,SP
+sel_0340,36400,Recife,PE
+sel_0341,71539,Belo Horizonte,MG
+sel_0342,61931,Curitiba,PR
+sel_0343,96817,Rio de Janeiro,RJ
+sel_0344,43245,Belo Horizonte,MG
+sel_0345,12359,Florianópolis,SC
+sel_0346,60087,São Paulo,SP
+sel_0347,61910,São Paulo,SP
+sel_0348,88580,Belo Horizonte,MG
+sel_0349,04761,São Paulo,SP
+sel_0350,43600,Rio de Janeiro,RJ
+sel_0351,28802,São Paulo,SP
+sel_0352,34862,São Paulo,SP
+sel_0353,79139,São Paulo,SP
+sel_0354,37211,Porto Alegre,RS
+sel_0355,68715,Belo Horizonte,MG
+sel_0356,12221,Recife,PE
+sel_0357,54271,São Paulo,SP
+sel_0358,32499,Rio de Janeiro,RJ
+sel_0359,85659,Porto Alegre,RS
+sel_0360,59743,Porto Alegre,RS
+sel_0361,13196,Curitiba,PR
+sel_0362,54005,São Paulo,SP
+sel_0363,41135,Porto Alegre,RS
+sel_0364,49368,Porto Alegre,RS
+sel_0365,70588,Rio de Janeiro,RJ
+sel_0366,98771,São Paulo,SP
+sel_0367,47112,Belo Horizonte,MG
+sel_0368,36509,Porto Alegre,RS
+sel_0369,31217,São Paulo,SP
+sel_0370,26242,São Paulo,SP
+sel_0371,98370,São Paulo,SP
+sel_0372,91461,Rio de Janeiro,RJ
+sel_0373,29361,São Paulo,SP
+sel_0374,37241,Curitiba,PR
+sel_0375,69765,Porto Alegre,RS
+sel_0376,14176,Belo Horizonte,MG
+sel_0377,39829,Salvador,BA
+sel_0378,24519,São Paulo,SP
+sel_0379,93801,São Paulo,SP
+sel_0380,36954,Rio de Janeiro,RJ
+sel_0381,08146,São Paulo,SP
+sel_0382,92411,Belo Horizonte,MG
+sel_0383,84606,Recife,PE
+sel_0384,65340,Florianópolis,SC
+sel_0385,02607,São Paulo,SP
+sel_0386,62524,Belo Horizonte,MG
+sel_0387,45657,Rio de Janeiro,RJ
+sel_0388,07734,São Paulo,SP
+sel_0389,63616,São Paulo,SP
+sel_0390,09564,São Paulo,SP
+sel_0391,10710,Rio de Janeiro,RJ
+sel_0392,90974,Belo Horizonte,MG
+sel_0393,20555,São Paulo,SP
+sel_0394,40824,Salvador,BA
+sel_0395,33530,São Paulo,SP
+sel_0396,55548,São Paulo,SP
+sel_0397,82057,Belo Horizonte,MG
+sel_0398,69494,São Paulo,SP
+sel_0399,59028,São Paulo,SP
+sel_0400,78139,São Paulo,SP
+sel_0401,41026,Fortaleza,CE
+sel_0402,08894,Belo Horizonte,MG
+sel_0403,98004,Belo Horizonte,MG
+sel_0404,28235,São Paulo,SP
+sel_0405,35687,Belo Horizonte,MG
+sel_0406,21585,Porto Alegre,RS
+sel_0407,73350,São Paulo,SP
+sel_0408,01350,São Paulo,SP
+sel_0409,91357,Rio de Janeiro,RJ
+sel_0410,39175,Belo Horizonte,MG
+sel_0411,38762,São Paulo,SP
+sel_0412,93141,Porto Alegre,RS
+sel_0413,10329,Florianópolis,SC
+sel_0414,35675,Porto Alegre,RS
+sel_0415,82927,Curitiba,PR
+sel_0416,26928,Belo Horizonte,MG
+sel_0417,72376,Rio de Janeiro,RJ
+sel_0418,20528,São Paulo,SP
+sel_0419,19643,Brasília,DF
+sel_0420,22747,São Paulo,SP
+sel_0421,78993,Curitiba,PR
+sel_0422,75607,Curitiba,PR
+sel_0423,58560,Brasília,DF
+sel_0424,91266,São Paulo,SP
+sel_0425,53757,São Paulo,SP
+sel_0426,66597,Recife,PE
+sel_0427,58377,Rio de Janeiro,RJ
+sel_0428,06224,São Paulo,SP
+sel_0429,97276,Florianópolis,SC
+sel_0430,33816,São Paulo,SP
+sel_0431,31005,São Paulo,SP
+sel_0432,76392,Recife,PE
+sel_0433,03719,Belo Horizonte,MG
+sel_0434,89117,Fortaleza,CE
+sel_0435,76529,Salvador,BA
+sel_0436,23962,São Paulo,SP
+sel_0437,86394,Rio de Janeiro,RJ
+sel_0438,37458,Rio de Janeiro,RJ
+sel_0439,77720,São Paulo,SP
+sel_0440,65451,Rio de Janeiro,RJ
+sel_0441,62605,Recife,PE
+sel_0442,44687,São Paulo,SP
+sel_0443,14710,São Paulo,SP
+sel_0444,44228,Florianópolis,SC
+sel_0445,65942,Rio de Janeiro,RJ
+sel_0446,53488,São Paulo,SP
+sel_0447,73102,Salvador,BA
+sel_0448,12542,São Paulo,SP
+sel_0449,43372,São Paulo,SP
+sel_0450,53976,São Paulo,SP
+sel_0451,01150,Florianópolis,SC
+sel_0452,72118,Porto Alegre,RS
+sel_0453,08104,Rio de Janeiro,RJ
+sel_0454,48419,São Paulo,SP
+sel_0455,66338,Belo Horizonte,MG
+sel_0456,07764,Belo Horizonte,MG
+sel_0457,72987,São Paulo,SP
+sel_0458,38752,São Paulo,SP
+sel_0459,92521,Rio de Janeiro,RJ
+sel_0460,04783,Rio de Janeiro,RJ
+sel_0461,80806,Fortaleza,CE
+sel_0462,94032,Curitiba,PR
+sel_0463,73199,São Paulo,SP
+sel_0464,54476,São Paulo,SP
+sel_0465,15871,São Paulo,SP
+sel_0466,16396,Rio de Janeiro,RJ
+sel_0467,21181,Belo Horizonte,MG
+sel_0468,94926,Rio de Janeiro,RJ
+sel_0469,93459,São Paulo,SP
+sel_0470,64242,São Paulo,SP
+sel_0471,32946,Fortaleza,CE
+sel_0472,19958,Rio de Janeiro,RJ
+sel_0473,79561,São Paulo,SP
+sel_0474,18892,Rio de Janeiro,RJ
+sel_0475,37208,Florianópolis,SC
+sel_0476,55387,Curitiba,PR
+sel_0477,67550,São Paulo,SP
+sel_0478,01336,São Paulo,SP
+sel_0479,40132,São Paulo,SP
+sel_0480,77011,Salvador,BA
+sel_0481,65178,Fortaleza,CE
+sel_0482,59529,Florianópolis,SC
+sel_0483,46236,Rio de Janeiro,RJ
+sel_0484,72228,São Paulo,SP
+sel_0485,43176,São Paulo,SP
+sel_0486,92422,Florianópolis,SC
+sel_0487,51196,São Paulo,SP
+sel_0488,54841,São Paulo,SP
+sel_0489,98609,São Paulo,SP
+sel_0490,50968,Rio de Janeiro,RJ
+sel_0491,87991,São Paulo,SP
+sel_0492,86461,Curitiba,PR
+sel_0493,65923,Fortaleza,CE
+sel_0494,17547,Recife,PE
+sel_0495,78356,Rio de Janeiro,RJ
+sel_0496,14154,São Paulo,SP
+sel_0497,58711,Florianópolis,SC
+sel_0498,60890,São Paulo,SP
+sel_0499,19894,São Paulo,SP
+sel_0500,86823,Rio de Janeiro,RJ

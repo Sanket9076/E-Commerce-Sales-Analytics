@@ -1,0 +1,14 @@
+=== E-Commerce Sales & Customer Analytics KPIs ===
+Total Revenue: $38,334,622.20
+Total Profit: $13,417,117.77
+Profit Margin: 35.00%
+Total Orders: 85,000
+Total Unique Customers: 27,829
+Average Order Value (AOV): $451.00
+Customer Lifetime Value (CLV): $1377.51
+Repeat Customer Rate: 56.51%
+Customer Retention Rate: 59.02%
+Churn Rate: 40.98%
+Average Delivery Time: 6.57 days
+Return Rate: 3.31%
+Average Review Score: 4.37 / 5.0
