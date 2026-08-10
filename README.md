@@ -144,13 +144,12 @@ Located under `/Python`, our pipeline runs on a robust, standard-library executi
 * **Sales Forecasting**: Holt-Winters additive-trend seasonal model coded from scratch in pure Python to project monthly sales for the next 6 months.
 
 ### Visual EDA Outputs:
-```carousel
+
 ![Sales Trend & Forecast](Images/sales_trend_forecast.svg)
-<!-- slide -->
+
 ![Regional Revenue](Images/regional_sales.svg)
-<!-- slide -->
+
 ![RFM Customer Segments](Images/rfm_customer_segments.svg)
-```
 
 ---
 
@@ -200,20 +199,24 @@ GROUP BY abc_class;
 
 ## 5. Power BI Interactive Dashboards
 
-Five dashboard layouts are documented in `PowerBI/dashboard_design.md` and complete DAX measures are cataloged in `PowerBI/dax_measures.md`. The design features a premium, modern dark mode aesthetic with clean card layouts, custom hover tooltips, and bookmark-based sidebar navigation.
+Five comprehensive Power BI dashboard views are fully documented in `PowerBI/dashboard_design.md` and complete DAX measures are cataloged in `PowerBI/dax_measures.md`. The design features a premium, modern dark mode aesthetic with clean card layouts, custom hover tooltips, and bookmark-based sidebar navigation.
 
-### Dashboard Previews:
-```carousel
+### Power BI Dashboard Suite Previews:
+
+#### 1. Executive Summary & C-Suite Overview
 ![Executive Summary Dashboard](Images/dashboard_executive.jpg)
-<!-- slide -->
+
+#### 2. Sales Trends & Revenue Performance
 ![Sales Performance Dashboard](Images/dashboard_sales.jpg)
-<!-- slide -->
+
+#### 3. Customer Analytics & RFM Segmentation
 ![Customer Loyalty Dashboard](Images/dashboard_customer.jpg)
-<!-- slide -->
+
+#### 4. Product Catalog & Inventory ABC Analysis
 ![Product Deep Dive](Images/dashboard_product.jpg)
-<!-- slide -->
+
+#### 5. Regional Analytics & Logistics Telemetry
 ![Regional Logistics Dashboard](Images/dashboard_regional.jpg)
-```
 
 ---
 
