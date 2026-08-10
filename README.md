@@ -1,8 +1,8 @@
-# E-Commerce Sales & Customer Analytics Portfolio Project
+# E-Commerce Sales & Supply Chain Analytics
 
-A comprehensive, industry-grade data analytics project demonstrating data engineering, exploratory data analysis (EDA), database optimization, customer segmentation, forecasting, and interactive dashboard design. 
+A comprehensive, industry-grade data analytics project demonstrating end-to-end sales analytics, supply chain telemetry, database optimization, customer segmentation, demand forecasting, and an interactive dashboard ecosystem (Power BI & Web).
 
-This project solves real-world business challenges for a scaling e-commerce company by leveraging **Python**, **SQL (MySQL)**, and **Power BI**.
+This project solves real-world business challenges for a scaling e-commerce marketplace by leveraging **Python**, **SQL (MySQL & SQLite)**, **Power BI**, and **Interactive Web Visualization**.
 
 ---
 

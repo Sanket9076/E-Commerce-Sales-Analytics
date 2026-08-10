@@ -1,6 +1,6 @@
 # Power BI Dashboard Visual Design Specification
 
-This document details the visual layouts, design system, theme tokens, and interactive setups for the 5 pages of the **E-Commerce Sales & Customer Analytics** interactive dashboard.
+This document details the visual layouts, design system, theme tokens, and interactive setups for the 5 pages of the **E-Commerce Sales & Supply Chain Analytics** interactive dashboard.
 
 ---
 

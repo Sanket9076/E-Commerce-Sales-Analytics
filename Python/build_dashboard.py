@@ -1,5 +1,5 @@
 """
-E-Commerce Sales & Customer Analytics
+E-Commerce Sales & Supply Chain Analytics
 Interactive HTML Dashboard Builder
 Generates a single self-contained dashboard.html file
 """
@@ -15,7 +15,7 @@ DB_PATH  = os.path.join(BASE_DIR, "SQL", "ecommerce_analytics.db")
 OUT_PATH = os.path.join(BASE_DIR, "dashboard.html")
 
 print("=" * 60)
-print("  E-Commerce Dashboard Builder")
+print("  E-Commerce Sales & Supply Chain Dashboard Builder")
 print("=" * 60)
 print(f"  Database : {DB_PATH}")
 print(f"  Output   : {OUT_PATH}")
@@ -156,6 +156,17 @@ sellers = cur.fetchall()
 seller_states = [r[0] for r in sellers]
 seller_rev    = [r[1] for r in sellers]
 
+# Shipping Carrier Volumes & OTIF SLA
+cur.execute("""
+    SELECT shipping_carrier, COUNT(*) AS shipments
+    FROM shipping
+    GROUP BY shipping_carrier
+    ORDER BY shipments DESC
+""")
+carrier_data = cur.fetchall()
+carrier_names = [r[0] for r in carrier_data]
+carrier_volumes = [r[1] for r in carrier_data]
+
 con.close()
 print("  [OK] Data loaded from database")
 
@@ -216,6 +227,9 @@ charts = {
     "top_states":      bar_chart(state_names, state_rev, "Top 10 States by Revenue ($)", "#00d4ff", horizontal=True),
     "top_products":    bar_chart(prod_ids, prod_revs, "Top 10 Products by Revenue ($)", "#10b981", horizontal=True),
     "seller_states":   bar_chart(seller_states, seller_rev, "Top Seller States by Revenue ($)", "#f59e0b"),
+    "shipping_status": pie_chart(ship_labels, ship_counts, "Logistics Shipping Status Breakdown",
+                                  ["#10b981","#38bdf8","#f59e0b","#ef4444"]),
+    "carrier_volumes": bar_chart(carrier_names, carrier_volumes, "Shipment Volume by Carrier", "#38bdf8"),
 }
 
 charts_json = json.dumps(charts)
@@ -390,6 +404,7 @@ HTML = f"""<!DOCTYPE html>
   <div class="nav-tab" onclick="showPage('customers')">👥 Customer Analytics</div>
   <div class="nav-tab" onclick="showPage('products')">📦 Product Analytics</div>
   <div class="nav-tab" onclick="showPage('regional')">🗺️ Regional Analytics</div>
+  <div class="nav-tab" onclick="showPage('mockups')">🎨 Power BI Mockups</div>
 </nav>
 
 <!-- Main Content -->
@@ -484,6 +499,33 @@ HTML = f"""<!DOCTYPE html>
     <div class="section-title">Seller Distribution</div>
     <div class="chart-grid cols-1">
       <div class="chart-card"><div id="ch-seller-states" style="height:320px"></div></div>
+    </div>
+  </div>
+
+  <!-- PAGE 6: Power BI Mockups -->
+  <div class="page" id="page-mockups">
+    <div class="section-title">Power BI Dashboard Mockups</div>
+    <div style="display: flex; flex-direction: column; gap: 32px; align-items: center; max-width: 1000px; margin: 0 auto; padding-bottom: 40px;">
+      <div style="width: 100%;">
+        <h3 style="margin-bottom: 12px; color: var(--accent-blue); font-size: 1.1rem;">1. Executive Summary Dashboard</h3>
+        <img src="Images/dashboard_executive.jpg" style="width: 100%; border-radius: var(--radius); border: 1px solid var(--border); box-shadow: 0 4px 20px rgba(0,0,0,0.4);" alt="Executive Summary">
+      </div>
+      <div style="width: 100%;">
+        <h3 style="margin-bottom: 12px; color: var(--accent-purple); font-size: 1.1rem;">2. Sales Trends Dashboard</h3>
+        <img src="Images/dashboard_sales.jpg" style="width: 100%; border-radius: var(--radius); border: 1px solid var(--border); box-shadow: 0 4px 20px rgba(0,0,0,0.4);" alt="Sales Trends">
+      </div>
+      <div style="width: 100%;">
+        <h3 style="margin-bottom: 12px; color: var(--accent-green); font-size: 1.1rem;">3. Customer Analytics Dashboard</h3>
+        <img src="Images/dashboard_customer.jpg" style="width: 100%; border-radius: var(--radius); border: 1px solid var(--border); box-shadow: 0 4px 20px rgba(0,0,0,0.4);" alt="Customer Analytics">
+      </div>
+      <div style="width: 100%;">
+        <h3 style="margin-bottom: 12px; color: var(--accent-amber); font-size: 1.1rem;">4. Product Analytics Dashboard</h3>
+        <img src="Images/dashboard_product.jpg" style="width: 100%; border-radius: var(--radius); border: 1px solid var(--border); box-shadow: 0 4px 20px rgba(0,0,0,0.4);" alt="Product Analytics">
+      </div>
+      <div style="width: 100%;">
+        <h3 style="margin-bottom: 12px; color: var(--accent-red); font-size: 1.1rem;">5. Regional Analytics Dashboard</h3>
+        <img src="Images/dashboard_regional.jpg" style="width: 100%; border-radius: var(--radius); border: 1px solid var(--border); box-shadow: 0 4px 20px rgba(0,0,0,0.4);" alt="Regional Analytics">
+      </div>
     </div>
   </div>
 

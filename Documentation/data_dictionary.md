@@ -1,6 +1,6 @@
-# Data Dictionary - E-Commerce Analytics Database
+# Data Dictionary - E-Commerce Sales & Supply Chain Analytics Database
 
-This document provides a detailed layout, data types, constraints, and descriptions for all tables in the relational database model of the **E-Commerce Sales & Customer Analytics** project.
+This document provides a detailed layout, data types, constraints, and descriptions for all tables in the relational database model of the **E-Commerce Sales & Supply Chain Analytics** project.
 
 ---
 

@@ -1,6 +1,6 @@
 # Power BI DAX Measures & Power Query Documentation
 
-This document lists the data transformations in Power Query and the catalog of calculated columns and DAX measures developed for the **E-Commerce Sales & Customer Analytics** project.
+This document lists the data transformations in Power Query and the catalog of calculated columns and DAX measures developed for the **E-Commerce Sales & Supply Chain Analytics** project.
 
 ---
 
@@ -189,3 +189,27 @@ in
   RETURN
       DIVIDE(Promoters - Detractors, TotalReviews, 0) * 100
   ```
+
+### D. Supply Chain & Logistics KPIs
+* **On-Time In-Full Rate (OTIF %)**: Percentage of shipments delivered on or before promised delivery date.
+  ```dax
+  OTIF % = 
+  DIVIDE(
+      CALCULATE(COUNT(Fact_Shipping[shipping_id]), Fact_Shipping[is_on_time] = 1),
+      COUNT(Fact_Shipping[shipping_id]),
+      0
+  )
+  ```
+* **Carrier SLA Breach Rate %**: Percentage of carrier shipments experiencing SLA delays.
+  ```dax
+  Carrier SLA Breach Rate % = 1 - [OTIF %]
+  ```
+* **Freight-to-Revenue Ratio %**: Percentage of gross revenue spent on freight & logistics.
+  ```dax
+  Freight-to-Revenue Ratio % = DIVIDE([Total Shipping Freight], [Total Revenue], 0)
+  ```
+* **Average Carrier Lead Time (Days)**: Average calendar days elapsed from purchase to carrier delivery.
+  ```dax
+  Avg Carrier Lead Time = AVERAGE(Fact_Shipping[delivery_lead_days])
+  ```
+

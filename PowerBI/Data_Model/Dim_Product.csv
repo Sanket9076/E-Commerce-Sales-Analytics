@@ -1,0 +1,2501 @@
+product_id,product_category_name,category_name_english,product_base_price,product_weight_g,product_length_cm,product_height_cm,product_width_cm
+prd_00001,computers_accessories,Computers & Accessories,1091.08,13326.0,97,29,12
+prd_00002,fashion_shoes,Shoes & Footwear,185.6,14172.0,91,54,40
+prd_00003,telephony,Telephony/Mobile,591.36,7109.0,15,66,36
+prd_00004,books_stationery,Books & Stationery,30.64,14705.0,82,51,24
+prd_00005,electronics,Electronics,277.8,3285.0,36,26,73
+prd_00006,fashion_shoes,Shoes & Footwear,62.26,917.0,65,56,55
+prd_00007,fashion_clothing,Fashion & Apparel,64.86,2687.0,47,32,78
+prd_00008,automotive,Automotive Parts,40.56,9444.0,25,20,22
+prd_00009,health_perfumery,Health & Perfumery,51.38,13428.0,36,6,61
+prd_00010,electronics,Electronics,389.6,3926.0,99,10,53
+prd_00011,fashion_clothing,Fashion & Apparel,72.84,642.0,93,11,13
+prd_00012,toys,Toys & Games,120.26,497.0,13,65,48
+prd_00013,home_appliances,Home Appliances,320.24,6388.0,58,43,29
+prd_00014,electronics,Electronics,617.88,4079.0,59,58,20
+prd_00015,health_perfumery,Health & Perfumery,74.92,6378.0,54,26,12
+prd_00016,fashion_shoes,Shoes & Footwear,163.98,9208.0,27,12,60
+prd_00017,books_stationery,Books & Stationery,41.65,8768.0,69,72,63
+prd_00018,garden_tools,Garden Tools,121.88,5189.0,25,29,34
+prd_00019,sports_leisure,Sports & Leisure,68.27,7792.0,62,12,70
+prd_00020,beauty_cosmetics,Beauty & Cosmetics,91.5,2923.0,89,27,36
+prd_00021,automotive,Automotive Parts,386.04,10159.0,66,45,77
+prd_00022,fashion_shoes,Shoes & Footwear,162.22,9984.0,19,34,31
+prd_00023,toys,Toys & Games,81.0,11602.0,51,52,77
+prd_00024,fashion_clothing,Fashion & Apparel,26.95,7416.0,31,14,79
+prd_00025,automotive,Automotive Parts,185.79,2207.0,21,60,53
+prd_00026,housewares,Housewares,82.26,8457.0,81,31,38
+prd_00027,toys,Toys & Games,99.4,1878.0,77,27,20
+prd_00028,home_appliances,Home Appliances,556.79,8407.0,18,45,38
+prd_00029,fashion_clothing,Fashion & Apparel,117.05,5273.0,38,37,62
+prd_00030,home_appliances,Home Appliances,149.18,5644.0,42,6,32
+prd_00031,office_furniture,Office Furniture,229.57,9609.0,45,63,46
+prd_00032,health_perfumery,Health & Perfumery,113.57,6588.0,22,61,29
+prd_00033,electronics,Electronics,675.13,4319.0,54,39,36
+prd_00034,telephony,Telephony/Mobile,816.93,7576.0,71,22,42
+prd_00035,telephony,Telephony/Mobile,555.75,4834.0,44,21,39
+prd_00036,beauty_cosmetics,Beauty & Cosmetics,53.81,8384.0,55,24,63
+prd_00037,books_stationery,Books & Stationery,36.47,10098.0,47,22,75
+prd_00038,electronics,Electronics,270.61,13438.0,14,33,34
+prd_00039,sports_leisure,Sports & Leisure,168.38,10855.0,87,70,42
+prd_00040,fashion_clothing,Fashion & Apparel,26.39,4394.0,88,53,29
+prd_00041,fashion_clothing,Fashion & Apparel,72.18,4295.0,65,79,59
+prd_00042,electronics,Electronics,793.19,9346.0,38,10,33
+prd_00043,housewares,Housewares,11.47,7658.0,73,29,16
+prd_00044,sports_leisure,Sports & Leisure,183.96,10015.0,79,20,64
+prd_00045,fashion_clothing,Fashion & Apparel,27.76,3237.0,40,67,72
+prd_00046,electronics,Electronics,84.27,3756.0,23,70,18
+prd_00047,toys,Toys & Games,17.26,8879.0,91,74,38
+prd_00048,garden_tools,Garden Tools,148.56,7661.0,13,27,61
+prd_00049,automotive,Automotive Parts,306.92,7641.0,69,45,16
+prd_00050,books_stationery,Books & Stationery,30.11,10890.0,73,65,26
+prd_00051,fashion_clothing,Fashion & Apparel,85.4,3724.0,64,32,63
+prd_00052,electronics,Electronics,177.46,2532.0,42,8,78
+prd_00053,electronics,Electronics,473.62,5360.0,22,48,39
+prd_00054,sports_leisure,Sports & Leisure,100.28,14312.0,47,66,49
+prd_00055,electronics,Electronics,537.73,7950.0,44,17,21
+prd_00056,sports_leisure,Sports & Leisure,242.5,13561.0,70,36,79
+prd_00057,fashion_shoes,Shoes & Footwear,84.66,2719.0,13,11,11
+prd_00058,housewares,Housewares,146.89,4928.0,71,20,78
+prd_00059,books_stationery,Books & Stationery,33.1,3212.0,49,80,16
+prd_00060,electronics,Electronics,365.9,8170.0,97,30,69
+prd_00061,telephony,Telephony/Mobile,387.24,10439.0,42,44,43
+prd_00062,fashion_shoes,Shoes & Footwear,45.31,3349.0,90,21,27
+prd_00063,electronics,Electronics,168.16,8913.0,72,57,57
+prd_00064,fashion_clothing,Fashion & Apparel,44.2,8907.0,49,63,13
+prd_00065,sports_leisure,Sports & Leisure,152.2,7005.0,26,27,71
+prd_00066,fashion_clothing,Fashion & Apparel,22.19,1319.0,93,17,33
+prd_00067,electronics,Electronics,94.24,12935.0,56,63,23
+prd_00068,beauty_cosmetics,Beauty & Cosmetics,19.79,11093.0,19,15,80
+prd_00069,health_perfumery,Health & Perfumery,26.01,12265.0,26,5,78
+prd_00070,electronics,Electronics,524.48,6800.0,96,42,36
+prd_00071,fashion_shoes,Shoes & Footwear,198.19,5813.0,16,70,71
+prd_00072,fashion_shoes,Shoes & Footwear,143.72,13545.0,50,43,53
+prd_00073,fashion_shoes,Shoes & Footwear,160.21,7336.0,92,47,36
+prd_00074,health_perfumery,Health & Perfumery,55.34,8607.0,29,62,66
+prd_00075,fashion_clothing,Fashion & Apparel,115.16,1732.0,75,33,14
+prd_00076,fashion_clothing,Fashion & Apparel,25.35,3108.0,98,66,43
+prd_00077,telephony,Telephony/Mobile,967.04,2513.0,98,51,55
+prd_00078,fashion_clothing,Fashion & Apparel,48.68,8875.0,29,41,37
+prd_00079,beauty_cosmetics,Beauty & Cosmetics,90.46,11830.0,60,65,41
+prd_00080,beauty_cosmetics,Beauty & Cosmetics,27.35,8665.0,59,23,20
+prd_00081,fashion_clothing,Fashion & Apparel,115.88,1635.0,53,31,48
+prd_00082,fashion_shoes,Shoes & Footwear,147.71,4062.0,35,68,34
+prd_00083,computers_accessories,Computers & Accessories,552.19,4008.0,48,76,18
+prd_00084,sports_leisure,Sports & Leisure,101.73,10873.0,81,28,62
+prd_00085,garden_tools,Garden Tools,45.21,929.0,68,6,60
+prd_00086,sports_leisure,Sports & Leisure,15.43,9123.0,22,54,25
+prd_00087,toys,Toys & Games,102.86,9192.0,37,65,11
+prd_00088,computers_accessories,Computers & Accessories,279.99,10605.0,22,50,33
+prd_00089,fashion_clothing,Fashion & Apparel,53.74,3053.0,63,57,30
+prd_00090,automotive,Automotive Parts,26.73,1166.0,39,23,80
+prd_00091,health_perfumery,Health & Perfumery,77.59,4559.0,12,80,75
+prd_00092,garden_tools,Garden Tools,74.67,1573.0,59,38,18
+prd_00093,telephony,Telephony/Mobile,357.79,12558.0,58,30,42
+prd_00094,home_appliances,Home Appliances,608.42,6774.0,73,60,41
+prd_00095,computers_accessories,Computers & Accessories,174.96,9272.0,50,61,43
+prd_00096,fashion_clothing,Fashion & Apparel,56.95,8180.0,18,31,22
+prd_00097,sports_leisure,Sports & Leisure,209.5,8048.0,59,22,42
+prd_00098,office_furniture,Office Furniture,278.22,7636.0,31,22,32
+prd_00099,home_appliances,Home Appliances,579.5,6409.0,76,32,10
+prd_00100,fashion_clothing,Fashion & Apparel,61.37,10718.0,14,79,16
+prd_00101,computers_accessories,Computers & Accessories,376.04,4887.0,34,79,30
+prd_00102,health_perfumery,Health & Perfumery,15.12,12070.0,93,17,10
+prd_00103,electronics,Electronics,246.6,8869.0,90,52,57
+prd_00104,sports_leisure,Sports & Leisure,249.69,4154.0,35,73,72
+prd_00105,sports_leisure,Sports & Leisure,177.11,603.0,37,16,57
+prd_00106,fashion_clothing,Fashion & Apparel,21.87,14397.0,43,24,38
+prd_00107,health_perfumery,Health & Perfumery,48.04,9869.0,32,40,70
+prd_00108,fashion_clothing,Fashion & Apparel,70.28,11586.0,93,62,33
+prd_00109,toys,Toys & Games,75.5,8657.0,87,44,19
+prd_00110,fashion_shoes,Shoes & Footwear,53.69,9841.0,70,15,39
+prd_00111,sports_leisure,Sports & Leisure,124.1,7724.0,98,77,25
+prd_00112,fashion_shoes,Shoes & Footwear,174.61,9904.0,79,74,29
+prd_00113,beauty_cosmetics,Beauty & Cosmetics,17.18,7168.0,94,11,77
+prd_00114,office_furniture,Office Furniture,263.32,5665.0,96,44,74
+prd_00115,home_appliances,Home Appliances,577.78,13038.0,18,70,22
+prd_00116,fashion_clothing,Fashion & Apparel,78.21,4870.0,37,34,50
+prd_00117,electronics,Electronics,585.41,661.0,77,31,70
+prd_00118,fashion_clothing,Fashion & Apparel,114.25,9567.0,89,34,59
+prd_00119,electronics,Electronics,547.78,9798.0,34,33,55
+prd_00120,electronics,Electronics,95.91,9408.0,20,65,55
+prd_00121,computers_accessories,Computers & Accessories,806.78,9574.0,97,79,39
+prd_00122,fashion_shoes,Shoes & Footwear,173.13,13038.0,18,28,73
+prd_00123,sports_leisure,Sports & Leisure,200.82,11658.0,54,80,32
+prd_00124,home_appliances,Home Appliances,919.62,3147.0,73,6,32
+prd_00125,electronics,Electronics,292.38,808.0,41,14,62
+prd_00126,housewares,Housewares,27.03,8672.0,86,11,70
+prd_00127,electronics,Electronics,733.11,8944.0,50,74,78
+prd_00128,electronics,Electronics,709.97,12776.0,42,51,55
+prd_00129,fashion_clothing,Fashion & Apparel,17.84,7527.0,65,45,73
+prd_00130,home_appliances,Home Appliances,460.69,11121.0,85,79,67
+prd_00131,office_furniture,Office Furniture,241.25,8151.0,31,70,68
+prd_00132,telephony,Telephony/Mobile,351.18,4148.0,95,7,73
+prd_00133,electronics,Electronics,375.06,8032.0,62,38,71
+prd_00134,beauty_cosmetics,Beauty & Cosmetics,47.24,1601.0,50,13,39
+prd_00135,beauty_cosmetics,Beauty & Cosmetics,54.04,6740.0,95,26,55
+prd_00136,health_perfumery,Health & Perfumery,34.63,13798.0,76,68,75
+prd_00137,computers_accessories,Computers & Accessories,1249.13,4412.0,35,50,39
+prd_00138,electronics,Electronics,606.72,7996.0,97,16,51
+prd_00139,computers_accessories,Computers & Accessories,662.45,5850.0,98,34,22
+prd_00140,electronics,Electronics,261.85,3079.0,92,42,34
+prd_00141,electronics,Electronics,214.1,8505.0,20,51,19
+prd_00142,housewares,Housewares,50.24,13403.0,78,14,25
+prd_00143,fashion_shoes,Shoes & Footwear,164.15,656.0,32,80,27
+prd_00144,housewares,Housewares,67.58,2148.0,46,51,17
+prd_00145,computers_accessories,Computers & Accessories,719.4,8495.0,18,21,63
+prd_00146,office_furniture,Office Furniture,282.79,5420.0,22,76,20
+prd_00147,beauty_cosmetics,Beauty & Cosmetics,25.06,13849.0,25,79,40
+prd_00148,home_appliances,Home Appliances,522.99,6186.0,81,14,14
+prd_00149,electronics,Electronics,461.09,6138.0,98,78,11
+prd_00150,computers_accessories,Computers & Accessories,352.73,7835.0,77,59,41
+prd_00151,computers_accessories,Computers & Accessories,204.76,1646.0,71,66,37
+prd_00152,toys,Toys & Games,147.59,4557.0,12,70,10
+prd_00153,computers_accessories,Computers & Accessories,194.28,6223.0,16,37,66
+prd_00154,electronics,Electronics,570.59,275.0,82,21,11
+prd_00155,books_stationery,Books & Stationery,31.51,2559.0,66,64,59
+prd_00156,housewares,Housewares,122.22,4113.0,59,59,79
+prd_00157,toys,Toys & Games,101.37,6452.0,45,42,19
+prd_00158,electronics,Electronics,742.97,12657.0,65,17,37
+prd_00159,toys,Toys & Games,46.69,13229.0,63,53,79
+prd_00160,books_stationery,Books & Stationery,40.42,1414.0,32,20,42
+prd_00161,fashion_clothing,Fashion & Apparel,83.93,4709.0,69,43,68
+prd_00162,telephony,Telephony/Mobile,473.61,11847.0,96,40,76
+prd_00163,health_perfumery,Health & Perfumery,95.85,11183.0,82,53,45
+prd_00164,fashion_clothing,Fashion & Apparel,112.98,13204.0,48,15,49
+prd_00165,fashion_shoes,Shoes & Footwear,94.13,5687.0,41,49,78
+prd_00166,sports_leisure,Sports & Leisure,118.02,12062.0,45,12,45
+prd_00167,housewares,Housewares,90.14,5201.0,33,5,66
+prd_00168,home_appliances,Home Appliances,578.74,3385.0,61,23,59
+prd_00169,health_perfumery,Health & Perfumery,53.3,11346.0,35,54,41
+prd_00170,sports_leisure,Sports & Leisure,271.79,2301.0,54,72,16
+prd_00171,fashion_shoes,Shoes & Footwear,42.59,4220.0,35,33,70
+prd_00172,fashion_clothing,Fashion & Apparel,84.18,665.0,61,7,59
+prd_00173,sports_leisure,Sports & Leisure,295.12,2319.0,51,73,28
+prd_00174,health_perfumery,Health & Perfumery,19.88,13028.0,88,52,54
+prd_00175,electronics,Electronics,125.16,14025.0,23,74,26
+prd_00176,toys,Toys & Games,138.85,10516.0,13,47,45
+prd_00177,electronics,Electronics,372.17,5845.0,69,46,65
+prd_00178,housewares,Housewares,48.32,5274.0,15,14,78
+prd_00179,toys,Toys & Games,128.35,7957.0,36,66,59
+prd_00180,fashion_clothing,Fashion & Apparel,100.15,3432.0,55,25,69
+prd_00181,home_appliances,Home Appliances,893.46,8074.0,93,8,12
+prd_00182,computers_accessories,Computers & Accessories,1322.02,6126.0,47,30,47
+prd_00183,health_perfumery,Health & Perfumery,61.9,10281.0,82,51,79
+prd_00184,sports_leisure,Sports & Leisure,273.2,2855.0,60,16,44
+prd_00185,books_stationery,Books & Stationery,12.99,12764.0,47,53,41
+prd_00186,sports_leisure,Sports & Leisure,73.83,1223.0,57,8,61
+prd_00187,electronics,Electronics,635.23,1027.0,78,80,26
+prd_00188,fashion_shoes,Shoes & Footwear,113.9,9083.0,93,15,23
+prd_00189,electronics,Electronics,796.14,12579.0,99,28,38
+prd_00190,housewares,Housewares,122.84,207.0,76,12,44
+prd_00191,home_appliances,Home Appliances,922.38,891.0,52,12,54
+prd_00192,fashion_clothing,Fashion & Apparel,34.06,11828.0,72,40,30
+prd_00193,sports_leisure,Sports & Leisure,258.85,9572.0,85,47,68
+prd_00194,electronics,Electronics,433.93,2856.0,22,18,78
+prd_00195,telephony,Telephony/Mobile,541.86,2461.0,93,31,62
+prd_00196,toys,Toys & Games,69.09,2460.0,54,70,38
+prd_00197,fashion_shoes,Shoes & Footwear,167.56,6354.0,35,66,53
+prd_00198,housewares,Housewares,49.35,4186.0,42,52,49
+prd_00199,beauty_cosmetics,Beauty & Cosmetics,17.13,7145.0,75,23,75
+prd_00200,automotive,Automotive Parts,221.66,11459.0,41,30,44
+prd_00201,computers_accessories,Computers & Accessories,794.59,10217.0,25,17,37
+prd_00202,housewares,Housewares,66.71,4439.0,93,12,32
+prd_00203,health_perfumery,Health & Perfumery,103.54,7187.0,53,5,78
+prd_00204,sports_leisure,Sports & Leisure,187.55,1575.0,81,15,43
+prd_00205,computers_accessories,Computers & Accessories,201.09,3120.0,100,42,34
+prd_00206,fashion_clothing,Fashion & Apparel,42.06,1644.0,20,59,45
+prd_00207,health_perfumery,Health & Perfumery,58.69,2965.0,59,34,38
+prd_00208,sports_leisure,Sports & Leisure,126.74,7602.0,76,48,28
+prd_00209,computers_accessories,Computers & Accessories,527.75,1655.0,21,20,73
+prd_00210,health_perfumery,Health & Perfumery,67.98,2478.0,89,24,66
+prd_00211,fashion_shoes,Shoes & Footwear,111.4,13314.0,89,69,75
+prd_00212,computers_accessories,Computers & Accessories,257.78,12409.0,88,77,34
+prd_00213,fashion_clothing,Fashion & Apparel,103.43,9977.0,100,61,35
+prd_00214,fashion_shoes,Shoes & Footwear,48.11,954.0,24,27,66
+prd_00215,electronics,Electronics,281.49,6662.0,69,47,56
+prd_00216,electronics,Electronics,210.02,1166.0,86,13,39
+prd_00217,health_perfumery,Health & Perfumery,32.96,909.0,90,63,29
+prd_00218,telephony,Telephony/Mobile,777.67,7581.0,61,38,70
+prd_00219,beauty_cosmetics,Beauty & Cosmetics,50.73,14141.0,21,26,53
+prd_00220,sports_leisure,Sports & Leisure,182.75,9276.0,75,62,65
+prd_00221,housewares,Housewares,28.94,4999.0,40,16,34
+prd_00222,health_perfumery,Health & Perfumery,119.17,12941.0,58,65,68
+prd_00223,sports_leisure,Sports & Leisure,239.29,2653.0,96,16,18
+prd_00224,sports_leisure,Sports & Leisure,70.49,4706.0,92,37,33
+prd_00225,automotive,Automotive Parts,354.94,1836.0,42,23,52
+prd_00226,sports_leisure,Sports & Leisure,184.12,7697.0,59,12,77
+prd_00227,office_furniture,Office Furniture,448.71,1178.0,12,62,40
+prd_00228,telephony,Telephony/Mobile,833.74,2670.0,42,47,61
+prd_00229,toys,Toys & Games,71.8,8853.0,69,80,57
+prd_00230,home_appliances,Home Appliances,621.84,274.0,53,80,77
+prd_00231,sports_leisure,Sports & Leisure,94.73,13611.0,26,28,45
+prd_00232,garden_tools,Garden Tools,205.7,1494.0,82,39,47
+prd_00233,fashion_shoes,Shoes & Footwear,30.28,2476.0,12,41,31
+prd_00234,telephony,Telephony/Mobile,327.48,11524.0,58,35,64
+prd_00235,telephony,Telephony/Mobile,365.61,2687.0,62,68,74
+prd_00236,fashion_clothing,Fashion & Apparel,87.61,8655.0,38,34,49
+prd_00237,telephony,Telephony/Mobile,136.8,13772.0,44,13,72
+prd_00238,electronics,Electronics,594.41,5033.0,83,5,44
+prd_00239,fashion_shoes,Shoes & Footwear,126.25,8906.0,31,75,58
+prd_00240,fashion_clothing,Fashion & Apparel,67.5,7809.0,44,27,79
+prd_00241,health_perfumery,Health & Perfumery,72.52,1693.0,35,65,29
+prd_00242,housewares,Housewares,15.51,10725.0,71,22,23
+prd_00243,electronics,Electronics,673.58,2089.0,35,69,25
+prd_00244,computers_accessories,Computers & Accessories,461.58,14490.0,54,15,15
+prd_00245,housewares,Housewares,126.81,2130.0,77,60,50
+prd_00246,fashion_clothing,Fashion & Apparel,93.18,10959.0,88,28,26
+prd_00247,housewares,Housewares,149.87,4403.0,78,40,10
+prd_00248,fashion_clothing,Fashion & Apparel,55.42,12788.0,32,34,49
+prd_00249,beauty_cosmetics,Beauty & Cosmetics,27.59,12342.0,50,71,60
+prd_00250,telephony,Telephony/Mobile,261.41,4750.0,19,70,22
+prd_00251,fashion_clothing,Fashion & Apparel,66.29,6687.0,96,58,45
+prd_00252,fashion_shoes,Shoes & Footwear,158.09,6927.0,99,73,30
+prd_00253,fashion_shoes,Shoes & Footwear,199.03,12827.0,44,10,58
+prd_00254,home_appliances,Home Appliances,831.89,8149.0,26,62,61
+prd_00255,automotive,Automotive Parts,68.52,10004.0,55,38,32
+prd_00256,home_appliances,Home Appliances,569.02,14264.0,40,64,73
+prd_00257,telephony,Telephony/Mobile,710.6,428.0,87,25,30
+prd_00258,telephony,Telephony/Mobile,930.44,5040.0,22,42,48
+prd_00259,health_perfumery,Health & Perfumery,92.63,662.0,48,34,55
+prd_00260,home_appliances,Home Appliances,316.58,7123.0,92,32,32
+prd_00261,computers_accessories,Computers & Accessories,855.81,8861.0,52,33,44
+prd_00262,health_perfumery,Health & Perfumery,95.91,1546.0,34,45,28
+prd_00263,telephony,Telephony/Mobile,156.84,6325.0,69,44,23
+prd_00264,toys,Toys & Games,127.72,6428.0,80,56,24
+prd_00265,fashion_clothing,Fashion & Apparel,83.55,10829.0,98,20,48
+prd_00266,books_stationery,Books & Stationery,57.94,10168.0,37,45,58
+prd_00267,electronics,Electronics,606.64,12445.0,71,15,44
+prd_00268,housewares,Housewares,12.91,3191.0,43,69,60
+prd_00269,sports_leisure,Sports & Leisure,161.65,13102.0,73,10,48
+prd_00270,electronics,Electronics,168.61,9988.0,79,27,18
+prd_00271,health_perfumery,Health & Perfumery,60.41,5420.0,65,40,42
+prd_00272,beauty_cosmetics,Beauty & Cosmetics,50.08,12460.0,59,34,57
+prd_00273,electronics,Electronics,538.25,897.0,43,19,54
+prd_00274,books_stationery,Books & Stationery,58.75,513.0,47,7,70
+prd_00275,fashion_clothing,Fashion & Apparel,31.5,12118.0,18,69,66
+prd_00276,fashion_shoes,Shoes & Footwear,152.19,9779.0,27,80,58
+prd_00277,telephony,Telephony/Mobile,156.34,12722.0,82,20,17
+prd_00278,books_stationery,Books & Stationery,16.04,2920.0,69,49,14
+prd_00279,electronics,Electronics,52.12,5262.0,77,21,66
+prd_00280,fashion_clothing,Fashion & Apparel,85.58,10925.0,65,44,20
+prd_00281,fashion_clothing,Fashion & Apparel,35.66,6836.0,35,11,52
+prd_00282,telephony,Telephony/Mobile,991.18,4109.0,76,71,70
+prd_00283,beauty_cosmetics,Beauty & Cosmetics,71.65,10577.0,35,34,25
+prd_00284,health_perfumery,Health & Perfumery,16.39,9795.0,49,6,40
+prd_00285,housewares,Housewares,120.69,11154.0,10,11,52
+prd_00286,sports_leisure,Sports & Leisure,225.94,1520.0,30,7,70
+prd_00287,computers_accessories,Computers & Accessories,1069.25,13240.0,68,39,13
+prd_00288,fashion_shoes,Shoes & Footwear,88.19,1838.0,61,68,37
+prd_00289,health_perfumery,Health & Perfumery,109.37,11506.0,51,44,74
+prd_00290,books_stationery,Books & Stationery,44.06,292.0,27,34,41
+prd_00291,beauty_cosmetics,Beauty & Cosmetics,69.39,2602.0,97,68,75
+prd_00292,electronics,Electronics,284.98,10039.0,28,49,16
+prd_00293,fashion_shoes,Shoes & Footwear,91.5,7342.0,82,46,22
+prd_00294,home_appliances,Home Appliances,528.48,6140.0,70,32,23
+prd_00295,fashion_clothing,Fashion & Apparel,18.93,13479.0,98,41,12
+prd_00296,home_appliances,Home Appliances,396.06,7331.0,35,59,29
+prd_00297,electronics,Electronics,481.14,1341.0,100,47,24
+prd_00298,fashion_clothing,Fashion & Apparel,55.83,1515.0,96,30,36
+prd_00299,computers_accessories,Computers & Accessories,779.46,4771.0,37,50,19
+prd_00300,books_stationery,Books & Stationery,9.26,7071.0,29,40,49
+prd_00301,telephony,Telephony/Mobile,498.95,8931.0,22,68,75
+prd_00302,books_stationery,Books & Stationery,40.83,4781.0,45,68,28
+prd_00303,office_furniture,Office Furniture,341.43,9252.0,11,8,12
+prd_00304,electronics,Electronics,374.39,5870.0,73,6,77
+prd_00305,electronics,Electronics,194.76,13405.0,58,17,16
+prd_00306,electronics,Electronics,66.91,4461.0,15,17,53
+prd_00307,home_appliances,Home Appliances,950.18,7802.0,83,53,50
+prd_00308,fashion_shoes,Shoes & Footwear,122.26,5780.0,30,47,27
+prd_00309,computers_accessories,Computers & Accessories,209.32,413.0,60,52,45
+prd_00310,automotive,Automotive Parts,127.51,3402.0,45,47,13
+prd_00311,telephony,Telephony/Mobile,620.64,3317.0,43,22,38
+prd_00312,sports_leisure,Sports & Leisure,36.85,7433.0,65,75,71
+prd_00313,sports_leisure,Sports & Leisure,22.63,5257.0,75,15,51
+prd_00314,fashion_clothing,Fashion & Apparel,51.62,8459.0,67,61,20
+prd_00315,home_appliances,Home Appliances,980.56,9423.0,78,47,27
+prd_00316,fashion_clothing,Fashion & Apparel,35.58,9332.0,16,74,58
+prd_00317,beauty_cosmetics,Beauty & Cosmetics,21.15,5487.0,81,14,65
+prd_00318,home_appliances,Home Appliances,881.23,6169.0,69,39,60
+prd_00319,health_perfumery,Health & Perfumery,111.42,8905.0,59,63,69
+prd_00320,housewares,Housewares,36.99,9708.0,95,27,15
+prd_00321,telephony,Telephony/Mobile,735.38,5066.0,99,29,46
+prd_00322,beauty_cosmetics,Beauty & Cosmetics,25.55,14933.0,78,6,64
+prd_00323,garden_tools,Garden Tools,108.8,13325.0,36,61,66
+prd_00324,beauty_cosmetics,Beauty & Cosmetics,58.99,4179.0,12,67,12
+prd_00325,beauty_cosmetics,Beauty & Cosmetics,10.07,12879.0,48,19,32
+prd_00326,home_appliances,Home Appliances,161.7,14228.0,81,80,52
+prd_00327,electronics,Electronics,493.89,9485.0,95,22,31
+prd_00328,fashion_clothing,Fashion & Apparel,98.54,5681.0,74,22,27
+prd_00329,sports_leisure,Sports & Leisure,262.97,2727.0,12,44,34
+prd_00330,books_stationery,Books & Stationery,15.29,4631.0,88,41,14
+prd_00331,fashion_clothing,Fashion & Apparel,15.93,11316.0,69,74,58
+prd_00332,health_perfumery,Health & Perfumery,18.8,2844.0,22,40,41
+prd_00333,health_perfumery,Health & Perfumery,23.06,9304.0,27,21,18
+prd_00334,beauty_cosmetics,Beauty & Cosmetics,46.48,3284.0,95,24,51
+prd_00335,fashion_clothing,Fashion & Apparel,65.94,8093.0,19,72,14
+prd_00336,health_perfumery,Health & Perfumery,59.04,13365.0,86,80,72
+prd_00337,health_perfumery,Health & Perfumery,90.03,13110.0,15,26,52
+prd_00338,electronics,Electronics,589.02,7359.0,60,25,58
+prd_00339,housewares,Housewares,141.51,4833.0,99,24,44
+prd_00340,fashion_clothing,Fashion & Apparel,68.06,4140.0,49,39,72
+prd_00341,fashion_clothing,Fashion & Apparel,32.86,9980.0,86,13,49
+prd_00342,electronics,Electronics,664.12,9187.0,73,58,38
+prd_00343,fashion_shoes,Shoes & Footwear,82.37,4036.0,83,6,52
+prd_00344,fashion_clothing,Fashion & Apparel,103.01,11907.0,32,29,37
+prd_00345,toys,Toys & Games,141.85,9786.0,14,31,68
+prd_00346,fashion_clothing,Fashion & Apparel,16.02,11089.0,15,55,19
+prd_00347,office_furniture,Office Furniture,238.26,13730.0,68,71,22
+prd_00348,telephony,Telephony/Mobile,202.36,14763.0,79,14,68
+prd_00349,automotive,Automotive Parts,55.14,12340.0,58,71,70
+prd_00350,beauty_cosmetics,Beauty & Cosmetics,22.47,1973.0,26,71,34
+prd_00351,telephony,Telephony/Mobile,960.35,13276.0,82,41,28
+prd_00352,electronics,Electronics,334.0,10058.0,69,14,10
+prd_00353,computers_accessories,Computers & Accessories,754.54,2042.0,75,18,56
+prd_00354,electronics,Electronics,566.18,1217.0,75,37,68
+prd_00355,electronics,Electronics,733.43,3505.0,55,30,16
+prd_00356,fashion_clothing,Fashion & Apparel,50.77,3800.0,36,60,53
+prd_00357,sports_leisure,Sports & Leisure,281.52,2594.0,24,8,21
+prd_00358,fashion_shoes,Shoes & Footwear,109.99,10164.0,88,60,39
+prd_00359,sports_leisure,Sports & Leisure,61.42,9423.0,37,21,79
+prd_00360,health_perfumery,Health & Perfumery,50.68,4234.0,45,31,14
+prd_00361,fashion_clothing,Fashion & Apparel,91.87,12998.0,17,70,66
+prd_00362,fashion_clothing,Fashion & Apparel,111.52,579.0,43,37,20
+prd_00363,health_perfumery,Health & Perfumery,51.06,14282.0,48,23,68
+prd_00364,housewares,Housewares,81.79,6173.0,93,50,46
+prd_00365,health_perfumery,Health & Perfumery,87.53,9510.0,67,27,27
+prd_00366,health_perfumery,Health & Perfumery,29.42,2453.0,57,77,43
+prd_00367,fashion_shoes,Shoes & Footwear,57.49,2689.0,51,50,10
+prd_00368,fashion_clothing,Fashion & Apparel,31.02,12140.0,31,42,47
+prd_00369,home_appliances,Home Appliances,764.79,2770.0,51,64,73
+prd_00370,fashion_clothing,Fashion & Apparel,105.63,4242.0,20,31,21
+prd_00371,fashion_clothing,Fashion & Apparel,61.1,7241.0,89,13,63
+prd_00372,beauty_cosmetics,Beauty & Cosmetics,30.18,8472.0,75,69,60
+prd_00373,electronics,Electronics,53.74,2998.0,34,37,26
+prd_00374,electronics,Electronics,577.69,12726.0,87,17,68
+prd_00375,electronics,Electronics,728.82,14663.0,73,24,28
+prd_00376,health_perfumery,Health & Perfumery,38.31,345.0,49,45,80
+prd_00377,fashion_clothing,Fashion & Apparel,95.38,4930.0,93,80,70
+prd_00378,telephony,Telephony/Mobile,941.38,1272.0,79,47,71
+prd_00379,housewares,Housewares,71.25,3693.0,89,76,50
+prd_00380,computers_accessories,Computers & Accessories,1403.29,13698.0,13,16,62
+prd_00381,home_appliances,Home Appliances,794.11,11695.0,14,9,62
+prd_00382,fashion_clothing,Fashion & Apparel,84.48,6158.0,30,74,73
+prd_00383,fashion_clothing,Fashion & Apparel,16.64,7586.0,47,62,22
+prd_00384,fashion_shoes,Shoes & Footwear,140.23,3237.0,46,13,46
+prd_00385,fashion_shoes,Shoes & Footwear,127.5,9346.0,96,32,55
+prd_00386,fashion_shoes,Shoes & Footwear,113.0,14152.0,55,37,52
+prd_00387,sports_leisure,Sports & Leisure,15.29,13517.0,22,39,38
+prd_00388,fashion_clothing,Fashion & Apparel,49.66,250.0,31,25,62
+prd_00389,telephony,Telephony/Mobile,319.4,5018.0,67,7,64
+prd_00390,books_stationery,Books & Stationery,55.43,10104.0,53,60,80
+prd_00391,fashion_shoes,Shoes & Footwear,122.96,130.0,72,68,43
+prd_00392,fashion_clothing,Fashion & Apparel,101.25,7382.0,41,75,57
+prd_00393,garden_tools,Garden Tools,141.27,3445.0,13,11,70
+prd_00394,toys,Toys & Games,96.55,6316.0,43,6,60
+prd_00395,health_perfumery,Health & Perfumery,30.64,12416.0,43,56,62
+prd_00396,beauty_cosmetics,Beauty & Cosmetics,97.09,13370.0,80,23,27
+prd_00397,fashion_shoes,Shoes & Footwear,90.44,11811.0,68,59,61
+prd_00398,electronics,Electronics,164.42,4387.0,23,64,13
+prd_00399,beauty_cosmetics,Beauty & Cosmetics,60.39,3360.0,28,36,71
+prd_00400,electronics,Electronics,305.38,3314.0,23,27,22
+prd_00401,computers_accessories,Computers & Accessories,1055.22,5652.0,74,14,67
+prd_00402,fashion_shoes,Shoes & Footwear,121.95,6094.0,99,32,15
+prd_00403,books_stationery,Books & Stationery,59.58,4463.0,23,18,51
+prd_00404,automotive,Automotive Parts,29.55,5411.0,29,58,67
+prd_00405,books_stationery,Books & Stationery,10.56,10948.0,49,20,58
+prd_00406,electronics,Electronics,75.89,7831.0,12,66,62
+prd_00407,beauty_cosmetics,Beauty & Cosmetics,49.79,4645.0,20,10,31
+prd_00408,computers_accessories,Computers & Accessories,713.68,3896.0,42,57,78
+prd_00409,housewares,Housewares,18.01,2003.0,86,44,19
+prd_00410,fashion_shoes,Shoes & Footwear,178.07,13171.0,32,10,57
+prd_00411,health_perfumery,Health & Perfumery,17.57,629.0,71,54,21
+prd_00412,electronics,Electronics,752.5,13742.0,58,49,42
+prd_00413,telephony,Telephony/Mobile,540.43,14513.0,92,29,45
+prd_00414,electronics,Electronics,564.99,13872.0,98,48,43
+prd_00415,home_appliances,Home Appliances,589.27,10540.0,80,17,52
+prd_00416,office_furniture,Office Furniture,159.49,5103.0,29,72,13
+prd_00417,sports_leisure,Sports & Leisure,232.33,4469.0,12,38,17
+prd_00418,beauty_cosmetics,Beauty & Cosmetics,78.45,2523.0,47,55,33
+prd_00419,sports_leisure,Sports & Leisure,105.15,6602.0,70,49,36
+prd_00420,health_perfumery,Health & Perfumery,90.53,8321.0,60,9,19
+prd_00421,telephony,Telephony/Mobile,232.6,14283.0,81,61,16
+prd_00422,electronics,Electronics,69.93,1668.0,84,60,22
+prd_00423,books_stationery,Books & Stationery,50.95,6483.0,47,48,51
+prd_00424,toys,Toys & Games,98.73,11192.0,76,20,74
+prd_00425,fashion_shoes,Shoes & Footwear,51.11,7667.0,48,34,74
+prd_00426,books_stationery,Books & Stationery,10.5,5213.0,17,39,14
+prd_00427,electronics,Electronics,100.49,1640.0,44,75,76
+prd_00428,telephony,Telephony/Mobile,791.78,9658.0,15,14,35
+prd_00429,computers_accessories,Computers & Accessories,547.26,11019.0,35,43,21
+prd_00430,telephony,Telephony/Mobile,814.97,3280.0,92,21,76
+prd_00431,telephony,Telephony/Mobile,129.53,150.0,84,50,26
+prd_00432,electronics,Electronics,352.12,13516.0,27,65,51
+prd_00433,computers_accessories,Computers & Accessories,521.14,284.0,47,70,51
+prd_00434,fashion_clothing,Fashion & Apparel,90.99,11138.0,30,52,69
+prd_00435,toys,Toys & Games,115.91,1653.0,45,53,28
+prd_00436,fashion_clothing,Fashion & Apparel,88.01,6807.0,85,13,52
+prd_00437,telephony,Telephony/Mobile,82.14,9794.0,33,76,61
+prd_00438,automotive,Automotive Parts,43.08,2748.0,55,40,54
+prd_00439,electronics,Electronics,99.43,3858.0,19,79,60
+prd_00440,fashion_shoes,Shoes & Footwear,123.32,12231.0,20,27,74
+prd_00441,fashion_clothing,Fashion & Apparel,46.06,6236.0,87,26,11
+prd_00442,housewares,Housewares,47.71,11451.0,94,62,47
+prd_00443,home_appliances,Home Appliances,343.71,183.0,71,55,80
+prd_00444,housewares,Housewares,144.89,6911.0,77,12,59
+prd_00445,fashion_shoes,Shoes & Footwear,68.6,2806.0,15,55,59
+prd_00446,office_furniture,Office Furniture,248.98,12642.0,11,53,56
+prd_00447,computers_accessories,Computers & Accessories,401.9,12768.0,40,45,56
+prd_00448,fashion_clothing,Fashion & Apparel,55.92,11699.0,95,78,64
+prd_00449,fashion_clothing,Fashion & Apparel,24.57,14551.0,11,8,21
+prd_00450,fashion_clothing,Fashion & Apparel,54.68,11748.0,10,67,26
+prd_00451,fashion_clothing,Fashion & Apparel,96.24,5858.0,46,75,38
+prd_00452,fashion_clothing,Fashion & Apparel,110.16,9837.0,63,41,20
+prd_00453,electronics,Electronics,699.53,2281.0,23,80,16
+prd_00454,fashion_clothing,Fashion & Apparel,96.28,6462.0,97,15,72
+prd_00455,electronics,Electronics,426.87,8151.0,61,14,41
+prd_00456,sports_leisure,Sports & Leisure,20.11,9782.0,97,5,78
+prd_00457,electronics,Electronics,299.86,894.0,90,28,65
+prd_00458,telephony,Telephony/Mobile,254.4,3140.0,53,48,68
+prd_00459,health_perfumery,Health & Perfumery,101.54,14740.0,82,42,10
+prd_00460,sports_leisure,Sports & Leisure,186.7,5191.0,72,27,60
+prd_00461,housewares,Housewares,137.04,919.0,34,33,60
+prd_00462,fashion_clothing,Fashion & Apparel,114.01,1707.0,72,45,61
+prd_00463,automotive,Automotive Parts,59.13,6763.0,26,40,76
+prd_00464,telephony,Telephony/Mobile,899.65,550.0,79,33,63
+prd_00465,telephony,Telephony/Mobile,881.83,9457.0,37,36,38
+prd_00466,beauty_cosmetics,Beauty & Cosmetics,82.37,8905.0,74,63,12
+prd_00467,health_perfumery,Health & Perfumery,39.98,11608.0,67,70,10
+prd_00468,beauty_cosmetics,Beauty & Cosmetics,31.66,13417.0,25,62,44
+prd_00469,fashion_clothing,Fashion & Apparel,55.77,10090.0,65,9,12
+prd_00470,fashion_clothing,Fashion & Apparel,61.71,3365.0,29,53,80
+prd_00471,fashion_clothing,Fashion & Apparel,84.7,11365.0,43,79,24
+prd_00472,sports_leisure,Sports & Leisure,83.5,3064.0,92,49,63
+prd_00473,telephony,Telephony/Mobile,513.19,13965.0,28,70,79
+prd_00474,electronics,Electronics,250.26,11488.0,93,64,64
+prd_00475,telephony,Telephony/Mobile,183.66,3779.0,69,54,55
+prd_00476,sports_leisure,Sports & Leisure,26.88,1516.0,89,71,55
+prd_00477,fashion_clothing,Fashion & Apparel,79.08,618.0,87,34,54
+prd_00478,computers_accessories,Computers & Accessories,577.08,504.0,65,65,79
+prd_00479,sports_leisure,Sports & Leisure,71.71,12378.0,67,31,51
+prd_00480,home_appliances,Home Appliances,296.7,14789.0,45,67,28
+prd_00481,health_perfumery,Health & Perfumery,18.8,12093.0,41,6,26
+prd_00482,fashion_clothing,Fashion & Apparel,70.2,2326.0,77,52,36
+prd_00483,fashion_shoes,Shoes & Footwear,81.89,4760.0,87,14,31
+prd_00484,telephony,Telephony/Mobile,124.65,13748.0,62,16,77
+prd_00485,fashion_shoes,Shoes & Footwear,109.26,8711.0,60,20,55
+prd_00486,telephony,Telephony/Mobile,768.34,11804.0,44,8,65
+prd_00487,toys,Toys & Games,79.21,2499.0,99,25,23
+prd_00488,fashion_shoes,Shoes & Footwear,57.44,2012.0,85,29,16
+prd_00489,fashion_clothing,Fashion & Apparel,61.62,9421.0,95,23,53
+prd_00490,books_stationery,Books & Stationery,30.83,3482.0,46,79,11
+prd_00491,automotive,Automotive Parts,125.46,7349.0,73,80,47
+prd_00492,beauty_cosmetics,Beauty & Cosmetics,95.76,6853.0,68,73,25
+prd_00493,telephony,Telephony/Mobile,724.96,10029.0,67,59,66
+prd_00494,beauty_cosmetics,Beauty & Cosmetics,19.41,5138.0,99,29,60
+prd_00495,telephony,Telephony/Mobile,290.25,4792.0,19,74,33
+prd_00496,telephony,Telephony/Mobile,350.71,9045.0,92,54,57
+prd_00497,electronics,Electronics,431.26,4971.0,16,5,12
+prd_00498,fashion_clothing,Fashion & Apparel,95.69,10951.0,79,68,37
+prd_00499,fashion_clothing,Fashion & Apparel,81.35,4300.0,97,59,56
+prd_00500,fashion_clothing,Fashion & Apparel,49.49,4795.0,25,77,50
+prd_00501,sports_leisure,Sports & Leisure,144.51,2281.0,10,15,35
+prd_00502,housewares,Housewares,110.43,1658.0,41,18,41
+prd_00503,fashion_shoes,Shoes & Footwear,58.15,10012.0,93,59,30
+prd_00504,electronics,Electronics,449.62,2604.0,55,8,24
+prd_00505,fashion_clothing,Fashion & Apparel,78.39,12073.0,58,79,67
+prd_00506,beauty_cosmetics,Beauty & Cosmetics,77.75,178.0,60,63,39
+prd_00507,sports_leisure,Sports & Leisure,142.9,11512.0,21,27,74
+prd_00508,electronics,Electronics,541.59,10407.0,47,11,55
+prd_00509,sports_leisure,Sports & Leisure,218.35,2890.0,82,53,33
+prd_00510,health_perfumery,Health & Perfumery,107.09,5833.0,56,52,52
+prd_00511,computers_accessories,Computers & Accessories,664.7,14115.0,85,63,73
+prd_00512,computers_accessories,Computers & Accessories,1074.62,4956.0,20,73,19
+prd_00513,beauty_cosmetics,Beauty & Cosmetics,34.16,10744.0,66,9,13
+prd_00514,home_appliances,Home Appliances,843.9,7156.0,80,52,63
+prd_00515,books_stationery,Books & Stationery,35.67,12933.0,66,26,27
+prd_00516,electronics,Electronics,95.78,8338.0,13,20,58
+prd_00517,sports_leisure,Sports & Leisure,38.3,12421.0,15,61,29
+prd_00518,fashion_shoes,Shoes & Footwear,160.52,10829.0,95,5,46
+prd_00519,toys,Toys & Games,52.25,7665.0,17,32,21
+prd_00520,computers_accessories,Computers & Accessories,113.61,10972.0,23,75,45
+prd_00521,sports_leisure,Sports & Leisure,71.86,10977.0,84,13,31
+prd_00522,home_appliances,Home Appliances,793.54,7956.0,59,20,42
+prd_00523,home_appliances,Home Appliances,952.21,14180.0,92,47,17
+prd_00524,health_perfumery,Health & Perfumery,103.53,1411.0,72,76,76
+prd_00525,electronics,Electronics,341.63,13657.0,69,55,38
+prd_00526,fashion_shoes,Shoes & Footwear,173.69,3378.0,71,38,68
+prd_00527,electronics,Electronics,156.36,8269.0,11,19,56
+prd_00528,computers_accessories,Computers & Accessories,1111.76,3304.0,92,57,52
+prd_00529,sports_leisure,Sports & Leisure,114.29,1202.0,97,48,62
+prd_00530,fashion_shoes,Shoes & Footwear,124.0,1176.0,37,51,14
+prd_00531,electronics,Electronics,73.84,424.0,12,49,45
+prd_00532,sports_leisure,Sports & Leisure,219.23,12918.0,99,11,52
+prd_00533,computers_accessories,Computers & Accessories,381.5,6624.0,47,43,40
+prd_00534,fashion_shoes,Shoes & Footwear,40.44,1801.0,87,49,20
+prd_00535,housewares,Housewares,22.64,2641.0,45,35,20
+prd_00536,toys,Toys & Games,103.4,6121.0,61,61,40
+prd_00537,books_stationery,Books & Stationery,51.2,14244.0,61,55,65
+prd_00538,housewares,Housewares,87.88,11918.0,82,38,35
+prd_00539,telephony,Telephony/Mobile,408.71,11459.0,90,46,51
+prd_00540,fashion_clothing,Fashion & Apparel,102.33,1253.0,47,77,47
+prd_00541,health_perfumery,Health & Perfumery,16.13,7156.0,67,44,57
+prd_00542,home_appliances,Home Appliances,229.55,9649.0,38,31,74
+prd_00543,telephony,Telephony/Mobile,560.53,4868.0,80,53,59
+prd_00544,fashion_clothing,Fashion & Apparel,36.42,12612.0,79,47,80
+prd_00545,toys,Toys & Games,137.76,4467.0,57,42,37
+prd_00546,health_perfumery,Health & Perfumery,116.51,6830.0,30,43,28
+prd_00547,electronics,Electronics,523.35,6646.0,98,28,13
+prd_00548,office_furniture,Office Furniture,362.24,8245.0,75,51,49
+prd_00549,telephony,Telephony/Mobile,241.42,457.0,20,33,49
+prd_00550,fashion_clothing,Fashion & Apparel,119.24,11549.0,37,25,27
+prd_00551,electronics,Electronics,651.47,14744.0,24,36,79
+prd_00552,housewares,Housewares,56.58,4192.0,93,6,51
+prd_00553,electronics,Electronics,282.36,11347.0,82,66,66
+prd_00554,fashion_clothing,Fashion & Apparel,20.76,11936.0,85,73,31
+prd_00555,beauty_cosmetics,Beauty & Cosmetics,32.03,713.0,46,19,46
+prd_00556,electronics,Electronics,637.02,4414.0,78,66,57
+prd_00557,books_stationery,Books & Stationery,29.82,1655.0,58,53,65
+prd_00558,fashion_clothing,Fashion & Apparel,60.28,14043.0,39,15,41
+prd_00559,housewares,Housewares,136.01,13704.0,27,62,26
+prd_00560,computers_accessories,Computers & Accessories,1343.76,13253.0,70,27,37
+prd_00561,health_perfumery,Health & Perfumery,43.81,4844.0,90,26,23
+prd_00562,books_stationery,Books & Stationery,16.2,10579.0,50,49,32
+prd_00563,electronics,Electronics,651.22,3115.0,26,63,20
+prd_00564,beauty_cosmetics,Beauty & Cosmetics,76.75,11606.0,44,41,25
+prd_00565,sports_leisure,Sports & Leisure,173.15,3799.0,68,44,27
+prd_00566,fashion_clothing,Fashion & Apparel,91.64,13055.0,50,36,17
+prd_00567,home_appliances,Home Appliances,493.77,7236.0,12,74,72
+prd_00568,sports_leisure,Sports & Leisure,106.93,5854.0,65,13,75
+prd_00569,fashion_clothing,Fashion & Apparel,98.61,13915.0,39,12,44
+prd_00570,toys,Toys & Games,83.09,4161.0,96,74,36
+prd_00571,health_perfumery,Health & Perfumery,32.93,10836.0,46,38,77
+prd_00572,beauty_cosmetics,Beauty & Cosmetics,15.84,11708.0,72,79,60
+prd_00573,garden_tools,Garden Tools,62.54,3129.0,58,46,44
+prd_00574,fashion_shoes,Shoes & Footwear,34.95,1436.0,37,40,32
+prd_00575,health_perfumery,Health & Perfumery,118.78,3023.0,23,28,31
+prd_00576,electronics,Electronics,429.68,11174.0,68,58,13
+prd_00577,telephony,Telephony/Mobile,614.29,2938.0,43,31,51
+prd_00578,sports_leisure,Sports & Leisure,224.31,9000.0,60,28,69
+prd_00579,fashion_shoes,Shoes & Footwear,79.59,12399.0,31,71,56
+prd_00580,fashion_shoes,Shoes & Footwear,169.82,13311.0,77,35,31
+prd_00581,computers_accessories,Computers & Accessories,710.21,14735.0,97,62,72
+prd_00582,fashion_shoes,Shoes & Footwear,198.59,11935.0,65,38,78
+prd_00583,fashion_clothing,Fashion & Apparel,32.39,1676.0,38,70,48
+prd_00584,computers_accessories,Computers & Accessories,837.6,585.0,30,59,74
+prd_00585,fashion_clothing,Fashion & Apparel,19.18,14428.0,22,66,47
+prd_00586,electronics,Electronics,529.73,4265.0,56,10,41
+prd_00587,telephony,Telephony/Mobile,403.21,8751.0,76,27,13
+prd_00588,beauty_cosmetics,Beauty & Cosmetics,43.44,3738.0,29,42,16
+prd_00589,fashion_clothing,Fashion & Apparel,111.32,8393.0,47,51,64
+prd_00590,beauty_cosmetics,Beauty & Cosmetics,86.28,1431.0,72,23,59
+prd_00591,health_perfumery,Health & Perfumery,57.9,13317.0,68,12,72
+prd_00592,electronics,Electronics,584.55,2656.0,100,63,43
+prd_00593,housewares,Housewares,120.87,4906.0,20,19,12
+prd_00594,housewares,Housewares,21.89,13264.0,77,35,36
+prd_00595,fashion_shoes,Shoes & Footwear,119.12,2965.0,57,9,36
+prd_00596,fashion_shoes,Shoes & Footwear,57.48,6129.0,72,76,47
+prd_00597,electronics,Electronics,775.75,9067.0,91,6,10
+prd_00598,telephony,Telephony/Mobile,130.87,759.0,72,78,76
+prd_00599,toys,Toys & Games,138.18,1964.0,47,24,45
+prd_00600,computers_accessories,Computers & Accessories,168.55,9395.0,24,66,43
+prd_00601,housewares,Housewares,75.53,4678.0,91,44,77
+prd_00602,telephony,Telephony/Mobile,956.94,11923.0,74,38,20
+prd_00603,telephony,Telephony/Mobile,247.35,7441.0,31,11,50
+prd_00604,home_appliances,Home Appliances,898.85,2319.0,38,59,23
+prd_00605,fashion_shoes,Shoes & Footwear,163.24,5421.0,24,52,41
+prd_00606,computers_accessories,Computers & Accessories,240.52,5310.0,30,10,74
+prd_00607,beauty_cosmetics,Beauty & Cosmetics,56.34,1088.0,45,42,38
+prd_00608,fashion_shoes,Shoes & Footwear,79.81,6164.0,19,80,74
+prd_00609,fashion_clothing,Fashion & Apparel,69.12,12200.0,28,65,50
+prd_00610,home_appliances,Home Appliances,215.06,12342.0,19,45,39
+prd_00611,telephony,Telephony/Mobile,853.52,12980.0,62,55,40
+prd_00612,computers_accessories,Computers & Accessories,389.67,5784.0,40,43,15
+prd_00613,health_perfumery,Health & Perfumery,40.26,7056.0,37,47,11
+prd_00614,electronics,Electronics,637.78,12904.0,80,26,21
+prd_00615,computers_accessories,Computers & Accessories,1225.39,4595.0,55,36,33
+prd_00616,housewares,Housewares,51.14,14135.0,36,27,16
+prd_00617,home_appliances,Home Appliances,562.09,3004.0,62,7,14
+prd_00618,electronics,Electronics,651.13,3314.0,98,50,66
+prd_00619,sports_leisure,Sports & Leisure,36.47,4824.0,83,36,62
+prd_00620,beauty_cosmetics,Beauty & Cosmetics,45.6,12739.0,52,26,35
+prd_00621,electronics,Electronics,632.26,14702.0,41,14,26
+prd_00622,electronics,Electronics,409.84,1524.0,65,74,41
+prd_00623,home_appliances,Home Appliances,632.64,1175.0,64,68,21
+prd_00624,automotive,Automotive Parts,267.46,5444.0,93,51,12
+prd_00625,books_stationery,Books & Stationery,8.79,11278.0,90,58,42
+prd_00626,health_perfumery,Health & Perfumery,83.34,8363.0,100,53,68
+prd_00627,health_perfumery,Health & Perfumery,59.06,11457.0,35,51,59
+prd_00628,electronics,Electronics,590.65,7209.0,48,56,67
+prd_00629,telephony,Telephony/Mobile,209.53,2863.0,44,27,54
+prd_00630,fashion_shoes,Shoes & Footwear,153.62,10543.0,67,75,20
+prd_00631,fashion_clothing,Fashion & Apparel,72.39,10426.0,61,65,68
+prd_00632,electronics,Electronics,192.96,2997.0,43,46,37
+prd_00633,computers_accessories,Computers & Accessories,403.36,2777.0,21,26,24
+prd_00634,beauty_cosmetics,Beauty & Cosmetics,58.66,2324.0,55,52,19
+prd_00635,sports_leisure,Sports & Leisure,21.88,12757.0,62,37,71
+prd_00636,telephony,Telephony/Mobile,920.14,6591.0,74,51,24
+prd_00637,telephony,Telephony/Mobile,628.37,2422.0,10,20,16
+prd_00638,sports_leisure,Sports & Leisure,28.47,4520.0,44,68,58
+prd_00639,sports_leisure,Sports & Leisure,25.55,14815.0,51,78,16
+prd_00640,computers_accessories,Computers & Accessories,1158.46,5088.0,27,66,19
+prd_00641,home_appliances,Home Appliances,888.0,10031.0,66,20,68
+prd_00642,fashion_clothing,Fashion & Apparel,84.89,8130.0,52,42,30
+prd_00643,electronics,Electronics,614.88,6713.0,41,23,51
+prd_00644,telephony,Telephony/Mobile,658.64,6397.0,57,17,22
+prd_00645,electronics,Electronics,316.94,548.0,32,37,38
+prd_00646,fashion_shoes,Shoes & Footwear,161.7,10242.0,97,13,50
+prd_00647,home_appliances,Home Appliances,974.06,5853.0,13,65,47
+prd_00648,telephony,Telephony/Mobile,759.93,9682.0,63,52,26
+prd_00649,telephony,Telephony/Mobile,682.83,7466.0,60,33,41
+prd_00650,housewares,Housewares,108.36,442.0,70,47,58
+prd_00651,automotive,Automotive Parts,278.37,13620.0,34,65,76
+prd_00652,health_perfumery,Health & Perfumery,20.47,3583.0,45,22,33
+prd_00653,telephony,Telephony/Mobile,233.04,1274.0,92,61,55
+prd_00654,home_appliances,Home Appliances,192.99,10578.0,74,51,17
+prd_00655,electronics,Electronics,707.34,14036.0,73,32,63
+prd_00656,electronics,Electronics,593.99,5892.0,87,41,64
+prd_00657,telephony,Telephony/Mobile,802.06,13314.0,43,11,44
+prd_00658,telephony,Telephony/Mobile,671.54,11022.0,76,40,23
+prd_00659,telephony,Telephony/Mobile,577.62,7018.0,94,35,14
+prd_00660,fashion_clothing,Fashion & Apparel,87.17,8029.0,73,68,62
+prd_00661,electronics,Electronics,221.37,6254.0,64,56,50
+prd_00662,telephony,Telephony/Mobile,674.05,7048.0,91,22,20
+prd_00663,books_stationery,Books & Stationery,25.41,989.0,49,20,74
+prd_00664,electronics,Electronics,616.49,7397.0,16,27,35
+prd_00665,electronics,Electronics,310.29,7821.0,99,9,41
+prd_00666,health_perfumery,Health & Perfumery,63.95,2931.0,97,27,75
+prd_00667,beauty_cosmetics,Beauty & Cosmetics,57.74,13617.0,15,68,55
+prd_00668,home_appliances,Home Appliances,470.74,3103.0,52,6,41
+prd_00669,books_stationery,Books & Stationery,41.7,7414.0,58,7,41
+prd_00670,computers_accessories,Computers & Accessories,914.66,8296.0,50,21,15
+prd_00671,books_stationery,Books & Stationery,22.05,7981.0,70,15,55
+prd_00672,computers_accessories,Computers & Accessories,1256.24,2748.0,43,34,16
+prd_00673,fashion_clothing,Fashion & Apparel,27.57,12552.0,79,50,76
+prd_00674,health_perfumery,Health & Perfumery,107.98,3945.0,82,39,70
+prd_00675,books_stationery,Books & Stationery,21.36,9180.0,49,80,41
+prd_00676,beauty_cosmetics,Beauty & Cosmetics,50.79,2779.0,64,52,17
+prd_00677,home_appliances,Home Appliances,635.29,8168.0,99,24,37
+prd_00678,health_perfumery,Health & Perfumery,65.25,12833.0,84,37,76
+prd_00679,sports_leisure,Sports & Leisure,113.72,4396.0,23,38,23
+prd_00680,fashion_shoes,Shoes & Footwear,119.56,3537.0,15,37,10
+prd_00681,toys,Toys & Games,61.66,9163.0,36,20,26
+prd_00682,beauty_cosmetics,Beauty & Cosmetics,29.11,2473.0,86,40,53
+prd_00683,home_appliances,Home Appliances,156.24,10310.0,45,25,18
+prd_00684,electronics,Electronics,724.55,12544.0,41,7,14
+prd_00685,books_stationery,Books & Stationery,43.38,12217.0,70,62,59
+prd_00686,electronics,Electronics,517.12,7758.0,44,60,30
+prd_00687,beauty_cosmetics,Beauty & Cosmetics,21.61,12656.0,70,45,15
+prd_00688,electronics,Electronics,732.84,13350.0,44,13,28
+prd_00689,toys,Toys & Games,113.92,13742.0,37,64,41
+prd_00690,fashion_shoes,Shoes & Footwear,193.15,3710.0,45,35,15
+prd_00691,telephony,Telephony/Mobile,785.63,4299.0,35,68,73
+prd_00692,telephony,Telephony/Mobile,262.61,380.0,60,78,56
+prd_00693,fashion_clothing,Fashion & Apparel,77.13,5724.0,86,60,18
+prd_00694,home_appliances,Home Appliances,904.15,10827.0,86,51,11
+prd_00695,electronics,Electronics,77.68,2844.0,26,52,80
+prd_00696,telephony,Telephony/Mobile,458.27,14400.0,34,23,80
+prd_00697,fashion_clothing,Fashion & Apparel,58.62,4796.0,95,52,27
+prd_00698,sports_leisure,Sports & Leisure,216.97,13618.0,29,41,79
+prd_00699,telephony,Telephony/Mobile,855.77,1500.0,60,45,26
+prd_00700,fashion_shoes,Shoes & Footwear,162.22,14941.0,51,17,41
+prd_00701,fashion_clothing,Fashion & Apparel,57.01,13504.0,15,72,39
+prd_00702,sports_leisure,Sports & Leisure,183.86,14488.0,43,9,70
+prd_00703,fashion_shoes,Shoes & Footwear,163.19,11407.0,47,48,41
+prd_00704,fashion_clothing,Fashion & Apparel,60.77,13685.0,29,55,24
+prd_00705,home_appliances,Home Appliances,233.41,3118.0,73,67,73
+prd_00706,fashion_clothing,Fashion & Apparel,38.24,10392.0,10,13,76
+prd_00707,sports_leisure,Sports & Leisure,162.36,2581.0,85,57,23
+prd_00708,fashion_shoes,Shoes & Footwear,145.62,11699.0,89,54,45
+prd_00709,fashion_clothing,Fashion & Apparel,100.89,6071.0,57,62,80
+prd_00710,beauty_cosmetics,Beauty & Cosmetics,61.96,4723.0,83,78,25
+prd_00711,books_stationery,Books & Stationery,10.56,6178.0,45,73,77
+prd_00712,computers_accessories,Computers & Accessories,295.54,1499.0,78,49,24
+prd_00713,home_appliances,Home Appliances,449.76,10495.0,72,19,43
+prd_00714,home_appliances,Home Appliances,346.95,4147.0,48,34,22
+prd_00715,office_furniture,Office Furniture,137.56,2460.0,23,52,24
+prd_00716,telephony,Telephony/Mobile,616.08,10824.0,48,56,79
+prd_00717,housewares,Housewares,146.57,490.0,52,80,21
+prd_00718,computers_accessories,Computers & Accessories,1348.11,13793.0,93,37,74
+prd_00719,books_stationery,Books & Stationery,24.45,5383.0,57,76,47
+prd_00720,telephony,Telephony/Mobile,181.65,10328.0,97,16,18
+prd_00721,books_stationery,Books & Stationery,27.77,242.0,59,48,69
+prd_00722,sports_leisure,Sports & Leisure,134.5,9372.0,74,10,60
+prd_00723,books_stationery,Books & Stationery,38.25,3730.0,33,57,26
+prd_00724,garden_tools,Garden Tools,55.23,10235.0,81,19,30
+prd_00725,fashion_clothing,Fashion & Apparel,54.28,14823.0,53,36,64
+prd_00726,beauty_cosmetics,Beauty & Cosmetics,86.16,8051.0,41,51,38
+prd_00727,toys,Toys & Games,134.63,6325.0,42,38,18
+prd_00728,home_appliances,Home Appliances,511.58,7237.0,84,14,23
+prd_00729,fashion_clothing,Fashion & Apparel,86.61,4389.0,26,13,68
+prd_00730,beauty_cosmetics,Beauty & Cosmetics,10.17,8702.0,62,41,14
+prd_00731,sports_leisure,Sports & Leisure,70.02,10387.0,71,68,34
+prd_00732,toys,Toys & Games,130.42,6743.0,57,25,50
+prd_00733,books_stationery,Books & Stationery,55.02,3296.0,12,57,37
+prd_00734,home_appliances,Home Appliances,836.15,12526.0,26,20,13
+prd_00735,telephony,Telephony/Mobile,802.36,12122.0,69,78,24
+prd_00736,beauty_cosmetics,Beauty & Cosmetics,82.58,10639.0,76,23,51
+prd_00737,books_stationery,Books & Stationery,18.6,13795.0,81,6,57
+prd_00738,electronics,Electronics,178.84,8404.0,50,19,41
+prd_00739,beauty_cosmetics,Beauty & Cosmetics,74.18,4054.0,38,61,58
+prd_00740,fashion_shoes,Shoes & Footwear,48.94,10843.0,71,68,28
+prd_00741,computers_accessories,Computers & Accessories,1432.81,12317.0,71,74,72
+prd_00742,computers_accessories,Computers & Accessories,192.25,269.0,72,39,50
+prd_00743,telephony,Telephony/Mobile,598.93,14046.0,25,61,47
+prd_00744,electronics,Electronics,68.43,9823.0,94,79,31
+prd_00745,fashion_clothing,Fashion & Apparel,67.94,14753.0,32,53,19
+prd_00746,fashion_clothing,Fashion & Apparel,97.36,9133.0,41,8,67
+prd_00747,fashion_shoes,Shoes & Footwear,93.06,4396.0,90,10,63
+prd_00748,fashion_clothing,Fashion & Apparel,73.05,2665.0,96,21,51
+prd_00749,automotive,Automotive Parts,66.0,1952.0,81,29,23
+prd_00750,books_stationery,Books & Stationery,49.14,4031.0,81,50,38
+prd_00751,electronics,Electronics,299.89,13217.0,91,9,35
+prd_00752,garden_tools,Garden Tools,228.64,1217.0,95,27,48
+prd_00753,housewares,Housewares,24.12,12934.0,23,42,34
+prd_00754,electronics,Electronics,793.29,10917.0,58,78,78
+prd_00755,sports_leisure,Sports & Leisure,280.05,2425.0,12,44,35
+prd_00756,beauty_cosmetics,Beauty & Cosmetics,62.61,7846.0,57,74,76
+prd_00757,telephony,Telephony/Mobile,898.86,12726.0,69,30,60
+prd_00758,electronics,Electronics,260.64,12116.0,27,5,37
+prd_00759,health_perfumery,Health & Perfumery,33.87,799.0,37,16,25
+prd_00760,fashion_clothing,Fashion & Apparel,83.86,13913.0,62,51,31
+prd_00761,housewares,Housewares,105.07,8165.0,41,42,18
+prd_00762,office_furniture,Office Furniture,96.56,2203.0,20,26,27
+prd_00763,sports_leisure,Sports & Leisure,113.61,8188.0,55,45,57
+prd_00764,toys,Toys & Games,134.89,9572.0,67,71,40
+prd_00765,fashion_clothing,Fashion & Apparel,73.27,3669.0,66,56,66
+prd_00766,electronics,Electronics,694.09,9874.0,38,78,34
+prd_00767,housewares,Housewares,36.04,2728.0,11,63,44
+prd_00768,electronics,Electronics,618.37,388.0,55,35,51
+prd_00769,computers_accessories,Computers & Accessories,316.94,8875.0,84,15,24
+prd_00770,sports_leisure,Sports & Leisure,239.0,589.0,71,78,17
+prd_00771,telephony,Telephony/Mobile,520.46,6835.0,44,57,27
+prd_00772,fashion_clothing,Fashion & Apparel,111.93,11306.0,33,21,29
+prd_00773,telephony,Telephony/Mobile,849.72,10764.0,33,40,62
+prd_00774,fashion_clothing,Fashion & Apparel,27.48,13451.0,33,38,58
+prd_00775,housewares,Housewares,145.66,13270.0,99,40,54
+prd_00776,housewares,Housewares,88.86,13126.0,16,6,27
+prd_00777,fashion_shoes,Shoes & Footwear,84.52,7527.0,40,14,34
+prd_00778,toys,Toys & Games,111.17,7299.0,20,49,26
+prd_00779,fashion_shoes,Shoes & Footwear,47.42,3609.0,63,74,19
+prd_00780,beauty_cosmetics,Beauty & Cosmetics,67.68,14464.0,83,18,26
+prd_00781,telephony,Telephony/Mobile,684.27,12446.0,82,56,19
+prd_00782,computers_accessories,Computers & Accessories,1136.3,6075.0,18,33,45
+prd_00783,beauty_cosmetics,Beauty & Cosmetics,12.37,14795.0,74,24,26
+prd_00784,fashion_clothing,Fashion & Apparel,15.94,13146.0,100,68,60
+prd_00785,toys,Toys & Games,139.92,14203.0,45,36,72
+prd_00786,toys,Toys & Games,79.4,1140.0,62,21,25
+prd_00787,telephony,Telephony/Mobile,927.51,7053.0,15,70,43
+prd_00788,sports_leisure,Sports & Leisure,77.47,6388.0,58,45,27
+prd_00789,toys,Toys & Games,78.62,2903.0,98,65,35
+prd_00790,sports_leisure,Sports & Leisure,237.22,14777.0,87,20,35
+prd_00791,electronics,Electronics,105.45,13581.0,26,25,25
+prd_00792,fashion_shoes,Shoes & Footwear,121.6,4167.0,66,50,25
+prd_00793,fashion_shoes,Shoes & Footwear,108.43,14801.0,78,30,20
+prd_00794,electronics,Electronics,415.73,13486.0,45,43,78
+prd_00795,sports_leisure,Sports & Leisure,288.8,187.0,20,23,64
+prd_00796,fashion_clothing,Fashion & Apparel,40.02,6550.0,90,51,55
+prd_00797,health_perfumery,Health & Perfumery,84.3,12364.0,16,42,39
+prd_00798,computers_accessories,Computers & Accessories,1488.7,8393.0,36,23,57
+prd_00799,electronics,Electronics,661.84,7072.0,85,26,34
+prd_00800,fashion_clothing,Fashion & Apparel,30.8,13398.0,86,70,76
+prd_00801,toys,Toys & Games,128.39,2154.0,86,23,71
+prd_00802,electronics,Electronics,97.47,5082.0,77,10,44
+prd_00803,telephony,Telephony/Mobile,593.12,1360.0,48,21,22
+prd_00804,telephony,Telephony/Mobile,287.23,9945.0,45,54,22
+prd_00805,housewares,Housewares,147.48,13449.0,88,75,19
+prd_00806,fashion_clothing,Fashion & Apparel,84.99,8608.0,19,28,10
+prd_00807,computers_accessories,Computers & Accessories,896.62,11260.0,28,10,61
+prd_00808,beauty_cosmetics,Beauty & Cosmetics,83.91,3696.0,39,19,49
+prd_00809,housewares,Housewares,17.58,9534.0,74,19,46
+prd_00810,sports_leisure,Sports & Leisure,95.03,1518.0,85,67,57
+prd_00811,housewares,Housewares,114.74,11916.0,22,59,32
+prd_00812,beauty_cosmetics,Beauty & Cosmetics,93.9,12658.0,23,16,28
+prd_00813,electronics,Electronics,296.28,9074.0,100,47,75
+prd_00814,computers_accessories,Computers & Accessories,1252.58,2727.0,77,5,44
+prd_00815,fashion_clothing,Fashion & Apparel,27.04,10124.0,97,65,36
+prd_00816,telephony,Telephony/Mobile,613.65,6235.0,30,11,65
+prd_00817,toys,Toys & Games,18.3,8666.0,21,67,77
+prd_00818,health_perfumery,Health & Perfumery,19.14,375.0,77,14,48
+prd_00819,fashion_clothing,Fashion & Apparel,73.44,6206.0,14,64,28
+prd_00820,computers_accessories,Computers & Accessories,832.26,9596.0,35,60,41
+prd_00821,fashion_clothing,Fashion & Apparel,43.06,3562.0,81,49,49
+prd_00822,beauty_cosmetics,Beauty & Cosmetics,96.1,4432.0,49,76,29
+prd_00823,health_perfumery,Health & Perfumery,58.86,5668.0,49,32,45
+prd_00824,fashion_clothing,Fashion & Apparel,28.3,5092.0,92,9,51
+prd_00825,fashion_clothing,Fashion & Apparel,101.62,10504.0,74,14,16
+prd_00826,fashion_clothing,Fashion & Apparel,62.36,11970.0,51,28,45
+prd_00827,beauty_cosmetics,Beauty & Cosmetics,53.82,9407.0,72,77,23
+prd_00828,computers_accessories,Computers & Accessories,321.81,1552.0,52,14,64
+prd_00829,telephony,Telephony/Mobile,209.61,14057.0,28,68,71
+prd_00830,housewares,Housewares,44.47,5827.0,10,19,32
+prd_00831,sports_leisure,Sports & Leisure,14.39,14585.0,65,71,13
+prd_00832,toys,Toys & Games,86.27,1166.0,96,30,59
+prd_00833,beauty_cosmetics,Beauty & Cosmetics,12.96,6327.0,97,5,38
+prd_00834,beauty_cosmetics,Beauty & Cosmetics,67.36,11576.0,62,74,55
+prd_00835,sports_leisure,Sports & Leisure,261.03,11224.0,30,9,54
+prd_00836,toys,Toys & Games,83.14,9462.0,96,77,64
+prd_00837,fashion_clothing,Fashion & Apparel,34.57,11935.0,33,23,48
+prd_00838,automotive,Automotive Parts,89.24,8512.0,10,11,25
+prd_00839,electronics,Electronics,644.79,12627.0,11,27,36
+prd_00840,fashion_clothing,Fashion & Apparel,19.37,8120.0,61,11,23
+prd_00841,electronics,Electronics,422.54,14499.0,85,63,57
+prd_00842,fashion_shoes,Shoes & Footwear,121.53,14988.0,84,67,63
+prd_00843,computers_accessories,Computers & Accessories,946.68,540.0,57,72,39
+prd_00844,computers_accessories,Computers & Accessories,805.15,13324.0,94,46,48
+prd_00845,sports_leisure,Sports & Leisure,244.36,1632.0,98,21,11
+prd_00846,toys,Toys & Games,43.6,10072.0,40,51,76
+prd_00847,automotive,Automotive Parts,364.56,8460.0,98,14,27
+prd_00848,fashion_shoes,Shoes & Footwear,82.05,288.0,70,41,57
+prd_00849,electronics,Electronics,568.38,1404.0,86,9,48
+prd_00850,housewares,Housewares,107.06,525.0,44,40,31
+prd_00851,health_perfumery,Health & Perfumery,119.78,5631.0,24,70,42
+prd_00852,electronics,Electronics,330.34,3936.0,11,11,17
+prd_00853,electronics,Electronics,519.72,3131.0,95,22,47
+prd_00854,computers_accessories,Computers & Accessories,1103.89,6013.0,20,50,39
+prd_00855,fashion_clothing,Fashion & Apparel,103.68,3665.0,63,49,64
+prd_00856,health_perfumery,Health & Perfumery,58.22,13362.0,14,51,49
+prd_00857,electronics,Electronics,276.21,8710.0,16,39,64
+prd_00858,beauty_cosmetics,Beauty & Cosmetics,65.45,1396.0,73,66,30
+prd_00859,fashion_shoes,Shoes & Footwear,195.23,14225.0,19,28,41
+prd_00860,telephony,Telephony/Mobile,501.69,7405.0,82,13,46
+prd_00861,automotive,Automotive Parts,285.22,7677.0,16,67,78
+prd_00862,computers_accessories,Computers & Accessories,246.55,9312.0,79,16,49
+prd_00863,sports_leisure,Sports & Leisure,178.27,11319.0,78,26,21
+prd_00864,fashion_shoes,Shoes & Footwear,113.56,11566.0,47,37,36
+prd_00865,electronics,Electronics,162.05,2238.0,28,60,55
+prd_00866,electronics,Electronics,333.61,9453.0,29,15,77
+prd_00867,books_stationery,Books & Stationery,12.3,8983.0,26,59,70
+prd_00868,sports_leisure,Sports & Leisure,219.0,2378.0,92,19,34
+prd_00869,garden_tools,Garden Tools,89.97,10994.0,79,14,46
+prd_00870,computers_accessories,Computers & Accessories,1229.99,9016.0,77,27,63
+prd_00871,electronics,Electronics,219.16,2120.0,33,32,48
+prd_00872,fashion_clothing,Fashion & Apparel,86.88,1050.0,51,16,32
+prd_00873,housewares,Housewares,95.0,9164.0,21,61,55
+prd_00874,electronics,Electronics,75.35,4637.0,74,72,64
+prd_00875,beauty_cosmetics,Beauty & Cosmetics,65.33,12685.0,69,22,52
+prd_00876,housewares,Housewares,10.04,8669.0,78,53,20
+prd_00877,housewares,Housewares,132.89,10767.0,30,51,12
+prd_00878,electronics,Electronics,580.77,13569.0,89,72,50
+prd_00879,beauty_cosmetics,Beauty & Cosmetics,76.96,12544.0,66,63,10
+prd_00880,fashion_shoes,Shoes & Footwear,191.32,2267.0,11,63,14
+prd_00881,beauty_cosmetics,Beauty & Cosmetics,15.39,1071.0,18,26,10
+prd_00882,beauty_cosmetics,Beauty & Cosmetics,53.48,7567.0,17,36,36
+prd_00883,computers_accessories,Computers & Accessories,1346.65,8239.0,75,55,26
+prd_00884,home_appliances,Home Appliances,891.08,3184.0,44,55,38
+prd_00885,home_appliances,Home Appliances,304.12,12937.0,61,30,62
+prd_00886,toys,Toys & Games,48.83,3875.0,13,53,61
+prd_00887,toys,Toys & Games,52.22,5938.0,22,10,29
+prd_00888,beauty_cosmetics,Beauty & Cosmetics,12.16,14215.0,33,47,51
+prd_00889,sports_leisure,Sports & Leisure,17.22,11107.0,32,41,47
+prd_00890,beauty_cosmetics,Beauty & Cosmetics,24.4,8301.0,69,61,29
+prd_00891,fashion_clothing,Fashion & Apparel,67.24,5837.0,43,51,79
+prd_00892,health_perfumery,Health & Perfumery,65.39,14585.0,62,71,48
+prd_00893,computers_accessories,Computers & Accessories,1449.44,8970.0,83,52,71
+prd_00894,telephony,Telephony/Mobile,219.85,2354.0,82,39,54
+prd_00895,electronics,Electronics,223.32,11303.0,38,33,72
+prd_00896,computers_accessories,Computers & Accessories,1258.04,13699.0,35,39,34
+prd_00897,electronics,Electronics,673.16,680.0,18,7,44
+prd_00898,electronics,Electronics,142.77,8600.0,78,66,16
+prd_00899,home_appliances,Home Appliances,516.89,10383.0,71,54,41
+prd_00900,sports_leisure,Sports & Leisure,52.57,11279.0,20,54,62
+prd_00901,fashion_shoes,Shoes & Footwear,59.52,9605.0,31,62,37
+prd_00902,fashion_clothing,Fashion & Apparel,85.39,9053.0,42,27,12
+prd_00903,beauty_cosmetics,Beauty & Cosmetics,95.56,441.0,12,78,17
+prd_00904,telephony,Telephony/Mobile,533.07,13600.0,42,62,58
+prd_00905,computers_accessories,Computers & Accessories,1047.86,8392.0,69,30,43
+prd_00906,electronics,Electronics,722.83,4296.0,80,32,80
+prd_00907,telephony,Telephony/Mobile,843.28,13073.0,27,73,15
+prd_00908,fashion_clothing,Fashion & Apparel,41.56,3442.0,30,78,78
+prd_00909,books_stationery,Books & Stationery,16.44,439.0,76,36,10
+prd_00910,books_stationery,Books & Stationery,10.33,10357.0,92,45,60
+prd_00911,electronics,Electronics,240.25,11957.0,27,25,30
+prd_00912,home_appliances,Home Appliances,897.57,353.0,49,13,10
+prd_00913,computers_accessories,Computers & Accessories,593.75,11648.0,79,12,78
+prd_00914,home_appliances,Home Appliances,672.59,14111.0,14,48,36
+prd_00915,health_perfumery,Health & Perfumery,77.51,1016.0,41,27,67
+prd_00916,toys,Toys & Games,107.76,2866.0,90,57,66
+prd_00917,fashion_shoes,Shoes & Footwear,126.99,3961.0,82,74,24
+prd_00918,sports_leisure,Sports & Leisure,12.04,7620.0,48,17,16
+prd_00919,electronics,Electronics,249.5,6079.0,79,39,75
+prd_00920,fashion_clothing,Fashion & Apparel,108.5,4895.0,71,7,80
+prd_00921,sports_leisure,Sports & Leisure,165.46,2177.0,21,44,17
+prd_00922,beauty_cosmetics,Beauty & Cosmetics,16.6,7891.0,65,29,52
+prd_00923,fashion_shoes,Shoes & Footwear,101.51,7839.0,46,19,47
+prd_00924,electronics,Electronics,159.56,11938.0,65,11,76
+prd_00925,computers_accessories,Computers & Accessories,842.31,10716.0,90,78,22
+prd_00926,telephony,Telephony/Mobile,447.3,7391.0,83,5,73
+prd_00927,electronics,Electronics,78.98,11902.0,29,72,17
+prd_00928,electronics,Electronics,156.12,10452.0,53,11,18
+prd_00929,housewares,Housewares,149.09,7979.0,20,22,23
+prd_00930,computers_accessories,Computers & Accessories,477.42,2553.0,13,52,69
+prd_00931,fashion_shoes,Shoes & Footwear,85.0,2240.0,17,15,13
+prd_00932,electronics,Electronics,217.99,8246.0,74,13,64
+prd_00933,home_appliances,Home Appliances,498.52,12973.0,43,33,44
+prd_00934,sports_leisure,Sports & Leisure,243.92,12079.0,55,58,70
+prd_00935,telephony,Telephony/Mobile,807.29,7858.0,40,36,32
+prd_00936,electronics,Electronics,390.41,11174.0,44,75,76
+prd_00937,fashion_shoes,Shoes & Footwear,190.8,6531.0,88,22,58
+prd_00938,fashion_clothing,Fashion & Apparel,114.36,13630.0,26,75,42
+prd_00939,electronics,Electronics,772.05,14720.0,29,73,27
+prd_00940,telephony,Telephony/Mobile,549.03,7080.0,51,28,26
+prd_00941,housewares,Housewares,31.18,3004.0,41,77,60
+prd_00942,telephony,Telephony/Mobile,319.14,6634.0,11,9,46
+prd_00943,books_stationery,Books & Stationery,40.34,9865.0,84,58,49
+prd_00944,health_perfumery,Health & Perfumery,64.99,634.0,40,61,45
+prd_00945,sports_leisure,Sports & Leisure,246.15,662.0,95,59,27
+prd_00946,toys,Toys & Games,24.84,6054.0,19,53,38
+prd_00947,fashion_shoes,Shoes & Footwear,79.28,2445.0,26,49,40
+prd_00948,toys,Toys & Games,121.46,3326.0,65,35,75
+prd_00949,home_appliances,Home Appliances,715.23,4516.0,74,31,62
+prd_00950,electronics,Electronics,492.81,14203.0,75,55,75
+prd_00951,office_furniture,Office Furniture,244.32,6943.0,28,15,21
+prd_00952,sports_leisure,Sports & Leisure,103.64,1684.0,50,65,64
+prd_00953,fashion_clothing,Fashion & Apparel,106.87,6543.0,42,8,19
+prd_00954,computers_accessories,Computers & Accessories,164.44,2622.0,94,30,42
+prd_00955,sports_leisure,Sports & Leisure,262.33,13675.0,40,19,20
+prd_00956,electronics,Electronics,713.76,9052.0,11,52,24
+prd_00957,electronics,Electronics,235.74,7872.0,77,45,43
+prd_00958,sports_leisure,Sports & Leisure,247.62,7064.0,22,18,19
+prd_00959,electronics,Electronics,165.15,1699.0,87,67,72
+prd_00960,sports_leisure,Sports & Leisure,81.93,926.0,41,10,24
+prd_00961,fashion_clothing,Fashion & Apparel,113.63,6277.0,43,41,63
+prd_00962,fashion_shoes,Shoes & Footwear,113.64,9298.0,38,28,13
+prd_00963,electronics,Electronics,669.13,11493.0,72,12,48
+prd_00964,fashion_shoes,Shoes & Footwear,180.61,1229.0,57,10,31
+prd_00965,sports_leisure,Sports & Leisure,130.33,2241.0,10,15,63
+prd_00966,beauty_cosmetics,Beauty & Cosmetics,95.37,3722.0,98,38,42
+prd_00967,electronics,Electronics,298.65,11680.0,20,68,33
+prd_00968,telephony,Telephony/Mobile,394.5,3841.0,77,78,28
+prd_00969,home_appliances,Home Appliances,269.78,11229.0,34,56,77
+prd_00970,telephony,Telephony/Mobile,924.3,1279.0,88,59,36
+prd_00971,electronics,Electronics,191.16,14062.0,79,46,68
+prd_00972,fashion_clothing,Fashion & Apparel,61.42,3735.0,46,76,62
+prd_00973,computers_accessories,Computers & Accessories,280.51,6389.0,72,37,46
+prd_00974,toys,Toys & Games,81.5,14018.0,18,31,11
+prd_00975,home_appliances,Home Appliances,830.95,5041.0,38,18,24
+prd_00976,housewares,Housewares,51.14,1946.0,18,59,19
+prd_00977,fashion_clothing,Fashion & Apparel,84.66,3644.0,19,63,22
+prd_00978,electronics,Electronics,771.34,1745.0,32,40,12
+prd_00979,sports_leisure,Sports & Leisure,249.18,10952.0,35,31,41
+prd_00980,books_stationery,Books & Stationery,40.38,10962.0,53,30,69
+prd_00981,electronics,Electronics,598.16,10750.0,26,13,48
+prd_00982,toys,Toys & Games,67.0,6522.0,91,32,56
+prd_00983,sports_leisure,Sports & Leisure,131.58,2365.0,38,29,14
+prd_00984,electronics,Electronics,422.26,6192.0,48,69,48
+prd_00985,home_appliances,Home Appliances,515.15,2422.0,97,70,77
+prd_00986,sports_leisure,Sports & Leisure,96.34,12658.0,56,64,57
+prd_00987,housewares,Housewares,102.76,5969.0,64,20,34
+prd_00988,electronics,Electronics,755.52,7630.0,46,69,10
+prd_00989,home_appliances,Home Appliances,826.94,13014.0,81,33,56
+prd_00990,housewares,Housewares,38.69,2438.0,72,49,26
+prd_00991,health_perfumery,Health & Perfumery,91.94,632.0,91,39,63
+prd_00992,telephony,Telephony/Mobile,370.16,13771.0,38,56,73
+prd_00993,electronics,Electronics,684.03,1052.0,33,18,69
+prd_00994,automotive,Automotive Parts,251.67,8705.0,81,70,70
+prd_00995,sports_leisure,Sports & Leisure,96.96,8312.0,55,38,80
+prd_00996,fashion_clothing,Fashion & Apparel,66.26,14684.0,17,54,23
+prd_00997,telephony,Telephony/Mobile,151.73,9210.0,46,45,16
+prd_00998,toys,Toys & Games,24.93,3045.0,82,20,64
+prd_00999,electronics,Electronics,280.48,4936.0,30,72,53
+prd_01000,home_appliances,Home Appliances,477.95,7029.0,88,8,46
+prd_01001,computers_accessories,Computers & Accessories,461.43,11488.0,60,16,11
+prd_01002,electronics,Electronics,145.56,1087.0,61,72,57
+prd_01003,fashion_shoes,Shoes & Footwear,78.68,14133.0,36,62,13
+prd_01004,fashion_shoes,Shoes & Footwear,48.49,2944.0,41,58,10
+prd_01005,books_stationery,Books & Stationery,13.88,10169.0,13,14,26
+prd_01006,fashion_clothing,Fashion & Apparel,57.11,8638.0,78,54,35
+prd_01007,electronics,Electronics,713.97,2413.0,15,13,62
+prd_01008,fashion_shoes,Shoes & Footwear,31.56,636.0,38,47,58
+prd_01009,housewares,Housewares,147.73,5888.0,28,80,59
+prd_01010,beauty_cosmetics,Beauty & Cosmetics,77.73,826.0,25,62,34
+prd_01011,garden_tools,Garden Tools,117.74,11904.0,29,12,68
+prd_01012,toys,Toys & Games,69.12,11808.0,66,72,76
+prd_01013,telephony,Telephony/Mobile,292.36,11702.0,47,68,13
+prd_01014,home_appliances,Home Appliances,692.38,1340.0,83,5,14
+prd_01015,fashion_shoes,Shoes & Footwear,161.54,5544.0,53,39,12
+prd_01016,fashion_shoes,Shoes & Footwear,34.16,12859.0,100,78,63
+prd_01017,toys,Toys & Games,51.22,12361.0,54,28,55
+prd_01018,telephony,Telephony/Mobile,141.04,10020.0,68,58,47
+prd_01019,sports_leisure,Sports & Leisure,63.29,11164.0,57,22,29
+prd_01020,health_perfumery,Health & Perfumery,39.4,12752.0,32,66,30
+prd_01021,electronics,Electronics,494.59,6069.0,68,43,29
+prd_01022,books_stationery,Books & Stationery,48.33,8723.0,36,5,32
+prd_01023,fashion_clothing,Fashion & Apparel,55.57,8757.0,27,71,50
+prd_01024,beauty_cosmetics,Beauty & Cosmetics,74.78,4676.0,93,41,51
+prd_01025,health_perfumery,Health & Perfumery,85.59,8632.0,91,55,22
+prd_01026,health_perfumery,Health & Perfumery,100.71,1271.0,39,60,61
+prd_01027,computers_accessories,Computers & Accessories,1026.2,132.0,15,36,25
+prd_01028,electronics,Electronics,287.66,9236.0,18,74,79
+prd_01029,health_perfumery,Health & Perfumery,113.51,5799.0,23,61,60
+prd_01030,housewares,Housewares,79.35,9047.0,70,9,73
+prd_01031,fashion_shoes,Shoes & Footwear,39.33,217.0,79,39,48
+prd_01032,fashion_clothing,Fashion & Apparel,113.49,9038.0,91,48,16
+prd_01033,toys,Toys & Games,114.68,6629.0,97,32,35
+prd_01034,toys,Toys & Games,44.97,6121.0,49,51,28
+prd_01035,fashion_clothing,Fashion & Apparel,67.41,12728.0,94,79,68
+prd_01036,telephony,Telephony/Mobile,425.15,7848.0,34,71,28
+prd_01037,fashion_shoes,Shoes & Footwear,121.57,2488.0,51,38,29
+prd_01038,fashion_shoes,Shoes & Footwear,182.65,3710.0,46,16,11
+prd_01039,fashion_clothing,Fashion & Apparel,107.02,5061.0,67,33,16
+prd_01040,telephony,Telephony/Mobile,517.38,8194.0,38,49,62
+prd_01041,fashion_shoes,Shoes & Footwear,30.61,9673.0,87,77,72
+prd_01042,fashion_clothing,Fashion & Apparel,103.7,11885.0,81,5,48
+prd_01043,toys,Toys & Games,17.91,10494.0,23,41,78
+prd_01044,telephony,Telephony/Mobile,925.82,9625.0,41,18,78
+prd_01045,health_perfumery,Health & Perfumery,41.05,12020.0,28,17,24
+prd_01046,fashion_shoes,Shoes & Footwear,157.94,6303.0,99,62,49
+prd_01047,home_appliances,Home Appliances,796.24,7611.0,13,48,15
+prd_01048,computers_accessories,Computers & Accessories,1462.93,5642.0,84,62,36
+prd_01049,sports_leisure,Sports & Leisure,110.0,12277.0,55,54,70
+prd_01050,fashion_shoes,Shoes & Footwear,199.6,4361.0,74,12,47
+prd_01051,electronics,Electronics,338.8,10654.0,93,41,38
+prd_01052,beauty_cosmetics,Beauty & Cosmetics,77.59,7310.0,45,56,38
+prd_01053,housewares,Housewares,112.04,3612.0,92,8,29
+prd_01054,telephony,Telephony/Mobile,492.19,10352.0,58,47,14
+prd_01055,sports_leisure,Sports & Leisure,292.38,1905.0,78,27,12
+prd_01056,telephony,Telephony/Mobile,367.79,4430.0,12,9,50
+prd_01057,books_stationery,Books & Stationery,16.39,11431.0,88,23,61
+prd_01058,computers_accessories,Computers & Accessories,500.18,8135.0,55,20,65
+prd_01059,home_appliances,Home Appliances,979.5,12677.0,79,31,79
+prd_01060,computers_accessories,Computers & Accessories,289.44,5550.0,87,39,27
+prd_01061,automotive,Automotive Parts,325.31,12384.0,78,23,38
+prd_01062,computers_accessories,Computers & Accessories,235.09,9379.0,65,24,21
+prd_01063,health_perfumery,Health & Perfumery,55.18,3646.0,20,43,33
+prd_01064,electronics,Electronics,327.44,13304.0,88,23,76
+prd_01065,home_appliances,Home Appliances,889.88,13781.0,62,74,28
+prd_01066,telephony,Telephony/Mobile,921.49,9492.0,52,30,64
+prd_01067,office_furniture,Office Furniture,86.18,12419.0,43,51,60
+prd_01068,garden_tools,Garden Tools,201.5,5141.0,63,19,31
+prd_01069,telephony,Telephony/Mobile,93.15,10282.0,77,42,47
+prd_01070,toys,Toys & Games,25.08,1718.0,56,53,15
+prd_01071,beauty_cosmetics,Beauty & Cosmetics,57.48,5341.0,52,16,20
+prd_01072,home_appliances,Home Appliances,572.42,6153.0,24,79,22
+prd_01073,electronics,Electronics,331.61,8413.0,72,79,60
+prd_01074,books_stationery,Books & Stationery,16.31,5846.0,31,54,76
+prd_01075,toys,Toys & Games,124.93,6105.0,87,43,33
+prd_01076,computers_accessories,Computers & Accessories,1294.43,7240.0,44,16,39
+prd_01077,computers_accessories,Computers & Accessories,491.91,5229.0,94,22,68
+prd_01078,toys,Toys & Games,89.24,6845.0,99,16,17
+prd_01079,telephony,Telephony/Mobile,453.53,13764.0,57,55,71
+prd_01080,home_appliances,Home Appliances,349.05,4829.0,44,66,34
+prd_01081,computers_accessories,Computers & Accessories,976.42,12919.0,26,6,48
+prd_01082,electronics,Electronics,532.04,10203.0,92,22,27
+prd_01083,garden_tools,Garden Tools,168.23,12993.0,21,13,38
+prd_01084,telephony,Telephony/Mobile,943.44,497.0,34,38,14
+prd_01085,electronics,Electronics,542.81,3100.0,76,29,27
+prd_01086,housewares,Housewares,114.81,13661.0,56,74,50
+prd_01087,home_appliances,Home Appliances,821.64,8137.0,71,29,53
+prd_01088,fashion_shoes,Shoes & Footwear,71.72,13540.0,27,79,43
+prd_01089,computers_accessories,Computers & Accessories,917.34,5774.0,95,29,29
+prd_01090,automotive,Automotive Parts,78.06,12430.0,86,34,58
+prd_01091,housewares,Housewares,61.18,9561.0,14,74,59
+prd_01092,health_perfumery,Health & Perfumery,117.89,3223.0,64,75,51
+prd_01093,telephony,Telephony/Mobile,235.88,13263.0,51,34,40
+prd_01094,health_perfumery,Health & Perfumery,37.89,4136.0,96,75,37
+prd_01095,fashion_clothing,Fashion & Apparel,85.62,11069.0,53,50,11
+prd_01096,beauty_cosmetics,Beauty & Cosmetics,27.29,603.0,91,23,72
+prd_01097,home_appliances,Home Appliances,599.03,5398.0,100,61,19
+prd_01098,toys,Toys & Games,44.78,13335.0,25,52,13
+prd_01099,telephony,Telephony/Mobile,179.24,3650.0,87,50,65
+prd_01100,home_appliances,Home Appliances,819.5,8241.0,35,38,50
+prd_01101,computers_accessories,Computers & Accessories,990.82,10998.0,23,10,62
+prd_01102,health_perfumery,Health & Perfumery,44.08,14762.0,57,43,75
+prd_01103,fashion_clothing,Fashion & Apparel,43.26,5167.0,97,63,65
+prd_01104,beauty_cosmetics,Beauty & Cosmetics,49.86,5884.0,58,68,27
+prd_01105,housewares,Housewares,92.13,1090.0,44,31,41
+prd_01106,automotive,Automotive Parts,304.61,7460.0,36,65,80
+prd_01107,computers_accessories,Computers & Accessories,1456.92,12332.0,81,12,35
+prd_01108,fashion_shoes,Shoes & Footwear,73.11,4757.0,64,37,61
+prd_01109,fashion_shoes,Shoes & Footwear,114.98,12037.0,60,43,64
+prd_01110,garden_tools,Garden Tools,163.74,757.0,45,55,63
+prd_01111,fashion_clothing,Fashion & Apparel,26.63,8384.0,25,51,46
+prd_01112,electronics,Electronics,212.34,12974.0,97,57,66
+prd_01113,housewares,Housewares,65.17,8912.0,83,50,54
+prd_01114,housewares,Housewares,21.42,8218.0,18,35,48
+prd_01115,computers_accessories,Computers & Accessories,778.46,13881.0,60,39,34
+prd_01116,health_perfumery,Health & Perfumery,67.03,13388.0,71,44,50
+prd_01117,sports_leisure,Sports & Leisure,278.58,1596.0,22,46,54
+prd_01118,fashion_shoes,Shoes & Footwear,130.77,13457.0,35,16,18
+prd_01119,fashion_clothing,Fashion & Apparel,43.87,5265.0,13,45,33
+prd_01120,beauty_cosmetics,Beauty & Cosmetics,49.44,4677.0,45,34,19
+prd_01121,automotive,Automotive Parts,145.91,3694.0,49,39,76
+prd_01122,electronics,Electronics,668.21,4288.0,70,21,48
+prd_01123,electronics,Electronics,114.39,7696.0,20,31,54
+prd_01124,books_stationery,Books & Stationery,46.35,7128.0,21,37,10
+prd_01125,housewares,Housewares,60.61,10428.0,15,51,42
+prd_01126,home_appliances,Home Appliances,805.95,1076.0,93,30,52
+prd_01127,electronics,Electronics,792.49,6243.0,32,80,30
+prd_01128,toys,Toys & Games,26.13,6250.0,43,66,75
+prd_01129,toys,Toys & Games,42.22,9328.0,16,53,68
+prd_01130,fashion_shoes,Shoes & Footwear,56.73,2958.0,60,9,58
+prd_01131,computers_accessories,Computers & Accessories,208.31,5380.0,52,17,29
+prd_01132,garden_tools,Garden Tools,45.83,13414.0,65,36,15
+prd_01133,housewares,Housewares,33.78,14238.0,52,76,22
+prd_01134,fashion_clothing,Fashion & Apparel,81.82,169.0,98,63,35
+prd_01135,computers_accessories,Computers & Accessories,1127.56,14825.0,69,18,56
+prd_01136,sports_leisure,Sports & Leisure,135.14,630.0,97,78,13
+prd_01137,telephony,Telephony/Mobile,266.26,9040.0,53,64,78
+prd_01138,beauty_cosmetics,Beauty & Cosmetics,26.09,13772.0,80,18,33
+prd_01139,home_appliances,Home Appliances,885.35,8463.0,78,46,78
+prd_01140,fashion_shoes,Shoes & Footwear,118.75,2692.0,39,68,76
+prd_01141,toys,Toys & Games,29.82,2146.0,62,22,20
+prd_01142,home_appliances,Home Appliances,546.42,4967.0,36,10,52
+prd_01143,health_perfumery,Health & Perfumery,110.42,13790.0,45,58,37
+prd_01144,beauty_cosmetics,Beauty & Cosmetics,90.36,1217.0,60,54,70
+prd_01145,books_stationery,Books & Stationery,50.6,13622.0,10,36,64
+prd_01146,health_perfumery,Health & Perfumery,44.73,14791.0,11,26,61
+prd_01147,electronics,Electronics,100.83,12165.0,43,78,42
+prd_01148,housewares,Housewares,58.43,6839.0,69,12,15
+prd_01149,computers_accessories,Computers & Accessories,1092.13,3514.0,58,72,39
+prd_01150,computers_accessories,Computers & Accessories,321.83,8122.0,80,30,11
+prd_01151,housewares,Housewares,144.55,9252.0,26,16,41
+prd_01152,electronics,Electronics,200.55,9836.0,63,47,72
+prd_01153,computers_accessories,Computers & Accessories,205.91,5929.0,63,30,43
+prd_01154,housewares,Housewares,107.31,7351.0,88,54,21
+prd_01155,sports_leisure,Sports & Leisure,165.76,5363.0,66,72,76
+prd_01156,toys,Toys & Games,54.61,4844.0,77,75,41
+prd_01157,beauty_cosmetics,Beauty & Cosmetics,85.38,5254.0,66,59,70
+prd_01158,telephony,Telephony/Mobile,184.97,8251.0,29,73,78
+prd_01159,housewares,Housewares,121.01,10960.0,95,10,43
+prd_01160,electronics,Electronics,552.51,5174.0,97,74,34
+prd_01161,health_perfumery,Health & Perfumery,32.0,1619.0,85,49,36
+prd_01162,telephony,Telephony/Mobile,652.36,6816.0,77,23,30
+prd_01163,automotive,Automotive Parts,214.27,4778.0,43,21,18
+prd_01164,sports_leisure,Sports & Leisure,247.65,5547.0,38,37,54
+prd_01165,computers_accessories,Computers & Accessories,1484.01,5425.0,59,14,13
+prd_01166,fashion_clothing,Fashion & Apparel,78.07,10652.0,46,57,61
+prd_01167,beauty_cosmetics,Beauty & Cosmetics,14.13,14817.0,29,37,47
+prd_01168,housewares,Housewares,76.84,8637.0,10,53,42
+prd_01169,toys,Toys & Games,35.3,5940.0,49,39,71
+prd_01170,toys,Toys & Games,56.29,10526.0,34,78,76
+prd_01171,beauty_cosmetics,Beauty & Cosmetics,70.33,10072.0,10,80,13
+prd_01172,home_appliances,Home Appliances,984.63,13452.0,36,14,45
+prd_01173,toys,Toys & Games,22.23,6033.0,11,41,59
+prd_01174,electronics,Electronics,584.66,7173.0,63,48,54
+prd_01175,books_stationery,Books & Stationery,19.14,5728.0,42,63,64
+prd_01176,housewares,Housewares,130.52,607.0,42,47,60
+prd_01177,computers_accessories,Computers & Accessories,223.35,11874.0,84,15,29
+prd_01178,beauty_cosmetics,Beauty & Cosmetics,68.55,786.0,81,18,26
+prd_01179,health_perfumery,Health & Perfumery,114.17,10033.0,58,46,23
+prd_01180,beauty_cosmetics,Beauty & Cosmetics,43.36,2347.0,21,6,25
+prd_01181,fashion_shoes,Shoes & Footwear,130.97,8294.0,99,45,57
+prd_01182,fashion_shoes,Shoes & Footwear,133.64,521.0,57,67,37
+prd_01183,computers_accessories,Computers & Accessories,206.61,14057.0,91,6,39
+prd_01184,telephony,Telephony/Mobile,458.15,2012.0,13,40,39
+prd_01185,garden_tools,Garden Tools,117.76,5526.0,95,50,37
+prd_01186,toys,Toys & Games,131.56,3745.0,72,17,80
+prd_01187,computers_accessories,Computers & Accessories,1114.62,8170.0,14,51,18
+prd_01188,telephony,Telephony/Mobile,516.06,10755.0,36,27,36
+prd_01189,home_appliances,Home Appliances,909.6,11267.0,86,57,46
+prd_01190,housewares,Housewares,61.98,3402.0,24,54,66
+prd_01191,telephony,Telephony/Mobile,296.86,1435.0,60,70,16
+prd_01192,books_stationery,Books & Stationery,45.02,7992.0,86,11,37
+prd_01193,computers_accessories,Computers & Accessories,1370.43,5872.0,27,6,37
+prd_01194,electronics,Electronics,207.1,5508.0,73,76,27
+prd_01195,fashion_shoes,Shoes & Footwear,155.27,10347.0,82,60,79
+prd_01196,toys,Toys & Games,75.16,11995.0,69,67,28
+prd_01197,sports_leisure,Sports & Leisure,107.32,13909.0,68,42,61
+prd_01198,electronics,Electronics,671.16,7935.0,12,54,35
+prd_01199,fashion_clothing,Fashion & Apparel,45.6,7131.0,21,20,13
+prd_01200,office_furniture,Office Furniture,387.22,8628.0,47,68,56
+prd_01201,fashion_clothing,Fashion & Apparel,34.08,3594.0,10,33,41
+prd_01202,office_furniture,Office Furniture,107.0,12816.0,94,43,50
+prd_01203,computers_accessories,Computers & Accessories,807.64,10852.0,76,25,48
+prd_01204,fashion_clothing,Fashion & Apparel,16.52,1238.0,47,20,79
+prd_01205,electronics,Electronics,380.1,10509.0,85,15,25
+prd_01206,electronics,Electronics,589.16,12322.0,26,64,67
+prd_01207,toys,Toys & Games,47.63,2024.0,41,46,66
+prd_01208,garden_tools,Garden Tools,81.52,6970.0,85,55,50
+prd_01209,electronics,Electronics,426.31,10971.0,16,40,25
+prd_01210,office_furniture,Office Furniture,123.4,9440.0,16,20,58
+prd_01211,office_furniture,Office Furniture,230.19,9042.0,53,27,72
+prd_01212,automotive,Automotive Parts,125.99,9915.0,24,44,75
+prd_01213,fashion_shoes,Shoes & Footwear,56.97,10341.0,91,58,17
+prd_01214,electronics,Electronics,516.05,6461.0,54,30,39
+prd_01215,fashion_clothing,Fashion & Apparel,52.95,12950.0,93,58,33
+prd_01216,fashion_shoes,Shoes & Footwear,107.86,5167.0,70,62,54
+prd_01217,sports_leisure,Sports & Leisure,164.47,1784.0,48,57,20
+prd_01218,housewares,Housewares,55.14,3607.0,95,51,22
+prd_01219,housewares,Housewares,94.35,12291.0,63,21,71
+prd_01220,telephony,Telephony/Mobile,986.62,5958.0,79,40,56
+prd_01221,home_appliances,Home Appliances,472.15,10661.0,27,58,35
+prd_01222,health_perfumery,Health & Perfumery,80.37,7940.0,11,16,39
+prd_01223,health_perfumery,Health & Perfumery,98.86,11762.0,65,22,69
+prd_01224,telephony,Telephony/Mobile,588.56,473.0,38,38,14
+prd_01225,health_perfumery,Health & Perfumery,94.57,9495.0,71,79,56
+prd_01226,sports_leisure,Sports & Leisure,24.91,13434.0,90,64,54
+prd_01227,health_perfumery,Health & Perfumery,98.14,3569.0,11,76,50
+prd_01228,books_stationery,Books & Stationery,34.84,4265.0,34,20,45
+prd_01229,home_appliances,Home Appliances,442.56,14421.0,57,9,21
+prd_01230,fashion_clothing,Fashion & Apparel,94.75,10132.0,41,73,52
+prd_01231,sports_leisure,Sports & Leisure,22.82,12052.0,67,59,34
+prd_01232,telephony,Telephony/Mobile,490.26,14263.0,64,31,43
+prd_01233,sports_leisure,Sports & Leisure,91.21,9703.0,55,6,62
+prd_01234,garden_tools,Garden Tools,238.57,6269.0,88,71,80
+prd_01235,housewares,Housewares,52.88,1883.0,55,49,37
+prd_01236,electronics,Electronics,696.72,7403.0,60,51,37
+prd_01237,sports_leisure,Sports & Leisure,207.16,3639.0,43,79,24
+prd_01238,fashion_clothing,Fashion & Apparel,84.91,13753.0,20,71,32
+prd_01239,electronics,Electronics,117.8,6604.0,76,13,23
+prd_01240,computers_accessories,Computers & Accessories,851.4,11232.0,46,44,76
+prd_01241,housewares,Housewares,38.47,1081.0,38,62,32
+prd_01242,electronics,Electronics,167.51,12537.0,35,67,18
+prd_01243,beauty_cosmetics,Beauty & Cosmetics,92.34,12770.0,76,71,18
+prd_01244,home_appliances,Home Appliances,248.2,7665.0,95,33,52
+prd_01245,telephony,Telephony/Mobile,155.5,10914.0,19,10,22
+prd_01246,fashion_clothing,Fashion & Apparel,69.01,8290.0,59,37,41
+prd_01247,housewares,Housewares,81.78,4815.0,89,41,50
+prd_01248,fashion_shoes,Shoes & Footwear,134.7,10626.0,89,47,44
+prd_01249,electronics,Electronics,759.23,7067.0,13,37,34
+prd_01250,sports_leisure,Sports & Leisure,164.66,2882.0,96,55,74
+prd_01251,fashion_clothing,Fashion & Apparel,84.48,5917.0,100,16,52
+prd_01252,beauty_cosmetics,Beauty & Cosmetics,28.06,14702.0,70,23,78
+prd_01253,computers_accessories,Computers & Accessories,220.64,2974.0,77,30,40
+prd_01254,computers_accessories,Computers & Accessories,1390.69,8853.0,69,18,54
+prd_01255,toys,Toys & Games,123.78,8182.0,19,43,80
+prd_01256,electronics,Electronics,182.62,8941.0,11,45,61
+prd_01257,computers_accessories,Computers & Accessories,554.7,13680.0,50,77,26
+prd_01258,telephony,Telephony/Mobile,388.62,14323.0,16,42,77
+prd_01259,housewares,Housewares,93.73,5427.0,29,23,54
+prd_01260,home_appliances,Home Appliances,536.59,7389.0,27,44,65
+prd_01261,toys,Toys & Games,56.18,8136.0,46,61,33
+prd_01262,automotive,Automotive Parts,222.76,14350.0,95,21,33
+prd_01263,fashion_shoes,Shoes & Footwear,57.52,9887.0,71,62,79
+prd_01264,electronics,Electronics,658.37,7096.0,52,62,29
+prd_01265,electronics,Electronics,526.05,8268.0,89,79,12
+prd_01266,health_perfumery,Health & Perfumery,63.42,9609.0,23,78,47
+prd_01267,fashion_clothing,Fashion & Apparel,86.87,6713.0,68,49,36
+prd_01268,electronics,Electronics,587.42,7661.0,13,50,63
+prd_01269,sports_leisure,Sports & Leisure,179.83,14608.0,72,29,49
+prd_01270,beauty_cosmetics,Beauty & Cosmetics,32.25,9801.0,50,79,48
+prd_01271,health_perfumery,Health & Perfumery,91.17,10102.0,45,12,52
+prd_01272,books_stationery,Books & Stationery,24.11,3571.0,48,68,60
+prd_01273,electronics,Electronics,138.74,10921.0,60,24,63
+prd_01274,housewares,Housewares,111.98,6785.0,46,30,14
+prd_01275,telephony,Telephony/Mobile,203.34,3667.0,35,53,66
+prd_01276,home_appliances,Home Appliances,215.89,14526.0,39,57,32
+prd_01277,books_stationery,Books & Stationery,33.28,3418.0,10,49,33
+prd_01278,beauty_cosmetics,Beauty & Cosmetics,59.38,13393.0,84,37,27
+prd_01279,fashion_clothing,Fashion & Apparel,99.43,4592.0,63,56,43
+prd_01280,computers_accessories,Computers & Accessories,397.31,8112.0,89,26,42
+prd_01281,home_appliances,Home Appliances,641.13,213.0,27,56,23
+prd_01282,fashion_clothing,Fashion & Apparel,88.53,10124.0,14,34,65
+prd_01283,books_stationery,Books & Stationery,33.38,8188.0,100,9,15
+prd_01284,sports_leisure,Sports & Leisure,296.78,14925.0,44,35,33
+prd_01285,automotive,Automotive Parts,270.35,11944.0,83,29,25
+prd_01286,sports_leisure,Sports & Leisure,178.97,4157.0,38,55,23
+prd_01287,health_perfumery,Health & Perfumery,84.31,9962.0,68,76,73
+prd_01288,beauty_cosmetics,Beauty & Cosmetics,79.3,14571.0,12,18,78
+prd_01289,electronics,Electronics,446.61,10071.0,55,46,55
+prd_01290,sports_leisure,Sports & Leisure,125.03,14179.0,85,12,62
+prd_01291,electronics,Electronics,382.45,6130.0,46,52,60
+prd_01292,sports_leisure,Sports & Leisure,18.02,4042.0,80,25,17
+prd_01293,electronics,Electronics,464.93,2435.0,54,35,45
+prd_01294,health_perfumery,Health & Perfumery,65.98,10224.0,71,73,35
+prd_01295,beauty_cosmetics,Beauty & Cosmetics,85.87,6251.0,11,7,61
+prd_01296,electronics,Electronics,701.92,6541.0,59,31,68
+prd_01297,toys,Toys & Games,65.68,11543.0,57,6,53
+prd_01298,books_stationery,Books & Stationery,28.69,8328.0,48,16,12
+prd_01299,garden_tools,Garden Tools,214.96,702.0,21,39,17
+prd_01300,automotive,Automotive Parts,270.82,4476.0,81,27,31
+prd_01301,fashion_clothing,Fashion & Apparel,36.71,8189.0,77,9,25
+prd_01302,garden_tools,Garden Tools,152.47,14782.0,51,69,76
+prd_01303,electronics,Electronics,72.3,10553.0,93,66,34
+prd_01304,garden_tools,Garden Tools,156.9,5309.0,84,58,25
+prd_01305,fashion_shoes,Shoes & Footwear,149.45,7005.0,53,33,75
+prd_01306,telephony,Telephony/Mobile,355.03,8938.0,89,15,67
+prd_01307,books_stationery,Books & Stationery,25.34,14631.0,77,32,48
+prd_01308,housewares,Housewares,98.52,5256.0,96,57,48
+prd_01309,home_appliances,Home Appliances,778.0,7378.0,68,79,16
+prd_01310,home_appliances,Home Appliances,823.28,7770.0,58,16,59
+prd_01311,telephony,Telephony/Mobile,409.81,3413.0,76,37,33
+prd_01312,fashion_clothing,Fashion & Apparel,92.24,357.0,69,73,24
+prd_01313,health_perfumery,Health & Perfumery,67.21,6089.0,67,58,33
+prd_01314,fashion_shoes,Shoes & Footwear,103.76,741.0,45,47,15
+prd_01315,sports_leisure,Sports & Leisure,220.23,7027.0,37,59,76
+prd_01316,housewares,Housewares,134.05,3629.0,74,19,74
+prd_01317,electronics,Electronics,436.57,705.0,40,67,43
+prd_01318,fashion_clothing,Fashion & Apparel,31.11,10043.0,76,60,67
+prd_01319,fashion_clothing,Fashion & Apparel,86.35,8624.0,78,45,62
+prd_01320,fashion_clothing,Fashion & Apparel,46.33,1550.0,32,13,34
+prd_01321,fashion_clothing,Fashion & Apparel,46.2,4384.0,55,68,20
+prd_01322,toys,Toys & Games,85.68,14586.0,94,35,65
+prd_01323,automotive,Automotive Parts,190.95,2755.0,81,76,25
+prd_01324,home_appliances,Home Appliances,404.78,13883.0,13,27,43
+prd_01325,fashion_shoes,Shoes & Footwear,151.68,1418.0,84,10,79
+prd_01326,beauty_cosmetics,Beauty & Cosmetics,58.2,5831.0,43,21,10
+prd_01327,sports_leisure,Sports & Leisure,46.31,4498.0,78,19,16
+prd_01328,telephony,Telephony/Mobile,959.91,2741.0,80,68,53
+prd_01329,housewares,Housewares,149.22,13454.0,69,14,55
+prd_01330,housewares,Housewares,149.73,3605.0,50,57,30
+prd_01331,sports_leisure,Sports & Leisure,230.66,2587.0,52,19,56
+prd_01332,telephony,Telephony/Mobile,232.19,12882.0,90,42,66
+prd_01333,home_appliances,Home Appliances,850.3,2298.0,64,75,72
+prd_01334,housewares,Housewares,13.1,8433.0,30,10,41
+prd_01335,telephony,Telephony/Mobile,279.94,10963.0,28,15,35
+prd_01336,computers_accessories,Computers & Accessories,1343.37,7727.0,53,73,26
+prd_01337,office_furniture,Office Furniture,435.94,8543.0,76,36,53
+prd_01338,electronics,Electronics,261.56,13033.0,20,63,78
+prd_01339,computers_accessories,Computers & Accessories,1340.56,11244.0,51,16,39
+prd_01340,telephony,Telephony/Mobile,833.8,11752.0,71,41,14
+prd_01341,housewares,Housewares,22.33,1495.0,97,15,35
+prd_01342,toys,Toys & Games,134.76,10616.0,23,42,44
+prd_01343,fashion_shoes,Shoes & Footwear,86.49,9503.0,96,43,26
+prd_01344,toys,Toys & Games,100.33,1790.0,64,74,47
+prd_01345,electronics,Electronics,372.94,14452.0,55,53,22
+prd_01346,electronics,Electronics,447.85,13892.0,82,15,67
+prd_01347,beauty_cosmetics,Beauty & Cosmetics,10.27,9640.0,23,51,65
+prd_01348,electronics,Electronics,646.4,3070.0,21,40,58
+prd_01349,home_appliances,Home Appliances,465.57,2147.0,100,48,17
+prd_01350,housewares,Housewares,46.71,3398.0,66,51,45
+prd_01351,books_stationery,Books & Stationery,17.71,10588.0,22,37,34
+prd_01352,beauty_cosmetics,Beauty & Cosmetics,97.42,3414.0,51,21,80
+prd_01353,toys,Toys & Games,128.35,3338.0,12,66,79
+prd_01354,computers_accessories,Computers & Accessories,1261.07,6234.0,70,80,21
+prd_01355,housewares,Housewares,19.85,9291.0,32,39,38
+prd_01356,health_perfumery,Health & Perfumery,82.54,13807.0,34,7,54
+prd_01357,fashion_shoes,Shoes & Footwear,198.05,2365.0,40,16,45
+prd_01358,beauty_cosmetics,Beauty & Cosmetics,87.23,13065.0,57,68,43
+prd_01359,electronics,Electronics,745.73,7028.0,83,13,21
+prd_01360,electronics,Electronics,380.53,1217.0,53,44,42
+prd_01361,health_perfumery,Health & Perfumery,35.17,2872.0,35,22,21
+prd_01362,beauty_cosmetics,Beauty & Cosmetics,52.99,3028.0,46,9,68
+prd_01363,fashion_shoes,Shoes & Footwear,31.61,9577.0,92,50,43
+prd_01364,fashion_shoes,Shoes & Footwear,147.29,9772.0,24,25,29
+prd_01365,toys,Toys & Games,118.41,12511.0,44,56,12
+prd_01366,electronics,Electronics,375.74,2725.0,56,72,17
+prd_01367,fashion_shoes,Shoes & Footwear,115.83,6938.0,74,77,72
+prd_01368,housewares,Housewares,85.55,10626.0,12,23,24
+prd_01369,housewares,Housewares,130.89,14129.0,86,11,17
+prd_01370,sports_leisure,Sports & Leisure,108.72,220.0,35,42,67
+prd_01371,sports_leisure,Sports & Leisure,291.86,10634.0,32,34,15
+prd_01372,sports_leisure,Sports & Leisure,216.17,613.0,34,63,65
+prd_01373,housewares,Housewares,96.86,10269.0,47,55,62
+prd_01374,fashion_shoes,Shoes & Footwear,133.74,11225.0,25,30,78
+prd_01375,electronics,Electronics,790.22,13106.0,93,19,42
+prd_01376,fashion_clothing,Fashion & Apparel,16.24,3822.0,71,71,27
+prd_01377,sports_leisure,Sports & Leisure,232.49,3732.0,84,16,73
+prd_01378,fashion_shoes,Shoes & Footwear,175.27,2212.0,76,27,55
+prd_01379,home_appliances,Home Appliances,816.13,7339.0,24,10,63
+prd_01380,toys,Toys & Games,122.81,12953.0,11,43,71
+prd_01381,fashion_shoes,Shoes & Footwear,195.36,5633.0,76,35,40
+prd_01382,electronics,Electronics,694.47,11436.0,56,32,56
+prd_01383,fashion_clothing,Fashion & Apparel,51.11,13649.0,12,36,61
+prd_01384,fashion_clothing,Fashion & Apparel,80.42,14787.0,44,6,80
+prd_01385,fashion_clothing,Fashion & Apparel,114.5,5047.0,100,34,39
+prd_01386,electronics,Electronics,82.23,2036.0,51,67,25
+prd_01387,electronics,Electronics,674.71,1037.0,25,69,16
+prd_01388,home_appliances,Home Appliances,409.5,12349.0,77,8,51
+prd_01389,health_perfumery,Health & Perfumery,107.83,1900.0,84,8,70
+prd_01390,computers_accessories,Computers & Accessories,601.24,6176.0,57,50,74
+prd_01391,sports_leisure,Sports & Leisure,155.24,2345.0,32,33,27
+prd_01392,fashion_shoes,Shoes & Footwear,113.96,6732.0,95,72,69
+prd_01393,garden_tools,Garden Tools,175.47,11303.0,18,50,42
+prd_01394,fashion_shoes,Shoes & Footwear,179.4,7918.0,48,75,54
+prd_01395,office_furniture,Office Furniture,85.91,8545.0,12,30,35
+prd_01396,telephony,Telephony/Mobile,759.07,14832.0,34,71,34
+prd_01397,sports_leisure,Sports & Leisure,30.72,7344.0,88,41,76
+prd_01398,telephony,Telephony/Mobile,971.8,2791.0,97,31,74
+prd_01399,electronics,Electronics,488.31,12846.0,26,61,19
+prd_01400,health_perfumery,Health & Perfumery,16.41,12041.0,75,65,45
+prd_01401,housewares,Housewares,75.84,397.0,61,64,26
+prd_01402,sports_leisure,Sports & Leisure,172.57,5065.0,81,13,10
+prd_01403,home_appliances,Home Appliances,919.12,1783.0,55,70,14
+prd_01404,automotive,Automotive Parts,67.7,11789.0,48,51,58
+prd_01405,housewares,Housewares,35.42,6476.0,28,41,39
+prd_01406,telephony,Telephony/Mobile,592.39,4003.0,48,44,63
+prd_01407,sports_leisure,Sports & Leisure,150.18,8374.0,82,47,60
+prd_01408,housewares,Housewares,125.26,5444.0,82,19,23
+prd_01409,housewares,Housewares,118.07,13095.0,65,6,13
+prd_01410,books_stationery,Books & Stationery,53.62,6801.0,46,28,10
+prd_01411,fashion_clothing,Fashion & Apparel,75.8,4041.0,74,38,79
+prd_01412,electronics,Electronics,152.73,6082.0,99,78,72
+prd_01413,computers_accessories,Computers & Accessories,380.82,2479.0,42,28,37
+prd_01414,electronics,Electronics,538.6,10015.0,30,65,44
+prd_01415,electronics,Electronics,642.45,4377.0,74,51,62
+prd_01416,health_perfumery,Health & Perfumery,107.07,10993.0,48,54,61
+prd_01417,health_perfumery,Health & Perfumery,71.53,10078.0,20,24,64
+prd_01418,electronics,Electronics,246.83,2563.0,42,49,36
+prd_01419,telephony,Telephony/Mobile,944.26,798.0,74,55,51
+prd_01420,telephony,Telephony/Mobile,306.15,9317.0,14,59,12
+prd_01421,fashion_clothing,Fashion & Apparel,103.13,487.0,60,17,18
+prd_01422,books_stationery,Books & Stationery,9.21,893.0,56,44,32
+prd_01423,computers_accessories,Computers & Accessories,1488.81,7359.0,97,39,38
+prd_01424,books_stationery,Books & Stationery,19.56,1645.0,69,18,69
+prd_01425,automotive,Automotive Parts,58.88,13482.0,76,68,46
+prd_01426,home_appliances,Home Appliances,416.47,1740.0,16,75,60
+prd_01427,toys,Toys & Games,61.98,3963.0,93,79,52
+prd_01428,housewares,Housewares,42.78,3757.0,21,55,59
+prd_01429,electronics,Electronics,789.28,10157.0,94,23,48
+prd_01430,electronics,Electronics,125.26,3533.0,90,36,64
+prd_01431,automotive,Automotive Parts,368.18,9432.0,25,72,16
+prd_01432,home_appliances,Home Appliances,414.7,1293.0,60,69,73
+prd_01433,books_stationery,Books & Stationery,35.16,1418.0,77,70,39
+prd_01434,books_stationery,Books & Stationery,47.6,2071.0,69,71,65
+prd_01435,beauty_cosmetics,Beauty & Cosmetics,19.77,12731.0,99,26,59
+prd_01436,beauty_cosmetics,Beauty & Cosmetics,94.68,3296.0,72,59,69
+prd_01437,home_appliances,Home Appliances,290.75,3320.0,49,48,14
+prd_01438,fashion_clothing,Fashion & Apparel,41.51,7249.0,81,47,12
+prd_01439,fashion_clothing,Fashion & Apparel,33.77,7230.0,65,18,26
+prd_01440,automotive,Automotive Parts,224.7,13949.0,73,76,61
+prd_01441,fashion_shoes,Shoes & Footwear,82.92,3456.0,21,59,48
+prd_01442,beauty_cosmetics,Beauty & Cosmetics,83.96,13907.0,89,14,72
+prd_01443,fashion_shoes,Shoes & Footwear,37.88,12649.0,10,67,62
+prd_01444,housewares,Housewares,85.08,9269.0,41,29,36
+prd_01445,fashion_clothing,Fashion & Apparel,106.7,3621.0,54,65,24
+prd_01446,fashion_shoes,Shoes & Footwear,49.35,14789.0,13,61,37
+prd_01447,sports_leisure,Sports & Leisure,136.4,13130.0,26,21,42
+prd_01448,electronics,Electronics,524.8,4230.0,24,27,27
+prd_01449,telephony,Telephony/Mobile,640.32,9767.0,43,22,52
+prd_01450,computers_accessories,Computers & Accessories,175.14,7781.0,63,29,45
+prd_01451,computers_accessories,Computers & Accessories,862.85,4767.0,26,19,71
+prd_01452,health_perfumery,Health & Perfumery,84.39,14796.0,79,80,63
+prd_01453,electronics,Electronics,528.75,14002.0,49,76,10
+prd_01454,home_appliances,Home Appliances,553.64,6309.0,100,40,56
+prd_01455,beauty_cosmetics,Beauty & Cosmetics,82.53,1454.0,30,36,75
+prd_01456,electronics,Electronics,509.24,11864.0,75,63,11
+prd_01457,housewares,Housewares,136.38,7865.0,18,20,59
+prd_01458,electronics,Electronics,599.07,14259.0,66,35,16
+prd_01459,fashion_clothing,Fashion & Apparel,100.12,10805.0,48,65,47
+prd_01460,fashion_clothing,Fashion & Apparel,85.76,4321.0,14,70,45
+prd_01461,electronics,Electronics,423.88,14982.0,96,7,23
+prd_01462,automotive,Automotive Parts,40.91,3398.0,46,38,40
+prd_01463,electronics,Electronics,296.87,14485.0,58,71,64
+prd_01464,home_appliances,Home Appliances,644.37,1389.0,55,76,21
+prd_01465,computers_accessories,Computers & Accessories,111.04,7374.0,68,65,38
+prd_01466,sports_leisure,Sports & Leisure,295.73,10386.0,49,56,72
+prd_01467,telephony,Telephony/Mobile,797.47,5122.0,43,10,78
+prd_01468,beauty_cosmetics,Beauty & Cosmetics,53.34,10561.0,81,26,61
+prd_01469,electronics,Electronics,337.94,11192.0,45,8,66
+prd_01470,fashion_clothing,Fashion & Apparel,19.04,11490.0,55,78,73
+prd_01471,beauty_cosmetics,Beauty & Cosmetics,51.06,14485.0,38,75,63
+prd_01472,automotive,Automotive Parts,284.07,4639.0,77,26,66
+prd_01473,fashion_clothing,Fashion & Apparel,113.66,7757.0,13,5,38
+prd_01474,electronics,Electronics,568.02,11091.0,29,21,53
+prd_01475,computers_accessories,Computers & Accessories,405.28,6046.0,43,51,69
+prd_01476,housewares,Housewares,105.83,13828.0,47,21,30
+prd_01477,toys,Toys & Games,118.78,7259.0,50,38,13
+prd_01478,housewares,Housewares,90.06,5676.0,24,45,78
+prd_01479,health_perfumery,Health & Perfumery,104.12,2538.0,34,74,47
+prd_01480,books_stationery,Books & Stationery,17.47,1396.0,63,10,75
+prd_01481,sports_leisure,Sports & Leisure,282.81,11776.0,81,15,36
+prd_01482,fashion_clothing,Fashion & Apparel,39.61,7732.0,72,69,11
+prd_01483,electronics,Electronics,551.38,128.0,74,69,18
+prd_01484,telephony,Telephony/Mobile,777.01,12422.0,26,11,79
+prd_01485,toys,Toys & Games,137.23,13236.0,12,16,57
+prd_01486,beauty_cosmetics,Beauty & Cosmetics,75.93,5792.0,68,16,11
+prd_01487,housewares,Housewares,145.15,2670.0,93,63,33
+prd_01488,health_perfumery,Health & Perfumery,95.47,14573.0,54,19,70
+prd_01489,computers_accessories,Computers & Accessories,899.74,5097.0,82,22,11
+prd_01490,telephony,Telephony/Mobile,250.99,12271.0,99,24,41
+prd_01491,fashion_clothing,Fashion & Apparel,40.47,11289.0,10,73,35
+prd_01492,electronics,Electronics,608.08,9829.0,11,12,79
+prd_01493,fashion_clothing,Fashion & Apparel,67.97,6289.0,12,39,56
+prd_01494,telephony,Telephony/Mobile,228.16,3464.0,31,39,33
+prd_01495,fashion_shoes,Shoes & Footwear,197.39,7969.0,48,51,56
+prd_01496,health_perfumery,Health & Perfumery,77.81,9255.0,77,68,70
+prd_01497,electronics,Electronics,643.12,4615.0,86,11,46
+prd_01498,telephony,Telephony/Mobile,717.15,378.0,67,65,16
+prd_01499,electronics,Electronics,717.97,9962.0,88,43,39
+prd_01500,books_stationery,Books & Stationery,38.67,11009.0,13,11,80
+prd_01501,health_perfumery,Health & Perfumery,48.95,6839.0,47,46,26
+prd_01502,fashion_clothing,Fashion & Apparel,117.51,306.0,77,67,76
+prd_01503,computers_accessories,Computers & Accessories,265.62,9981.0,15,78,40
+prd_01504,books_stationery,Books & Stationery,24.0,3392.0,43,6,15
+prd_01505,electronics,Electronics,277.9,3474.0,63,31,27
+prd_01506,home_appliances,Home Appliances,704.37,11457.0,86,74,29
+prd_01507,telephony,Telephony/Mobile,685.64,7993.0,69,57,31
+prd_01508,fashion_clothing,Fashion & Apparel,64.56,4977.0,31,60,75
+prd_01509,electronics,Electronics,789.91,7664.0,12,33,46
+prd_01510,electronics,Electronics,256.83,1760.0,49,9,36
+prd_01511,fashion_clothing,Fashion & Apparel,92.84,9181.0,74,77,11
+prd_01512,beauty_cosmetics,Beauty & Cosmetics,75.45,3911.0,93,35,68
+prd_01513,telephony,Telephony/Mobile,972.65,7064.0,68,27,69
+prd_01514,electronics,Electronics,721.35,13536.0,21,75,43
+prd_01515,computers_accessories,Computers & Accessories,704.62,10273.0,13,27,43
+prd_01516,automotive,Automotive Parts,306.58,14593.0,100,44,65
+prd_01517,health_perfumery,Health & Perfumery,27.47,1353.0,74,20,65
+prd_01518,computers_accessories,Computers & Accessories,453.83,2507.0,72,76,65
+prd_01519,sports_leisure,Sports & Leisure,121.1,3174.0,59,45,57
+prd_01520,health_perfumery,Health & Perfumery,100.05,3796.0,41,62,42
+prd_01521,home_appliances,Home Appliances,785.59,1859.0,62,50,38
+prd_01522,sports_leisure,Sports & Leisure,165.38,14844.0,64,52,29
+prd_01523,fashion_clothing,Fashion & Apparel,93.9,775.0,16,13,53
+prd_01524,books_stationery,Books & Stationery,25.61,4817.0,89,69,74
+prd_01525,toys,Toys & Games,53.6,14532.0,81,45,23
+prd_01526,telephony,Telephony/Mobile,593.88,7105.0,17,24,11
+prd_01527,office_furniture,Office Furniture,383.73,2580.0,18,78,35
+prd_01528,fashion_clothing,Fashion & Apparel,65.41,14567.0,22,53,14
+prd_01529,housewares,Housewares,93.12,7015.0,91,77,54
+prd_01530,fashion_clothing,Fashion & Apparel,41.86,6985.0,60,21,75
+prd_01531,beauty_cosmetics,Beauty & Cosmetics,79.0,13477.0,10,74,62
+prd_01532,housewares,Housewares,139.01,14923.0,18,15,29
+prd_01533,fashion_clothing,Fashion & Apparel,112.21,2300.0,32,80,69
+prd_01534,automotive,Automotive Parts,286.92,13436.0,42,20,29
+prd_01535,computers_accessories,Computers & Accessories,361.64,9561.0,61,15,36
+prd_01536,computers_accessories,Computers & Accessories,249.18,1520.0,59,44,32
+prd_01537,housewares,Housewares,25.32,4658.0,72,35,74
+prd_01538,health_perfumery,Health & Perfumery,81.78,7206.0,88,32,38
+prd_01539,telephony,Telephony/Mobile,895.56,6790.0,46,78,76
+prd_01540,fashion_shoes,Shoes & Footwear,78.77,4527.0,43,7,50
+prd_01541,sports_leisure,Sports & Leisure,138.16,7273.0,74,27,27
+prd_01542,electronics,Electronics,394.99,114.0,96,26,47
+prd_01543,fashion_shoes,Shoes & Footwear,36.84,7077.0,89,61,42
+prd_01544,fashion_clothing,Fashion & Apparel,43.73,11760.0,14,31,66
+prd_01545,housewares,Housewares,60.05,10137.0,51,17,67
+prd_01546,fashion_shoes,Shoes & Footwear,76.06,2290.0,61,17,78
+prd_01547,toys,Toys & Games,69.51,3402.0,46,39,52
+prd_01548,housewares,Housewares,32.39,7265.0,11,77,12
+prd_01549,toys,Toys & Games,98.23,13598.0,17,22,61
+prd_01550,electronics,Electronics,285.58,687.0,89,8,66
+prd_01551,beauty_cosmetics,Beauty & Cosmetics,95.14,9292.0,88,5,49
+prd_01552,sports_leisure,Sports & Leisure,17.14,6825.0,72,51,58
+prd_01553,sports_leisure,Sports & Leisure,217.79,3429.0,61,42,14
+prd_01554,telephony,Telephony/Mobile,649.59,11951.0,74,33,80
+prd_01555,home_appliances,Home Appliances,799.98,7803.0,37,63,62
+prd_01556,sports_leisure,Sports & Leisure,120.56,5647.0,97,54,71
+prd_01557,home_appliances,Home Appliances,909.69,14368.0,13,23,78
+prd_01558,fashion_clothing,Fashion & Apparel,27.92,10634.0,82,41,48
+prd_01559,electronics,Electronics,64.65,267.0,50,14,66
+prd_01560,books_stationery,Books & Stationery,51.74,14096.0,76,22,69
+prd_01561,books_stationery,Books & Stationery,35.82,12484.0,73,63,78
+prd_01562,health_perfumery,Health & Perfumery,65.44,1509.0,31,6,39
+prd_01563,computers_accessories,Computers & Accessories,1129.3,210.0,66,61,73
+prd_01564,telephony,Telephony/Mobile,664.01,1135.0,27,31,10
+prd_01565,books_stationery,Books & Stationery,27.78,7246.0,68,55,37
+prd_01566,health_perfumery,Health & Perfumery,19.07,6788.0,79,21,75
+prd_01567,office_furniture,Office Furniture,228.86,1390.0,71,23,43
+prd_01568,housewares,Housewares,32.0,8062.0,80,37,29
+prd_01569,beauty_cosmetics,Beauty & Cosmetics,12.66,6417.0,83,41,35
+prd_01570,computers_accessories,Computers & Accessories,207.01,14973.0,54,14,75
+prd_01571,housewares,Housewares,135.14,7108.0,64,23,77
+prd_01572,electronics,Electronics,781.65,5062.0,20,63,74
+prd_01573,beauty_cosmetics,Beauty & Cosmetics,46.63,12611.0,15,25,46
+prd_01574,housewares,Housewares,43.72,11569.0,61,17,65
+prd_01575,books_stationery,Books & Stationery,9.12,6999.0,88,6,64
+prd_01576,beauty_cosmetics,Beauty & Cosmetics,58.47,6780.0,68,17,33
+prd_01577,fashion_shoes,Shoes & Footwear,31.85,3839.0,88,68,22
+prd_01578,beauty_cosmetics,Beauty & Cosmetics,93.3,7458.0,40,13,15
+prd_01579,home_appliances,Home Appliances,251.7,2833.0,13,70,63
+prd_01580,health_perfumery,Health & Perfumery,21.72,7493.0,50,80,14
+prd_01581,housewares,Housewares,116.16,6466.0,13,78,55
+prd_01582,computers_accessories,Computers & Accessories,856.92,2435.0,55,79,75
+prd_01583,computers_accessories,Computers & Accessories,858.63,9762.0,88,78,35
+prd_01584,office_furniture,Office Furniture,89.76,2078.0,30,63,30
+prd_01585,fashion_clothing,Fashion & Apparel,49.08,2946.0,34,60,23
+prd_01586,computers_accessories,Computers & Accessories,506.0,7646.0,21,45,41
+prd_01587,health_perfumery,Health & Perfumery,67.97,11192.0,23,23,17
+prd_01588,fashion_shoes,Shoes & Footwear,165.78,9146.0,10,45,58
+prd_01589,sports_leisure,Sports & Leisure,251.8,2012.0,14,29,57
+prd_01590,electronics,Electronics,191.32,693.0,12,56,57
+prd_01591,housewares,Housewares,21.79,3408.0,37,71,78
+prd_01592,computers_accessories,Computers & Accessories,380.0,7318.0,51,30,37
+prd_01593,computers_accessories,Computers & Accessories,336.45,6854.0,26,80,40
+prd_01594,telephony,Telephony/Mobile,651.29,8418.0,16,18,12
+prd_01595,beauty_cosmetics,Beauty & Cosmetics,70.4,7127.0,42,63,55
+prd_01596,housewares,Housewares,72.53,12995.0,80,45,73
+prd_01597,housewares,Housewares,118.72,13712.0,83,76,45
+prd_01598,sports_leisure,Sports & Leisure,44.0,13390.0,98,8,51
+prd_01599,sports_leisure,Sports & Leisure,158.02,536.0,60,43,17
+prd_01600,sports_leisure,Sports & Leisure,173.55,303.0,37,16,14
+prd_01601,electronics,Electronics,371.77,14222.0,96,41,53
+prd_01602,telephony,Telephony/Mobile,985.24,11684.0,31,48,78
+prd_01603,fashion_clothing,Fashion & Apparel,86.0,5942.0,58,25,46
+prd_01604,fashion_clothing,Fashion & Apparel,119.1,12175.0,47,43,73
+prd_01605,sports_leisure,Sports & Leisure,154.34,3859.0,87,23,13
+prd_01606,sports_leisure,Sports & Leisure,63.87,2116.0,88,18,63
+prd_01607,fashion_clothing,Fashion & Apparel,85.02,14272.0,44,77,58
+prd_01608,electronics,Electronics,99.69,9807.0,99,16,50
+prd_01609,books_stationery,Books & Stationery,36.92,11740.0,81,32,73
+prd_01610,fashion_clothing,Fashion & Apparel,61.54,3399.0,58,35,20
+prd_01611,fashion_clothing,Fashion & Apparel,63.54,12757.0,89,64,38
+prd_01612,housewares,Housewares,148.13,14689.0,19,56,56
+prd_01613,fashion_shoes,Shoes & Footwear,69.07,1578.0,25,43,38
+prd_01614,fashion_shoes,Shoes & Footwear,76.9,6931.0,66,35,57
+prd_01615,housewares,Housewares,84.5,1749.0,25,31,73
+prd_01616,housewares,Housewares,20.33,2635.0,54,9,43
+prd_01617,beauty_cosmetics,Beauty & Cosmetics,93.9,7580.0,49,72,38
+prd_01618,fashion_clothing,Fashion & Apparel,88.28,3000.0,58,52,23
+prd_01619,sports_leisure,Sports & Leisure,268.52,2199.0,17,27,18
+prd_01620,telephony,Telephony/Mobile,406.5,4378.0,76,58,70
+prd_01621,housewares,Housewares,112.96,11861.0,61,23,56
+prd_01622,office_furniture,Office Furniture,464.49,10158.0,93,67,15
+prd_01623,housewares,Housewares,110.54,10737.0,57,46,78
+prd_01624,beauty_cosmetics,Beauty & Cosmetics,45.85,12617.0,94,22,68
+prd_01625,telephony,Telephony/Mobile,522.82,9490.0,54,11,77
+prd_01626,computers_accessories,Computers & Accessories,295.39,13011.0,80,6,42
+prd_01627,housewares,Housewares,97.59,9505.0,47,54,65
+prd_01628,housewares,Housewares,149.78,3747.0,47,10,26
+prd_01629,sports_leisure,Sports & Leisure,146.31,12480.0,28,54,41
+prd_01630,fashion_clothing,Fashion & Apparel,93.8,11477.0,78,27,34
+prd_01631,health_perfumery,Health & Perfumery,66.46,914.0,68,37,29
+prd_01632,housewares,Housewares,72.79,8865.0,53,18,27
+prd_01633,computers_accessories,Computers & Accessories,934.71,11407.0,45,22,57
+prd_01634,beauty_cosmetics,Beauty & Cosmetics,17.54,495.0,46,34,15
+prd_01635,electronics,Electronics,414.67,9683.0,39,45,28
+prd_01636,beauty_cosmetics,Beauty & Cosmetics,28.8,11423.0,69,64,74
+prd_01637,housewares,Housewares,139.26,12292.0,56,23,79
+prd_01638,sports_leisure,Sports & Leisure,63.42,827.0,98,36,54
+prd_01639,electronics,Electronics,76.13,9612.0,29,26,33
+prd_01640,beauty_cosmetics,Beauty & Cosmetics,18.25,7458.0,27,8,21
+prd_01641,fashion_clothing,Fashion & Apparel,27.45,8786.0,31,36,70
+prd_01642,health_perfumery,Health & Perfumery,81.53,9614.0,71,52,23
+prd_01643,health_perfumery,Health & Perfumery,119.23,566.0,63,23,36
+prd_01644,fashion_shoes,Shoes & Footwear,50.5,5813.0,26,55,19
+prd_01645,computers_accessories,Computers & Accessories,840.03,13865.0,40,61,76
+prd_01646,automotive,Automotive Parts,167.82,8204.0,15,59,24
+prd_01647,office_furniture,Office Furniture,147.38,744.0,42,6,11
+prd_01648,housewares,Housewares,127.59,1295.0,53,77,70
+prd_01649,fashion_shoes,Shoes & Footwear,62.65,9848.0,31,72,71
+prd_01650,health_perfumery,Health & Perfumery,34.57,953.0,61,13,15
+prd_01651,fashion_clothing,Fashion & Apparel,49.83,4404.0,25,32,35
+prd_01652,electronics,Electronics,314.29,11369.0,99,56,61
+prd_01653,beauty_cosmetics,Beauty & Cosmetics,84.93,2042.0,43,72,71
+prd_01654,sports_leisure,Sports & Leisure,189.58,9535.0,74,15,45
+prd_01655,garden_tools,Garden Tools,170.86,7040.0,93,59,36
+prd_01656,office_furniture,Office Furniture,94.2,10282.0,64,34,32
+prd_01657,electronics,Electronics,730.61,12389.0,100,39,20
+prd_01658,books_stationery,Books & Stationery,34.42,690.0,90,55,43
+prd_01659,office_furniture,Office Furniture,248.67,4948.0,86,6,80
+prd_01660,computers_accessories,Computers & Accessories,1209.36,919.0,68,34,73
+prd_01661,fashion_clothing,Fashion & Apparel,71.43,6182.0,53,9,25
+prd_01662,home_appliances,Home Appliances,699.4,9960.0,86,75,72
+prd_01663,home_appliances,Home Appliances,896.85,282.0,65,36,78
+prd_01664,health_perfumery,Health & Perfumery,65.61,7032.0,47,8,42
+prd_01665,fashion_shoes,Shoes & Footwear,71.69,2067.0,75,10,14
+prd_01666,telephony,Telephony/Mobile,696.63,11014.0,40,33,67
+prd_01667,fashion_clothing,Fashion & Apparel,67.24,3357.0,33,57,29
+prd_01668,fashion_clothing,Fashion & Apparel,83.35,5056.0,86,41,50
+prd_01669,fashion_clothing,Fashion & Apparel,42.43,833.0,22,77,30
+prd_01670,electronics,Electronics,251.42,3626.0,71,65,10
+prd_01671,health_perfumery,Health & Perfumery,112.86,10869.0,94,65,63
+prd_01672,books_stationery,Books & Stationery,43.44,14036.0,19,45,30
+prd_01673,electronics,Electronics,377.64,14680.0,12,31,16
+prd_01674,home_appliances,Home Appliances,358.41,5695.0,97,23,28
+prd_01675,beauty_cosmetics,Beauty & Cosmetics,30.32,5439.0,43,9,53
+prd_01676,fashion_shoes,Shoes & Footwear,168.49,8402.0,77,43,56
+prd_01677,sports_leisure,Sports & Leisure,70.0,14119.0,91,36,42
+prd_01678,fashion_shoes,Shoes & Footwear,68.78,10949.0,24,14,13
+prd_01679,sports_leisure,Sports & Leisure,79.49,585.0,91,14,48
+prd_01680,fashion_shoes,Shoes & Footwear,74.88,2288.0,30,29,41
+prd_01681,toys,Toys & Games,52.05,2761.0,24,40,56
+prd_01682,fashion_shoes,Shoes & Footwear,74.99,9324.0,58,46,36
+prd_01683,housewares,Housewares,100.44,2962.0,75,31,18
+prd_01684,books_stationery,Books & Stationery,13.65,4099.0,92,55,33
+prd_01685,housewares,Housewares,76.25,13107.0,84,52,74
+prd_01686,housewares,Housewares,17.73,3751.0,23,31,48
+prd_01687,fashion_clothing,Fashion & Apparel,76.31,14750.0,45,59,17
+prd_01688,health_perfumery,Health & Perfumery,28.72,12524.0,73,53,57
+prd_01689,telephony,Telephony/Mobile,94.07,610.0,29,23,34
+prd_01690,fashion_clothing,Fashion & Apparel,35.29,8346.0,56,50,11
+prd_01691,fashion_clothing,Fashion & Apparel,95.59,10867.0,71,63,61
+prd_01692,electronics,Electronics,349.45,9434.0,64,9,37
+prd_01693,fashion_shoes,Shoes & Footwear,30.77,12420.0,34,51,41
+prd_01694,electronics,Electronics,214.96,13201.0,90,48,44
+prd_01695,books_stationery,Books & Stationery,54.95,7796.0,43,36,24
+prd_01696,housewares,Housewares,15.61,1708.0,75,45,11
+prd_01697,electronics,Electronics,88.31,1674.0,57,18,56
+prd_01698,fashion_clothing,Fashion & Apparel,52.38,12784.0,77,17,78
+prd_01699,health_perfumery,Health & Perfumery,111.69,6449.0,87,65,61
+prd_01700,fashion_clothing,Fashion & Apparel,119.27,5850.0,20,13,61
+prd_01701,computers_accessories,Computers & Accessories,1222.57,9914.0,44,10,50
+prd_01702,toys,Toys & Games,144.5,7379.0,48,73,66
+prd_01703,beauty_cosmetics,Beauty & Cosmetics,29.22,5094.0,14,18,58
+prd_01704,fashion_clothing,Fashion & Apparel,15.95,1805.0,69,44,80
+prd_01705,home_appliances,Home Appliances,161.52,4217.0,69,18,69
+prd_01706,housewares,Housewares,133.79,1129.0,25,52,10
+prd_01707,books_stationery,Books & Stationery,53.18,6414.0,76,38,39
+prd_01708,electronics,Electronics,787.17,114.0,10,52,37
+prd_01709,beauty_cosmetics,Beauty & Cosmetics,15.15,13799.0,54,54,64
+prd_01710,health_perfumery,Health & Perfumery,85.09,14415.0,84,50,76
+prd_01711,office_furniture,Office Furniture,499.53,9434.0,62,23,16
+prd_01712,computers_accessories,Computers & Accessories,1304.32,7386.0,16,70,46
+prd_01713,fashion_clothing,Fashion & Apparel,31.56,135.0,45,73,35
+prd_01714,automotive,Automotive Parts,280.01,9273.0,23,37,37
+prd_01715,electronics,Electronics,315.5,8969.0,79,55,76
+prd_01716,electronics,Electronics,663.94,7207.0,40,49,12
+prd_01717,computers_accessories,Computers & Accessories,1363.36,6094.0,82,28,43
+prd_01718,fashion_shoes,Shoes & Footwear,126.94,12220.0,75,57,75
+prd_01719,computers_accessories,Computers & Accessories,1260.03,13459.0,37,16,26
+prd_01720,beauty_cosmetics,Beauty & Cosmetics,86.18,6919.0,28,30,44
+prd_01721,sports_leisure,Sports & Leisure,15.06,1573.0,36,71,40
+prd_01722,fashion_clothing,Fashion & Apparel,47.56,3121.0,62,16,76
+prd_01723,computers_accessories,Computers & Accessories,724.49,4767.0,39,46,48
+prd_01724,sports_leisure,Sports & Leisure,257.01,3358.0,88,43,64
+prd_01725,sports_leisure,Sports & Leisure,189.64,14715.0,16,43,17
+prd_01726,health_perfumery,Health & Perfumery,109.54,596.0,72,24,22
+prd_01727,computers_accessories,Computers & Accessories,884.65,8896.0,76,32,39
+prd_01728,automotive,Automotive Parts,39.34,10039.0,41,61,80
+prd_01729,telephony,Telephony/Mobile,704.03,6772.0,52,60,20
+prd_01730,fashion_shoes,Shoes & Footwear,32.72,1277.0,50,37,67
+prd_01731,housewares,Housewares,74.18,12849.0,70,52,34
+prd_01732,toys,Toys & Games,138.63,7696.0,69,41,18
+prd_01733,fashion_shoes,Shoes & Footwear,74.56,1412.0,57,30,39
+prd_01734,fashion_clothing,Fashion & Apparel,47.71,2336.0,41,63,62
+prd_01735,home_appliances,Home Appliances,566.05,13405.0,46,5,13
+prd_01736,electronics,Electronics,585.21,14428.0,67,50,11
+prd_01737,electronics,Electronics,656.63,3054.0,27,40,27
+prd_01738,garden_tools,Garden Tools,120.75,6175.0,68,33,62
+prd_01739,sports_leisure,Sports & Leisure,170.16,9093.0,83,75,48
+prd_01740,books_stationery,Books & Stationery,43.54,11269.0,74,65,17
+prd_01741,fashion_shoes,Shoes & Footwear,45.31,4566.0,69,29,51
+prd_01742,electronics,Electronics,88.68,13922.0,73,44,69
+prd_01743,automotive,Automotive Parts,91.02,4818.0,10,50,41
+prd_01744,telephony,Telephony/Mobile,446.15,5726.0,90,33,62
+prd_01745,computers_accessories,Computers & Accessories,690.88,5765.0,91,21,38
+prd_01746,beauty_cosmetics,Beauty & Cosmetics,62.84,5769.0,77,78,45
+prd_01747,electronics,Electronics,515.67,3852.0,26,67,52
+prd_01748,electronics,Electronics,722.78,3940.0,42,17,58
+prd_01749,office_furniture,Office Furniture,88.52,9071.0,77,29,64
+prd_01750,health_perfumery,Health & Perfumery,87.61,6236.0,93,35,52
+prd_01751,beauty_cosmetics,Beauty & Cosmetics,78.61,6840.0,74,61,31
+prd_01752,fashion_clothing,Fashion & Apparel,117.51,9106.0,48,69,73
+prd_01753,electronics,Electronics,520.83,7927.0,89,42,36
+prd_01754,housewares,Housewares,52.51,276.0,49,26,60
+prd_01755,telephony,Telephony/Mobile,554.73,8414.0,73,15,71
+prd_01756,fashion_shoes,Shoes & Footwear,143.32,11475.0,34,51,23
+prd_01757,health_perfumery,Health & Perfumery,24.63,13629.0,69,14,19
+prd_01758,sports_leisure,Sports & Leisure,213.31,11429.0,24,42,60
+prd_01759,telephony,Telephony/Mobile,430.84,10701.0,61,22,21
+prd_01760,fashion_clothing,Fashion & Apparel,99.98,7975.0,75,27,61
+prd_01761,automotive,Automotive Parts,250.36,7627.0,82,58,21
+prd_01762,health_perfumery,Health & Perfumery,58.02,1694.0,43,80,71
+prd_01763,telephony,Telephony/Mobile,644.97,5898.0,59,9,41
+prd_01764,telephony,Telephony/Mobile,230.02,8818.0,96,52,64
+prd_01765,computers_accessories,Computers & Accessories,682.14,4806.0,36,16,43
+prd_01766,telephony,Telephony/Mobile,422.5,9238.0,42,41,76
+prd_01767,fashion_clothing,Fashion & Apparel,72.18,13887.0,53,79,75
+prd_01768,office_furniture,Office Furniture,134.61,6893.0,13,78,77
+prd_01769,telephony,Telephony/Mobile,949.76,12629.0,40,38,34
+prd_01770,fashion_shoes,Shoes & Footwear,119.16,10042.0,20,57,49
+prd_01771,fashion_clothing,Fashion & Apparel,88.17,12944.0,75,26,31
+prd_01772,fashion_clothing,Fashion & Apparel,22.52,12469.0,86,74,14
+prd_01773,books_stationery,Books & Stationery,14.39,5001.0,89,78,17
+prd_01774,toys,Toys & Games,66.19,12652.0,34,78,34
+prd_01775,electronics,Electronics,363.47,10063.0,24,46,12
+prd_01776,beauty_cosmetics,Beauty & Cosmetics,20.87,3460.0,100,15,10
+prd_01777,toys,Toys & Games,91.0,5540.0,70,62,45
+prd_01778,fashion_clothing,Fashion & Apparel,69.61,8532.0,31,50,75
+prd_01779,fashion_shoes,Shoes & Footwear,47.43,9455.0,12,24,17
+prd_01780,housewares,Housewares,94.14,11183.0,20,25,49
+prd_01781,beauty_cosmetics,Beauty & Cosmetics,40.07,5995.0,18,19,63
+prd_01782,toys,Toys & Games,21.11,10685.0,51,54,71
+prd_01783,computers_accessories,Computers & Accessories,1339.27,10804.0,34,17,41
+prd_01784,sports_leisure,Sports & Leisure,39.62,3640.0,92,16,31
+prd_01785,electronics,Electronics,431.76,264.0,73,40,48
+prd_01786,toys,Toys & Games,137.11,2132.0,66,56,57
+prd_01787,fashion_shoes,Shoes & Footwear,139.18,4833.0,70,52,21
+prd_01788,telephony,Telephony/Mobile,230.25,2609.0,52,23,78
+prd_01789,fashion_clothing,Fashion & Apparel,108.71,3185.0,37,12,12
+prd_01790,toys,Toys & Games,137.07,2087.0,27,61,41
+prd_01791,telephony,Telephony/Mobile,576.06,13994.0,12,31,59
+prd_01792,housewares,Housewares,33.99,566.0,60,52,50
+prd_01793,electronics,Electronics,406.41,7193.0,86,14,54
+prd_01794,automotive,Automotive Parts,356.82,14757.0,71,41,60
+prd_01795,electronics,Electronics,292.75,7200.0,43,12,14
+prd_01796,books_stationery,Books & Stationery,39.34,13918.0,17,31,18
+prd_01797,fashion_clothing,Fashion & Apparel,22.61,7980.0,26,46,68
+prd_01798,sports_leisure,Sports & Leisure,209.03,4506.0,85,67,62
+prd_01799,books_stationery,Books & Stationery,42.93,12024.0,11,34,45
+prd_01800,fashion_clothing,Fashion & Apparel,39.21,6629.0,74,35,70
+prd_01801,electronics,Electronics,139.5,8330.0,28,72,14
+prd_01802,electronics,Electronics,393.35,10686.0,48,14,78
+prd_01803,fashion_clothing,Fashion & Apparel,96.5,12243.0,23,19,71
+prd_01804,fashion_clothing,Fashion & Apparel,99.77,14002.0,80,32,55
+prd_01805,telephony,Telephony/Mobile,934.57,2159.0,13,5,14
+prd_01806,computers_accessories,Computers & Accessories,132.49,1691.0,63,39,68
+prd_01807,computers_accessories,Computers & Accessories,1422.33,4113.0,70,25,31
+prd_01808,fashion_shoes,Shoes & Footwear,85.76,10484.0,73,19,66
+prd_01809,housewares,Housewares,83.09,7443.0,72,78,18
+prd_01810,electronics,Electronics,658.27,13199.0,79,22,47
+prd_01811,computers_accessories,Computers & Accessories,956.45,7850.0,51,8,52
+prd_01812,computers_accessories,Computers & Accessories,195.31,6056.0,38,61,31
+prd_01813,telephony,Telephony/Mobile,560.3,3432.0,39,61,69
+prd_01814,sports_leisure,Sports & Leisure,129.7,4378.0,78,14,59
+prd_01815,electronics,Electronics,197.84,12457.0,54,37,44
+prd_01816,books_stationery,Books & Stationery,9.79,14939.0,14,41,77
+prd_01817,health_perfumery,Health & Perfumery,65.65,5394.0,41,50,60
+prd_01818,automotive,Automotive Parts,71.33,14466.0,22,14,75
+prd_01819,fashion_clothing,Fashion & Apparel,107.89,9240.0,39,61,51
+prd_01820,fashion_shoes,Shoes & Footwear,72.31,1985.0,36,9,35
+prd_01821,housewares,Housewares,122.53,13611.0,25,49,52
+prd_01822,computers_accessories,Computers & Accessories,787.05,10077.0,52,71,67
+prd_01823,housewares,Housewares,79.71,5039.0,53,26,59
+prd_01824,fashion_clothing,Fashion & Apparel,90.62,9061.0,16,19,56
+prd_01825,telephony,Telephony/Mobile,168.26,10755.0,64,5,17
+prd_01826,automotive,Automotive Parts,370.15,12416.0,77,45,17
+prd_01827,electronics,Electronics,263.83,7124.0,53,43,62
+prd_01828,fashion_shoes,Shoes & Footwear,88.13,318.0,10,60,54
+prd_01829,housewares,Housewares,92.97,11794.0,62,71,54
+prd_01830,telephony,Telephony/Mobile,966.01,7494.0,53,54,52
+prd_01831,beauty_cosmetics,Beauty & Cosmetics,10.44,7145.0,31,14,68
+prd_01832,sports_leisure,Sports & Leisure,137.92,3494.0,56,13,10
+prd_01833,electronics,Electronics,194.04,12483.0,93,56,62
+prd_01834,sports_leisure,Sports & Leisure,130.04,7273.0,14,69,17
+prd_01835,fashion_shoes,Shoes & Footwear,101.34,12671.0,27,53,31
+prd_01836,office_furniture,Office Furniture,427.48,6956.0,56,19,23
+prd_01837,fashion_clothing,Fashion & Apparel,18.42,13113.0,48,43,54
+prd_01838,home_appliances,Home Appliances,973.55,5855.0,40,16,78
+prd_01839,electronics,Electronics,485.69,10097.0,48,60,51
+prd_01840,computers_accessories,Computers & Accessories,1410.1,3722.0,39,47,12
+prd_01841,office_furniture,Office Furniture,497.46,12533.0,90,57,20
+prd_01842,electronics,Electronics,294.63,5720.0,77,71,31
+prd_01843,electronics,Electronics,295.3,9131.0,74,27,19
+prd_01844,fashion_shoes,Shoes & Footwear,73.41,1191.0,87,51,70
+prd_01845,telephony,Telephony/Mobile,87.12,4608.0,73,22,63
+prd_01846,fashion_shoes,Shoes & Footwear,140.9,1759.0,17,54,32
+prd_01847,telephony,Telephony/Mobile,991.28,7009.0,10,11,34
+prd_01848,sports_leisure,Sports & Leisure,151.35,1401.0,36,79,24
+prd_01849,telephony,Telephony/Mobile,576.52,746.0,16,77,61
+prd_01850,housewares,Housewares,34.91,14680.0,92,20,71
+prd_01851,fashion_shoes,Shoes & Footwear,33.89,11192.0,86,34,36
+prd_01852,fashion_clothing,Fashion & Apparel,26.11,12074.0,69,10,37
+prd_01853,toys,Toys & Games,139.72,8723.0,42,46,72
+prd_01854,housewares,Housewares,90.41,7089.0,32,45,60
+prd_01855,automotive,Automotive Parts,196.47,4694.0,98,38,68
+prd_01856,computers_accessories,Computers & Accessories,704.21,14586.0,14,72,47
+prd_01857,toys,Toys & Games,142.71,14699.0,44,29,28
+prd_01858,garden_tools,Garden Tools,204.89,14047.0,59,66,14
+prd_01859,electronics,Electronics,377.34,13619.0,79,70,30
+prd_01860,home_appliances,Home Appliances,898.66,6448.0,44,42,13
+prd_01861,fashion_clothing,Fashion & Apparel,84.35,9607.0,60,60,17
+prd_01862,home_appliances,Home Appliances,299.95,11732.0,71,44,31
+prd_01863,toys,Toys & Games,27.78,13132.0,87,31,58
+prd_01864,computers_accessories,Computers & Accessories,1442.5,1534.0,47,52,14
+prd_01865,toys,Toys & Games,96.52,3025.0,44,67,63
+prd_01866,home_appliances,Home Appliances,664.1,650.0,70,33,32
+prd_01867,home_appliances,Home Appliances,261.26,12542.0,66,6,11
+prd_01868,electronics,Electronics,175.22,1172.0,89,39,11
+prd_01869,home_appliances,Home Appliances,940.75,5889.0,99,23,56
+prd_01870,fashion_clothing,Fashion & Apparel,113.97,4923.0,38,65,46
+prd_01871,sports_leisure,Sports & Leisure,170.24,7041.0,40,17,30
+prd_01872,housewares,Housewares,76.1,13361.0,65,69,73
+prd_01873,telephony,Telephony/Mobile,859.14,11444.0,10,30,68
+prd_01874,beauty_cosmetics,Beauty & Cosmetics,83.24,6989.0,25,19,40
+prd_01875,fashion_clothing,Fashion & Apparel,27.26,1528.0,78,40,34
+prd_01876,home_appliances,Home Appliances,134.55,4316.0,59,9,23
+prd_01877,fashion_clothing,Fashion & Apparel,101.23,11118.0,32,39,73
+prd_01878,electronics,Electronics,236.96,11733.0,61,36,75
+prd_01879,office_furniture,Office Furniture,287.38,8050.0,63,13,11
+prd_01880,electronics,Electronics,668.08,10042.0,71,53,43
+prd_01881,automotive,Automotive Parts,164.93,13770.0,53,36,67
+prd_01882,telephony,Telephony/Mobile,935.55,10971.0,96,27,48
+prd_01883,garden_tools,Garden Tools,181.19,11547.0,74,52,67
+prd_01884,fashion_clothing,Fashion & Apparel,105.76,8358.0,28,14,16
+prd_01885,books_stationery,Books & Stationery,38.11,12025.0,24,58,59
+prd_01886,electronics,Electronics,72.46,8769.0,27,28,56
+prd_01887,beauty_cosmetics,Beauty & Cosmetics,46.43,13833.0,75,11,19
+prd_01888,fashion_clothing,Fashion & Apparel,101.96,1810.0,18,20,16
+prd_01889,fashion_clothing,Fashion & Apparel,41.42,2174.0,62,31,68
+prd_01890,fashion_clothing,Fashion & Apparel,71.29,5636.0,79,70,57
+prd_01891,fashion_shoes,Shoes & Footwear,123.97,5629.0,42,44,17
+prd_01892,fashion_shoes,Shoes & Footwear,44.81,12145.0,21,57,49
+prd_01893,beauty_cosmetics,Beauty & Cosmetics,17.66,7974.0,22,67,34
+prd_01894,home_appliances,Home Appliances,977.29,6327.0,96,8,53
+prd_01895,electronics,Electronics,401.42,13554.0,96,23,23
+prd_01896,computers_accessories,Computers & Accessories,1440.79,4604.0,51,5,59
+prd_01897,health_perfumery,Health & Perfumery,71.8,1660.0,15,54,65
+prd_01898,fashion_shoes,Shoes & Footwear,167.97,1071.0,12,60,30
+prd_01899,beauty_cosmetics,Beauty & Cosmetics,79.05,13226.0,93,63,68
+prd_01900,automotive,Automotive Parts,141.23,8589.0,97,31,63
+prd_01901,fashion_clothing,Fashion & Apparel,99.53,9437.0,28,68,41
+prd_01902,fashion_clothing,Fashion & Apparel,71.68,9163.0,82,68,34
+prd_01903,housewares,Housewares,10.42,9763.0,23,39,71
+prd_01904,computers_accessories,Computers & Accessories,1374.43,8930.0,89,32,80
+prd_01905,computers_accessories,Computers & Accessories,806.07,14637.0,41,21,74
+prd_01906,electronics,Electronics,574.66,3293.0,63,33,52
+prd_01907,office_furniture,Office Furniture,241.99,12716.0,91,7,28
+prd_01908,telephony,Telephony/Mobile,317.32,1574.0,93,68,30
+prd_01909,home_appliances,Home Appliances,435.12,4741.0,19,39,20
+prd_01910,fashion_clothing,Fashion & Apparel,70.73,14443.0,87,74,21
+prd_01911,electronics,Electronics,782.39,12446.0,71,55,79
+prd_01912,computers_accessories,Computers & Accessories,891.28,13268.0,47,42,57
+prd_01913,electronics,Electronics,297.04,1857.0,10,23,50
+prd_01914,telephony,Telephony/Mobile,189.25,8830.0,39,69,10
+prd_01915,home_appliances,Home Appliances,606.45,5923.0,38,38,11
+prd_01916,health_perfumery,Health & Perfumery,63.97,5294.0,12,61,39
+prd_01917,housewares,Housewares,135.18,11434.0,47,48,73
+prd_01918,toys,Toys & Games,33.44,13557.0,46,32,33
+prd_01919,telephony,Telephony/Mobile,695.11,2094.0,70,45,14
+prd_01920,electronics,Electronics,375.39,3654.0,13,62,59
+prd_01921,beauty_cosmetics,Beauty & Cosmetics,25.77,7379.0,82,13,26
+prd_01922,fashion_clothing,Fashion & Apparel,91.38,10808.0,78,27,77
+prd_01923,fashion_clothing,Fashion & Apparel,65.08,13215.0,26,5,59
+prd_01924,fashion_shoes,Shoes & Footwear,188.84,3749.0,75,54,28
+prd_01925,telephony,Telephony/Mobile,706.99,8552.0,56,14,29
+prd_01926,electronics,Electronics,621.31,11273.0,47,57,66
+prd_01927,sports_leisure,Sports & Leisure,87.39,3042.0,51,57,14
+prd_01928,toys,Toys & Games,93.04,9643.0,88,63,78
+prd_01929,beauty_cosmetics,Beauty & Cosmetics,26.15,12748.0,91,66,40
+prd_01930,electronics,Electronics,427.57,10193.0,42,12,23
+prd_01931,housewares,Housewares,116.8,12748.0,54,33,62
+prd_01932,fashion_clothing,Fashion & Apparel,40.25,559.0,50,22,62
+prd_01933,fashion_shoes,Shoes & Footwear,127.1,3986.0,15,51,63
+prd_01934,fashion_clothing,Fashion & Apparel,61.37,2062.0,66,50,25
+prd_01935,health_perfumery,Health & Perfumery,114.69,137.0,48,16,50
+prd_01936,books_stationery,Books & Stationery,58.0,10975.0,53,57,17
+prd_01937,fashion_shoes,Shoes & Footwear,104.16,1794.0,31,76,57
+prd_01938,toys,Toys & Games,133.25,4440.0,36,73,28
+prd_01939,books_stationery,Books & Stationery,36.26,11853.0,33,48,36
+prd_01940,fashion_clothing,Fashion & Apparel,43.89,13858.0,17,39,75
+prd_01941,telephony,Telephony/Mobile,578.2,11513.0,50,32,48
+prd_01942,fashion_shoes,Shoes & Footwear,148.16,2208.0,17,77,44
+prd_01943,fashion_clothing,Fashion & Apparel,32.83,3114.0,17,12,75
+prd_01944,fashion_shoes,Shoes & Footwear,186.78,8480.0,78,13,56
+prd_01945,fashion_shoes,Shoes & Footwear,190.33,12148.0,52,22,14
+prd_01946,electronics,Electronics,552.4,7185.0,58,70,51
+prd_01947,beauty_cosmetics,Beauty & Cosmetics,70.11,6149.0,20,73,34
+prd_01948,housewares,Housewares,138.47,10942.0,44,18,68
+prd_01949,computers_accessories,Computers & Accessories,1315.45,13634.0,66,7,61
+prd_01950,office_furniture,Office Furniture,223.29,194.0,26,34,25
+prd_01951,fashion_clothing,Fashion & Apparel,52.84,12728.0,70,6,21
+prd_01952,beauty_cosmetics,Beauty & Cosmetics,49.57,7942.0,68,47,77
+prd_01953,electronics,Electronics,424.92,3528.0,97,64,67
+prd_01954,office_furniture,Office Furniture,122.74,12277.0,18,8,54
+prd_01955,fashion_shoes,Shoes & Footwear,110.85,2666.0,86,15,33
+prd_01956,sports_leisure,Sports & Leisure,222.49,6930.0,32,32,52
+prd_01957,fashion_shoes,Shoes & Footwear,148.65,13733.0,25,24,37
+prd_01958,housewares,Housewares,144.92,11405.0,86,70,69
+prd_01959,beauty_cosmetics,Beauty & Cosmetics,26.07,7386.0,51,50,45
+prd_01960,health_perfumery,Health & Perfumery,112.31,13498.0,62,61,69
+prd_01961,fashion_shoes,Shoes & Footwear,163.58,4271.0,67,75,10
+prd_01962,home_appliances,Home Appliances,365.68,3053.0,45,16,75
+prd_01963,fashion_clothing,Fashion & Apparel,88.23,1699.0,79,18,66
+prd_01964,health_perfumery,Health & Perfumery,40.69,9533.0,49,42,56
+prd_01965,books_stationery,Books & Stationery,55.98,7920.0,19,53,12
+prd_01966,fashion_clothing,Fashion & Apparel,22.28,13797.0,84,20,22
+prd_01967,health_perfumery,Health & Perfumery,92.92,12003.0,97,64,16
+prd_01968,fashion_clothing,Fashion & Apparel,36.67,11089.0,47,5,28
+prd_01969,health_perfumery,Health & Perfumery,22.21,10078.0,56,49,29
+prd_01970,electronics,Electronics,652.28,13674.0,74,22,75
+prd_01971,computers_accessories,Computers & Accessories,635.9,11531.0,95,24,75
+prd_01972,electronics,Electronics,231.63,5177.0,39,56,56
+prd_01973,fashion_clothing,Fashion & Apparel,25.61,11725.0,97,60,75
+prd_01974,housewares,Housewares,68.86,1321.0,41,25,54
+prd_01975,electronics,Electronics,445.99,8753.0,22,53,30
+prd_01976,electronics,Electronics,509.27,10438.0,75,36,77
+prd_01977,fashion_shoes,Shoes & Footwear,69.16,10398.0,34,29,10
+prd_01978,beauty_cosmetics,Beauty & Cosmetics,40.84,13450.0,15,37,70
+prd_01979,electronics,Electronics,623.9,13035.0,41,15,11
+prd_01980,fashion_shoes,Shoes & Footwear,63.53,14319.0,97,72,60
+prd_01981,garden_tools,Garden Tools,181.46,9316.0,10,75,36
+prd_01982,fashion_shoes,Shoes & Footwear,180.16,3772.0,23,31,33
+prd_01983,home_appliances,Home Appliances,316.97,2364.0,66,74,19
+prd_01984,fashion_shoes,Shoes & Footwear,127.7,2801.0,56,65,79
+prd_01985,beauty_cosmetics,Beauty & Cosmetics,16.79,9710.0,92,36,11
+prd_01986,electronics,Electronics,85.62,264.0,62,40,36
+prd_01987,home_appliances,Home Appliances,869.06,7054.0,38,56,19
+prd_01988,housewares,Housewares,127.25,7290.0,40,13,63
+prd_01989,beauty_cosmetics,Beauty & Cosmetics,32.29,5890.0,88,72,77
+prd_01990,toys,Toys & Games,55.42,12532.0,82,78,53
+prd_01991,office_furniture,Office Furniture,89.15,9864.0,68,64,12
+prd_01992,home_appliances,Home Appliances,248.0,3393.0,49,57,44
+prd_01993,computers_accessories,Computers & Accessories,141.81,10890.0,87,46,66
+prd_01994,office_furniture,Office Furniture,110.96,12265.0,24,57,51
+prd_01995,home_appliances,Home Appliances,366.7,6462.0,40,69,20
+prd_01996,sports_leisure,Sports & Leisure,195.45,2709.0,54,54,61
+prd_01997,books_stationery,Books & Stationery,57.2,8963.0,19,24,11
+prd_01998,fashion_clothing,Fashion & Apparel,80.48,5878.0,60,25,25
+prd_01999,home_appliances,Home Appliances,650.71,8058.0,13,49,59
+prd_02000,health_perfumery,Health & Perfumery,90.14,13946.0,18,26,72
+prd_02001,housewares,Housewares,120.71,11813.0,25,19,66
+prd_02002,automotive,Automotive Parts,393.94,6892.0,11,61,78
+prd_02003,computers_accessories,Computers & Accessories,1338.35,8055.0,32,30,72
+prd_02004,home_appliances,Home Appliances,681.79,1014.0,90,67,28
+prd_02005,housewares,Housewares,73.3,3389.0,76,32,75
+prd_02006,fashion_shoes,Shoes & Footwear,66.06,12786.0,24,13,45
+prd_02007,garden_tools,Garden Tools,214.82,7080.0,92,10,37
+prd_02008,electronics,Electronics,85.33,2108.0,47,62,28
+prd_02009,fashion_clothing,Fashion & Apparel,83.52,8183.0,63,33,34
+prd_02010,automotive,Automotive Parts,327.94,4704.0,23,7,41
+prd_02011,fashion_clothing,Fashion & Apparel,105.88,12873.0,26,79,37
+prd_02012,computers_accessories,Computers & Accessories,1158.63,3124.0,52,20,66
+prd_02013,fashion_shoes,Shoes & Footwear,156.2,4471.0,52,11,13
+prd_02014,housewares,Housewares,132.32,9360.0,58,41,64
+prd_02015,fashion_clothing,Fashion & Apparel,89.72,14786.0,22,8,11
+prd_02016,electronics,Electronics,95.24,1069.0,27,68,39
+prd_02017,fashion_clothing,Fashion & Apparel,75.5,14285.0,44,53,13
+prd_02018,telephony,Telephony/Mobile,745.01,8439.0,43,79,56
+prd_02019,automotive,Automotive Parts,376.75,12073.0,100,50,30
+prd_02020,computers_accessories,Computers & Accessories,575.76,13250.0,50,52,43
+prd_02021,fashion_clothing,Fashion & Apparel,40.26,870.0,68,8,63
+prd_02022,electronics,Electronics,691.44,8327.0,46,29,47
+prd_02023,home_appliances,Home Appliances,805.29,10357.0,98,24,21
+prd_02024,computers_accessories,Computers & Accessories,545.18,4140.0,29,61,57
+prd_02025,fashion_clothing,Fashion & Apparel,23.09,10723.0,57,72,72
+prd_02026,health_perfumery,Health & Perfumery,20.18,10394.0,20,18,36
+prd_02027,telephony,Telephony/Mobile,663.21,7615.0,75,74,38
+prd_02028,beauty_cosmetics,Beauty & Cosmetics,68.92,4519.0,83,66,52
+prd_02029,fashion_clothing,Fashion & Apparel,94.21,2271.0,42,80,38
+prd_02030,fashion_shoes,Shoes & Footwear,197.42,7285.0,25,43,19
+prd_02031,beauty_cosmetics,Beauty & Cosmetics,57.43,7735.0,96,19,32
+prd_02032,computers_accessories,Computers & Accessories,823.27,7136.0,19,44,48
+prd_02033,telephony,Telephony/Mobile,176.63,2826.0,52,44,46
+prd_02034,home_appliances,Home Appliances,618.56,8688.0,55,61,28
+prd_02035,beauty_cosmetics,Beauty & Cosmetics,74.54,8319.0,29,23,74
+prd_02036,sports_leisure,Sports & Leisure,299.82,11677.0,29,22,80
+prd_02037,sports_leisure,Sports & Leisure,240.35,2495.0,99,12,24
+prd_02038,health_perfumery,Health & Perfumery,25.71,5572.0,39,79,34
+prd_02039,electronics,Electronics,453.8,1607.0,88,40,70
+prd_02040,health_perfumery,Health & Perfumery,85.28,12437.0,53,14,36
+prd_02041,office_furniture,Office Furniture,401.87,14839.0,98,70,49
+prd_02042,electronics,Electronics,752.87,13424.0,70,65,23
+prd_02043,electronics,Electronics,554.72,2541.0,24,22,12
+prd_02044,sports_leisure,Sports & Leisure,21.18,5823.0,13,54,15
+prd_02045,fashion_clothing,Fashion & Apparel,83.22,2842.0,70,11,56
+prd_02046,electronics,Electronics,589.58,13097.0,53,44,77
+prd_02047,toys,Toys & Games,95.08,3311.0,32,39,55
+prd_02048,electronics,Electronics,70.34,6813.0,85,42,48
+prd_02049,computers_accessories,Computers & Accessories,979.24,13534.0,59,58,23
+prd_02050,fashion_clothing,Fashion & Apparel,66.11,8581.0,27,73,76
+prd_02051,automotive,Automotive Parts,141.45,4990.0,65,31,60
+prd_02052,sports_leisure,Sports & Leisure,155.65,6925.0,50,59,28
+prd_02053,health_perfumery,Health & Perfumery,92.08,264.0,74,20,51
+prd_02054,electronics,Electronics,776.97,8288.0,40,21,47
+prd_02055,fashion_clothing,Fashion & Apparel,109.81,5996.0,26,53,51
+prd_02056,computers_accessories,Computers & Accessories,137.3,3636.0,97,21,61
+prd_02057,automotive,Automotive Parts,194.4,6222.0,81,39,66
+prd_02058,telephony,Telephony/Mobile,733.31,4107.0,52,28,50
+prd_02059,beauty_cosmetics,Beauty & Cosmetics,34.08,12172.0,52,67,13
+prd_02060,computers_accessories,Computers & Accessories,152.8,8836.0,30,75,56
+prd_02061,housewares,Housewares,80.14,10292.0,57,79,75
+prd_02062,books_stationery,Books & Stationery,9.93,9522.0,97,75,59
+prd_02063,health_perfumery,Health & Perfumery,112.69,11323.0,62,20,17
+prd_02064,fashion_clothing,Fashion & Apparel,99.22,5960.0,13,32,41
+prd_02065,health_perfumery,Health & Perfumery,22.25,5508.0,35,16,41
+prd_02066,books_stationery,Books & Stationery,22.99,6524.0,77,37,10
+prd_02067,housewares,Housewares,30.42,6479.0,42,77,12
+prd_02068,telephony,Telephony/Mobile,137.5,8190.0,53,22,39
+prd_02069,fashion_shoes,Shoes & Footwear,108.02,4034.0,37,66,28
+prd_02070,automotive,Automotive Parts,50.94,2789.0,78,51,42
+prd_02071,computers_accessories,Computers & Accessories,831.06,14646.0,85,23,69
+prd_02072,fashion_shoes,Shoes & Footwear,65.28,13895.0,88,46,47
+prd_02073,home_appliances,Home Appliances,120.81,10390.0,40,12,11
+prd_02074,toys,Toys & Games,93.63,11683.0,82,67,43
+prd_02075,electronics,Electronics,769.8,8196.0,45,30,11
+prd_02076,fashion_clothing,Fashion & Apparel,40.68,4099.0,65,29,30
+prd_02077,toys,Toys & Games,29.13,7877.0,14,75,21
+prd_02078,housewares,Housewares,56.97,12919.0,24,74,58
+prd_02079,toys,Toys & Games,41.27,2947.0,95,72,56
+prd_02080,home_appliances,Home Appliances,196.13,13122.0,59,79,70
+prd_02081,fashion_shoes,Shoes & Footwear,127.32,11492.0,38,30,66
+prd_02082,telephony,Telephony/Mobile,429.97,12910.0,80,20,59
+prd_02083,housewares,Housewares,79.55,1151.0,57,74,50
+prd_02084,electronics,Electronics,410.04,6052.0,98,29,22
+prd_02085,electronics,Electronics,642.55,3269.0,92,65,56
+prd_02086,fashion_shoes,Shoes & Footwear,57.45,12737.0,89,13,12
+prd_02087,fashion_clothing,Fashion & Apparel,59.42,698.0,30,30,55
+prd_02088,health_perfumery,Health & Perfumery,56.68,1879.0,61,28,46
+prd_02089,fashion_clothing,Fashion & Apparel,17.53,4979.0,97,10,45
+prd_02090,electronics,Electronics,687.57,3703.0,86,53,45
+prd_02091,electronics,Electronics,617.34,10803.0,66,70,73
+prd_02092,electronics,Electronics,790.96,11917.0,48,79,67
+prd_02093,electronics,Electronics,196.27,11440.0,99,14,50
+prd_02094,electronics,Electronics,682.41,6381.0,81,12,17
+prd_02095,telephony,Telephony/Mobile,312.71,11533.0,23,24,16
+prd_02096,home_appliances,Home Appliances,583.18,5876.0,50,9,36
+prd_02097,computers_accessories,Computers & Accessories,1313.45,5862.0,20,57,62
+prd_02098,electronics,Electronics,123.04,5855.0,54,62,67
+prd_02099,fashion_clothing,Fashion & Apparel,113.03,5766.0,97,38,12
+prd_02100,beauty_cosmetics,Beauty & Cosmetics,72.97,14984.0,81,13,44
+prd_02101,books_stationery,Books & Stationery,30.11,11392.0,50,20,24
+prd_02102,fashion_shoes,Shoes & Footwear,52.44,998.0,91,43,53
+prd_02103,sports_leisure,Sports & Leisure,212.12,5955.0,89,13,21
+prd_02104,electronics,Electronics,775.53,3264.0,59,28,73
+prd_02105,housewares,Housewares,107.9,11929.0,70,40,19
+prd_02106,sports_leisure,Sports & Leisure,61.67,1478.0,31,60,57
+prd_02107,fashion_clothing,Fashion & Apparel,45.77,6272.0,11,62,12
+prd_02108,computers_accessories,Computers & Accessories,1343.49,8104.0,23,68,29
+prd_02109,housewares,Housewares,106.69,5710.0,66,37,11
+prd_02110,computers_accessories,Computers & Accessories,270.68,4136.0,69,30,46
+prd_02111,sports_leisure,Sports & Leisure,62.8,14803.0,77,51,26
+prd_02112,sports_leisure,Sports & Leisure,27.02,12303.0,87,57,38
+prd_02113,fashion_clothing,Fashion & Apparel,22.51,985.0,69,37,68
+prd_02114,fashion_shoes,Shoes & Footwear,112.34,6737.0,67,58,64
+prd_02115,computers_accessories,Computers & Accessories,645.34,12693.0,37,22,12
+prd_02116,fashion_shoes,Shoes & Footwear,70.7,7388.0,57,73,44
+prd_02117,computers_accessories,Computers & Accessories,788.81,1557.0,71,15,15
+prd_02118,fashion_shoes,Shoes & Footwear,157.97,9098.0,90,39,55
+prd_02119,electronics,Electronics,308.22,13803.0,64,75,14
+prd_02120,electronics,Electronics,153.13,6738.0,81,7,79
+prd_02121,electronics,Electronics,502.53,8111.0,61,16,52
+prd_02122,beauty_cosmetics,Beauty & Cosmetics,47.96,5172.0,21,10,11
+prd_02123,electronics,Electronics,649.56,13254.0,98,48,17
+prd_02124,office_furniture,Office Furniture,382.23,4284.0,52,74,26
+prd_02125,home_appliances,Home Appliances,885.44,6024.0,71,27,33
+prd_02126,toys,Toys & Games,34.92,1954.0,12,11,61
+prd_02127,health_perfumery,Health & Perfumery,102.11,4956.0,49,70,29
+prd_02128,beauty_cosmetics,Beauty & Cosmetics,21.09,14269.0,55,23,41
+prd_02129,fashion_clothing,Fashion & Apparel,109.55,11819.0,64,43,22
+prd_02130,automotive,Automotive Parts,316.56,10757.0,96,53,53
+prd_02131,fashion_shoes,Shoes & Footwear,77.69,13371.0,50,26,80
+prd_02132,beauty_cosmetics,Beauty & Cosmetics,29.59,13431.0,60,80,34
+prd_02133,housewares,Housewares,76.53,116.0,62,57,36
+prd_02134,housewares,Housewares,21.5,7254.0,37,73,12
+prd_02135,garden_tools,Garden Tools,197.96,638.0,67,78,40
+prd_02136,computers_accessories,Computers & Accessories,481.11,5093.0,22,18,41
+prd_02137,home_appliances,Home Appliances,879.62,9940.0,88,75,41
+prd_02138,toys,Toys & Games,70.8,7259.0,51,52,16
+prd_02139,telephony,Telephony/Mobile,698.49,10333.0,42,71,25
+prd_02140,electronics,Electronics,343.84,8234.0,77,9,11
+prd_02141,electronics,Electronics,488.2,13285.0,21,46,78
+prd_02142,computers_accessories,Computers & Accessories,1450.67,8171.0,49,38,16
+prd_02143,electronics,Electronics,311.57,1807.0,31,68,28
+prd_02144,telephony,Telephony/Mobile,346.04,7007.0,73,31,40
+prd_02145,health_perfumery,Health & Perfumery,48.81,13550.0,84,8,50
+prd_02146,fashion_clothing,Fashion & Apparel,90.89,13146.0,65,40,44
+prd_02147,toys,Toys & Games,59.43,5780.0,85,19,11
+prd_02148,telephony,Telephony/Mobile,424.91,6449.0,28,60,62
+prd_02149,housewares,Housewares,122.84,11845.0,59,20,24
+prd_02150,sports_leisure,Sports & Leisure,223.39,2369.0,18,68,80
+prd_02151,electronics,Electronics,225.25,12192.0,16,13,24
+prd_02152,computers_accessories,Computers & Accessories,1446.76,679.0,60,30,78
+prd_02153,fashion_shoes,Shoes & Footwear,39.08,6913.0,48,68,55
+prd_02154,sports_leisure,Sports & Leisure,38.35,7053.0,19,6,68
+prd_02155,toys,Toys & Games,27.24,3195.0,53,49,32
+prd_02156,books_stationery,Books & Stationery,13.85,7921.0,39,13,69
+prd_02157,fashion_clothing,Fashion & Apparel,65.43,2266.0,91,74,32
+prd_02158,electronics,Electronics,623.09,14216.0,83,26,17
+prd_02159,electronics,Electronics,505.45,13431.0,21,62,19
+prd_02160,automotive,Automotive Parts,277.33,8302.0,20,60,48
+prd_02161,beauty_cosmetics,Beauty & Cosmetics,20.18,5347.0,91,70,15
+prd_02162,books_stationery,Books & Stationery,59.28,4395.0,62,75,79
+prd_02163,home_appliances,Home Appliances,558.12,9235.0,36,27,47
+prd_02164,home_appliances,Home Appliances,492.43,5659.0,19,47,77
+prd_02165,electronics,Electronics,131.12,2913.0,91,61,21
+prd_02166,housewares,Housewares,75.54,2036.0,17,35,69
+prd_02167,books_stationery,Books & Stationery,41.86,14277.0,63,60,22
+prd_02168,fashion_shoes,Shoes & Footwear,70.36,4327.0,89,58,22
+prd_02169,fashion_shoes,Shoes & Footwear,116.66,9352.0,67,50,42
+prd_02170,home_appliances,Home Appliances,830.06,14617.0,29,79,20
+prd_02171,fashion_clothing,Fashion & Apparel,52.59,2405.0,52,23,63
+prd_02172,health_perfumery,Health & Perfumery,101.08,2586.0,22,76,65
+prd_02173,housewares,Housewares,91.95,566.0,61,51,71
+prd_02174,sports_leisure,Sports & Leisure,84.74,1154.0,48,64,59
+prd_02175,home_appliances,Home Appliances,471.33,10501.0,84,66,54
+prd_02176,office_furniture,Office Furniture,297.59,8147.0,71,26,73
+prd_02177,home_appliances,Home Appliances,374.99,10293.0,23,64,24
+prd_02178,automotive,Automotive Parts,46.9,5365.0,45,12,52
+prd_02179,electronics,Electronics,581.62,8985.0,38,25,40
+prd_02180,toys,Toys & Games,86.02,924.0,50,71,62
+prd_02181,automotive,Automotive Parts,318.02,3631.0,32,67,26
+prd_02182,toys,Toys & Games,63.55,13991.0,88,24,13
+prd_02183,electronics,Electronics,777.2,7841.0,91,64,44
+prd_02184,housewares,Housewares,96.29,4594.0,48,25,63
+prd_02185,beauty_cosmetics,Beauty & Cosmetics,39.4,1994.0,44,50,45
+prd_02186,housewares,Housewares,63.95,12894.0,77,69,29
+prd_02187,telephony,Telephony/Mobile,168.36,7216.0,41,64,50
+prd_02188,toys,Toys & Games,67.71,8963.0,28,51,33
+prd_02189,housewares,Housewares,117.97,4482.0,76,79,72
+prd_02190,health_perfumery,Health & Perfumery,111.14,13720.0,40,19,26
+prd_02191,beauty_cosmetics,Beauty & Cosmetics,75.04,8242.0,73,41,46
+prd_02192,housewares,Housewares,53.0,13193.0,31,13,13
+prd_02193,home_appliances,Home Appliances,484.51,10309.0,39,31,70
+prd_02194,computers_accessories,Computers & Accessories,792.82,13464.0,80,71,33
+prd_02195,housewares,Housewares,16.89,6211.0,69,66,39
+prd_02196,fashion_clothing,Fashion & Apparel,92.37,10892.0,27,77,51
+prd_02197,sports_leisure,Sports & Leisure,109.3,14429.0,28,7,22
+prd_02198,sports_leisure,Sports & Leisure,250.73,9668.0,14,65,20
+prd_02199,fashion_clothing,Fashion & Apparel,108.1,1346.0,30,75,56
+prd_02200,fashion_clothing,Fashion & Apparel,30.47,11529.0,98,9,31
+prd_02201,beauty_cosmetics,Beauty & Cosmetics,64.25,7405.0,90,9,24
+prd_02202,sports_leisure,Sports & Leisure,68.49,11387.0,62,10,52
+prd_02203,telephony,Telephony/Mobile,644.77,3554.0,40,59,60
+prd_02204,home_appliances,Home Appliances,842.67,11475.0,70,45,49
+prd_02205,automotive,Automotive Parts,38.73,3332.0,71,21,53
+prd_02206,sports_leisure,Sports & Leisure,292.03,2942.0,51,50,34
+prd_02207,computers_accessories,Computers & Accessories,805.06,6444.0,99,35,64
+prd_02208,fashion_clothing,Fashion & Apparel,85.27,4077.0,91,57,13
+prd_02209,computers_accessories,Computers & Accessories,408.13,4882.0,49,76,80
+prd_02210,housewares,Housewares,79.8,13121.0,97,5,55
+prd_02211,telephony,Telephony/Mobile,766.47,1780.0,25,64,60
+prd_02212,automotive,Automotive Parts,44.56,709.0,47,50,22
+prd_02213,books_stationery,Books & Stationery,57.47,14690.0,87,54,26
+prd_02214,home_appliances,Home Appliances,129.69,11527.0,24,69,57
+prd_02215,fashion_clothing,Fashion & Apparel,90.28,4028.0,88,66,47
+prd_02216,electronics,Electronics,414.53,11583.0,79,24,66
+prd_02217,electronics,Electronics,211.42,12185.0,27,18,76
+prd_02218,beauty_cosmetics,Beauty & Cosmetics,44.27,9343.0,98,43,58
+prd_02219,health_perfumery,Health & Perfumery,49.49,4499.0,44,31,17
+prd_02220,housewares,Housewares,76.24,11109.0,17,68,48
+prd_02221,computers_accessories,Computers & Accessories,487.42,9997.0,70,36,32
+prd_02222,sports_leisure,Sports & Leisure,158.02,10039.0,71,12,29
+prd_02223,fashion_clothing,Fashion & Apparel,101.78,10044.0,38,61,54
+prd_02224,housewares,Housewares,45.22,12515.0,42,51,50
+prd_02225,health_perfumery,Health & Perfumery,38.16,13422.0,80,49,47
+prd_02226,housewares,Housewares,137.68,11553.0,76,41,22
+prd_02227,computers_accessories,Computers & Accessories,1015.02,2741.0,68,51,15
+prd_02228,housewares,Housewares,40.52,8204.0,49,32,36
+prd_02229,electronics,Electronics,427.08,13956.0,43,43,11
+prd_02230,home_appliances,Home Appliances,183.53,1599.0,84,16,21
+prd_02231,fashion_clothing,Fashion & Apparel,26.72,1258.0,47,67,47
+prd_02232,telephony,Telephony/Mobile,804.0,1419.0,88,57,44
+prd_02233,sports_leisure,Sports & Leisure,102.72,13165.0,43,64,36
+prd_02234,computers_accessories,Computers & Accessories,579.48,11323.0,100,25,39
+prd_02235,toys,Toys & Games,112.93,10843.0,61,57,58
+prd_02236,electronics,Electronics,53.12,13862.0,46,57,22
+prd_02237,fashion_clothing,Fashion & Apparel,54.41,10993.0,49,56,49
+prd_02238,sports_leisure,Sports & Leisure,288.41,9638.0,93,52,41
+prd_02239,sports_leisure,Sports & Leisure,127.19,4352.0,17,72,52
+prd_02240,toys,Toys & Games,124.8,6816.0,57,25,10
+prd_02241,automotive,Automotive Parts,210.53,14418.0,76,71,79
+prd_02242,toys,Toys & Games,46.09,9124.0,15,69,10
+prd_02243,housewares,Housewares,44.42,10910.0,46,9,74
+prd_02244,fashion_clothing,Fashion & Apparel,106.93,2986.0,48,42,41
+prd_02245,sports_leisure,Sports & Leisure,281.55,9273.0,34,62,59
+prd_02246,computers_accessories,Computers & Accessories,848.25,6041.0,67,68,79
+prd_02247,computers_accessories,Computers & Accessories,862.34,11340.0,24,80,48
+prd_02248,toys,Toys & Games,68.55,9480.0,24,17,20
+prd_02249,beauty_cosmetics,Beauty & Cosmetics,92.3,5602.0,16,15,40
+prd_02250,home_appliances,Home Appliances,725.01,6782.0,76,57,32
+prd_02251,home_appliances,Home Appliances,273.69,5023.0,66,35,24
+prd_02252,sports_leisure,Sports & Leisure,193.57,4991.0,58,13,45
+prd_02253,fashion_shoes,Shoes & Footwear,156.64,14722.0,30,53,71
+prd_02254,fashion_clothing,Fashion & Apparel,20.86,10672.0,24,7,57
+prd_02255,toys,Toys & Games,16.49,14169.0,82,12,36
+prd_02256,fashion_clothing,Fashion & Apparel,19.73,7976.0,33,80,45
+prd_02257,electronics,Electronics,653.54,4496.0,38,69,59
+prd_02258,beauty_cosmetics,Beauty & Cosmetics,41.09,14640.0,14,65,67
+prd_02259,fashion_shoes,Shoes & Footwear,144.1,9853.0,89,39,39
+prd_02260,sports_leisure,Sports & Leisure,13.77,13949.0,13,52,51
+prd_02261,health_perfumery,Health & Perfumery,29.14,8000.0,42,54,27
+prd_02262,computers_accessories,Computers & Accessories,391.98,502.0,45,60,65
+prd_02263,computers_accessories,Computers & Accessories,750.29,13699.0,92,46,69
+prd_02264,toys,Toys & Games,119.45,1792.0,12,11,11
+prd_02265,fashion_clothing,Fashion & Apparel,46.06,10185.0,31,78,66
+prd_02266,sports_leisure,Sports & Leisure,34.4,13976.0,36,24,42
+prd_02267,fashion_shoes,Shoes & Footwear,118.89,13383.0,71,10,13
+prd_02268,fashion_shoes,Shoes & Footwear,74.96,4041.0,42,64,19
+prd_02269,fashion_shoes,Shoes & Footwear,150.64,340.0,72,70,61
+prd_02270,housewares,Housewares,39.45,12374.0,71,58,35
+prd_02271,computers_accessories,Computers & Accessories,775.8,1328.0,60,50,76
+prd_02272,telephony,Telephony/Mobile,113.78,2002.0,60,57,15
+prd_02273,computers_accessories,Computers & Accessories,543.86,14144.0,56,66,23
+prd_02274,electronics,Electronics,83.4,2050.0,66,38,74
+prd_02275,housewares,Housewares,14.85,10950.0,88,54,25
+prd_02276,beauty_cosmetics,Beauty & Cosmetics,64.53,3358.0,25,73,20
+prd_02277,automotive,Automotive Parts,177.06,6029.0,60,70,59
+prd_02278,fashion_clothing,Fashion & Apparel,37.98,5322.0,27,45,56
+prd_02279,fashion_shoes,Shoes & Footwear,135.0,7097.0,20,34,41
+prd_02280,computers_accessories,Computers & Accessories,940.44,1503.0,36,63,29
+prd_02281,electronics,Electronics,638.26,9061.0,47,24,10
+prd_02282,beauty_cosmetics,Beauty & Cosmetics,79.75,13791.0,68,77,48
+prd_02283,fashion_clothing,Fashion & Apparel,26.92,8125.0,76,46,60
+prd_02284,housewares,Housewares,59.9,7087.0,59,77,28
+prd_02285,computers_accessories,Computers & Accessories,1453.4,5405.0,88,27,11
+prd_02286,beauty_cosmetics,Beauty & Cosmetics,87.87,4014.0,14,56,17
+prd_02287,garden_tools,Garden Tools,99.22,10159.0,23,65,64
+prd_02288,home_appliances,Home Appliances,290.61,10231.0,52,36,13
+prd_02289,automotive,Automotive Parts,23.96,10513.0,89,74,78
+prd_02290,books_stationery,Books & Stationery,56.4,128.0,22,67,24
+prd_02291,fashion_clothing,Fashion & Apparel,92.81,7663.0,66,64,79
+prd_02292,electronics,Electronics,534.34,2967.0,65,54,69
+prd_02293,electronics,Electronics,208.0,5020.0,10,7,32
+prd_02294,telephony,Telephony/Mobile,358.95,2262.0,50,33,27
+prd_02295,housewares,Housewares,42.28,14055.0,79,63,64
+prd_02296,fashion_clothing,Fashion & Apparel,17.88,1455.0,50,69,76
+prd_02297,health_perfumery,Health & Perfumery,93.88,10274.0,37,7,75
+prd_02298,fashion_clothing,Fashion & Apparel,26.91,3157.0,28,39,71
+prd_02299,toys,Toys & Games,25.94,1922.0,14,11,70
+prd_02300,electronics,Electronics,735.72,5243.0,94,51,17
+prd_02301,beauty_cosmetics,Beauty & Cosmetics,79.87,1764.0,16,49,23
+prd_02302,home_appliances,Home Appliances,693.57,4858.0,52,18,73
+prd_02303,electronics,Electronics,724.78,7508.0,64,68,62
+prd_02304,fashion_clothing,Fashion & Apparel,56.06,14269.0,51,67,63
+prd_02305,toys,Toys & Games,144.06,10733.0,48,50,77
+prd_02306,fashion_clothing,Fashion & Apparel,39.13,1236.0,45,28,61
+prd_02307,fashion_clothing,Fashion & Apparel,48.17,1468.0,57,15,16
+prd_02308,sports_leisure,Sports & Leisure,274.88,14127.0,70,73,25
+prd_02309,fashion_clothing,Fashion & Apparel,44.02,13353.0,21,57,54
+prd_02310,electronics,Electronics,211.75,591.0,95,50,60
+prd_02311,fashion_clothing,Fashion & Apparel,16.29,8324.0,60,17,13
+prd_02312,electronics,Electronics,748.01,7711.0,43,34,74
+prd_02313,office_furniture,Office Furniture,358.65,13518.0,83,32,67
+prd_02314,electronics,Electronics,147.18,6042.0,20,12,57
+prd_02315,electronics,Electronics,256.82,10116.0,19,78,69
+prd_02316,sports_leisure,Sports & Leisure,75.36,909.0,43,79,79
+prd_02317,fashion_clothing,Fashion & Apparel,104.13,4975.0,86,80,73
+prd_02318,home_appliances,Home Appliances,763.22,530.0,75,32,53
+prd_02319,fashion_shoes,Shoes & Footwear,151.86,2168.0,16,67,73
+prd_02320,beauty_cosmetics,Beauty & Cosmetics,25.4,7809.0,56,31,42
+prd_02321,fashion_clothing,Fashion & Apparel,18.64,12317.0,81,60,80
+prd_02322,electronics,Electronics,370.96,14921.0,20,6,37
+prd_02323,automotive,Automotive Parts,259.86,9969.0,36,65,78
+prd_02324,housewares,Housewares,76.46,9313.0,29,5,32
+prd_02325,fashion_clothing,Fashion & Apparel,90.49,14411.0,42,19,27
+prd_02326,telephony,Telephony/Mobile,304.09,1440.0,100,44,12
+prd_02327,electronics,Electronics,611.7,5659.0,87,22,18
+prd_02328,fashion_clothing,Fashion & Apparel,72.46,3455.0,27,57,44
+prd_02329,fashion_shoes,Shoes & Footwear,187.07,10858.0,28,6,43
+prd_02330,computers_accessories,Computers & Accessories,944.88,10305.0,61,36,32
+prd_02331,electronics,Electronics,308.98,4055.0,23,19,66
+prd_02332,fashion_clothing,Fashion & Apparel,119.56,6831.0,16,46,55
+prd_02333,telephony,Telephony/Mobile,307.26,4624.0,77,8,14
+prd_02334,telephony,Telephony/Mobile,523.15,13813.0,58,72,32
+prd_02335,beauty_cosmetics,Beauty & Cosmetics,94.97,1629.0,53,53,55
+prd_02336,electronics,Electronics,561.86,12471.0,68,60,40
+prd_02337,electronics,Electronics,154.12,13438.0,15,39,62
+prd_02338,garden_tools,Garden Tools,240.64,10922.0,68,28,71
+prd_02339,beauty_cosmetics,Beauty & Cosmetics,36.0,4660.0,72,48,67
+prd_02340,home_appliances,Home Appliances,465.38,8124.0,64,25,19
+prd_02341,home_appliances,Home Appliances,464.08,13614.0,54,7,35
+prd_02342,electronics,Electronics,440.87,5452.0,72,6,67
+prd_02343,sports_leisure,Sports & Leisure,77.76,8820.0,94,6,57
+prd_02344,fashion_clothing,Fashion & Apparel,103.31,3212.0,14,21,51
+prd_02345,health_perfumery,Health & Perfumery,84.25,10672.0,49,25,17
+prd_02346,fashion_shoes,Shoes & Footwear,189.65,11421.0,63,61,35
+prd_02347,housewares,Housewares,72.42,12750.0,41,78,17
+prd_02348,books_stationery,Books & Stationery,47.38,11756.0,75,64,74
+prd_02349,health_perfumery,Health & Perfumery,90.23,1246.0,88,66,64
+prd_02350,home_appliances,Home Appliances,200.16,13972.0,73,38,26
+prd_02351,electronics,Electronics,254.58,5842.0,65,31,30
+prd_02352,fashion_clothing,Fashion & Apparel,96.38,6547.0,86,17,55
+prd_02353,beauty_cosmetics,Beauty & Cosmetics,33.85,319.0,91,78,68
+prd_02354,home_appliances,Home Appliances,206.96,12455.0,93,15,63
+prd_02355,home_appliances,Home Appliances,913.02,3205.0,49,66,51
+prd_02356,automotive,Automotive Parts,61.2,5498.0,55,17,28
+prd_02357,fashion_shoes,Shoes & Footwear,139.24,937.0,17,51,15
+prd_02358,electronics,Electronics,653.74,14897.0,14,26,28
+prd_02359,computers_accessories,Computers & Accessories,1457.49,2800.0,71,26,13
+prd_02360,health_perfumery,Health & Perfumery,107.11,9230.0,60,36,41
+prd_02361,computers_accessories,Computers & Accessories,1288.39,4604.0,79,20,57
+prd_02362,housewares,Housewares,60.63,9144.0,13,47,60
+prd_02363,books_stationery,Books & Stationery,41.79,9744.0,97,34,52
+prd_02364,telephony,Telephony/Mobile,782.8,7191.0,98,20,79
+prd_02365,books_stationery,Books & Stationery,51.87,10698.0,66,29,41
+prd_02366,office_furniture,Office Furniture,251.73,299.0,83,63,55
+prd_02367,sports_leisure,Sports & Leisure,272.89,342.0,34,42,65
+prd_02368,health_perfumery,Health & Perfumery,95.66,13268.0,90,50,55
+prd_02369,computers_accessories,Computers & Accessories,1314.35,1743.0,35,9,52
+prd_02370,telephony,Telephony/Mobile,499.79,14818.0,61,41,65
+prd_02371,beauty_cosmetics,Beauty & Cosmetics,72.06,8995.0,15,13,50
+prd_02372,telephony,Telephony/Mobile,159.37,10831.0,73,46,50
+prd_02373,home_appliances,Home Appliances,600.06,10417.0,85,66,75
+prd_02374,housewares,Housewares,64.15,10060.0,79,48,16
+prd_02375,fashion_clothing,Fashion & Apparel,63.65,11499.0,37,11,60
+prd_02376,sports_leisure,Sports & Leisure,101.19,4162.0,96,59,62
+prd_02377,electronics,Electronics,732.25,4732.0,81,43,16
+prd_02378,toys,Toys & Games,16.15,4094.0,96,34,29
+prd_02379,fashion_clothing,Fashion & Apparel,90.83,6437.0,21,23,56
+prd_02380,toys,Toys & Games,113.27,4008.0,53,18,73
+prd_02381,beauty_cosmetics,Beauty & Cosmetics,43.33,4917.0,53,30,14
+prd_02382,electronics,Electronics,289.92,6722.0,89,61,73
+prd_02383,computers_accessories,Computers & Accessories,241.57,10235.0,20,52,79
+prd_02384,garden_tools,Garden Tools,98.31,793.0,17,9,49
+prd_02385,fashion_clothing,Fashion & Apparel,104.81,12485.0,50,19,56
+prd_02386,health_perfumery,Health & Perfumery,111.06,3141.0,55,68,27
+prd_02387,housewares,Housewares,12.91,11470.0,21,7,16
+prd_02388,sports_leisure,Sports & Leisure,55.59,1943.0,60,10,57
+prd_02389,health_perfumery,Health & Perfumery,27.17,12417.0,13,5,40
+prd_02390,toys,Toys & Games,32.08,9110.0,65,27,74
+prd_02391,fashion_clothing,Fashion & Apparel,81.47,2184.0,18,52,64
+prd_02392,electronics,Electronics,85.72,11063.0,33,77,40
+prd_02393,home_appliances,Home Appliances,175.54,10264.0,48,37,76
+prd_02394,fashion_clothing,Fashion & Apparel,61.29,4553.0,72,26,35
+prd_02395,sports_leisure,Sports & Leisure,122.52,7199.0,18,17,65
+prd_02396,health_perfumery,Health & Perfumery,73.13,11456.0,30,26,62
+prd_02397,home_appliances,Home Appliances,640.43,6728.0,43,76,57
+prd_02398,telephony,Telephony/Mobile,504.12,10882.0,87,37,77
+prd_02399,books_stationery,Books & Stationery,19.4,10400.0,56,21,34
+prd_02400,electronics,Electronics,569.19,2090.0,87,10,62
+prd_02401,beauty_cosmetics,Beauty & Cosmetics,51.32,571.0,40,68,53
+prd_02402,beauty_cosmetics,Beauty & Cosmetics,79.2,3946.0,80,79,38
+prd_02403,toys,Toys & Games,58.15,14027.0,21,72,43
+prd_02404,electronics,Electronics,344.01,13222.0,74,36,78
+prd_02405,housewares,Housewares,71.23,10558.0,99,58,59
+prd_02406,home_appliances,Home Appliances,317.97,2762.0,51,70,26
+prd_02407,telephony,Telephony/Mobile,300.03,1013.0,39,16,31
+prd_02408,beauty_cosmetics,Beauty & Cosmetics,18.21,14160.0,42,77,60
+prd_02409,fashion_clothing,Fashion & Apparel,76.61,14315.0,37,76,49
+prd_02410,beauty_cosmetics,Beauty & Cosmetics,52.59,6491.0,71,48,38
+prd_02411,telephony,Telephony/Mobile,919.43,14935.0,86,42,51
+prd_02412,fashion_clothing,Fashion & Apparel,100.84,14189.0,33,35,46
+prd_02413,electronics,Electronics,685.6,12416.0,38,80,63
+prd_02414,sports_leisure,Sports & Leisure,244.55,1375.0,81,14,37
+prd_02415,electronics,Electronics,142.66,6543.0,11,13,78
+prd_02416,health_perfumery,Health & Perfumery,79.96,7360.0,49,10,25
+prd_02417,home_appliances,Home Appliances,298.27,3653.0,17,54,10
+prd_02418,beauty_cosmetics,Beauty & Cosmetics,77.09,14985.0,40,25,71
+prd_02419,fashion_clothing,Fashion & Apparel,80.16,8860.0,87,45,24
+prd_02420,office_furniture,Office Furniture,256.98,7242.0,71,66,66
+prd_02421,electronics,Electronics,304.95,13273.0,36,75,54
+prd_02422,electronics,Electronics,561.74,6033.0,11,60,54
+prd_02423,housewares,Housewares,74.69,12154.0,76,38,50
+prd_02424,electronics,Electronics,104.37,3185.0,68,28,54
+prd_02425,fashion_clothing,Fashion & Apparel,35.53,11763.0,79,76,18
+prd_02426,electronics,Electronics,379.28,12974.0,90,72,52
+prd_02427,toys,Toys & Games,65.18,10325.0,74,40,74
+prd_02428,fashion_shoes,Shoes & Footwear,107.46,14783.0,55,38,50
+prd_02429,health_perfumery,Health & Perfumery,22.35,13227.0,69,47,69
+prd_02430,garden_tools,Garden Tools,151.52,1054.0,87,13,19
+prd_02431,health_perfumery,Health & Perfumery,56.71,9518.0,80,6,63
+prd_02432,toys,Toys & Games,39.87,10916.0,51,30,11
+prd_02433,garden_tools,Garden Tools,176.75,7592.0,12,80,25
+prd_02434,beauty_cosmetics,Beauty & Cosmetics,67.04,6033.0,75,36,67
+prd_02435,sports_leisure,Sports & Leisure,112.23,10360.0,55,54,49
+prd_02436,sports_leisure,Sports & Leisure,220.82,10007.0,30,27,35
+prd_02437,sports_leisure,Sports & Leisure,292.64,480.0,36,65,36
+prd_02438,home_appliances,Home Appliances,243.42,2138.0,35,64,40
+prd_02439,electronics,Electronics,712.3,8793.0,56,59,76
+prd_02440,housewares,Housewares,18.13,2089.0,55,44,57
+prd_02441,electronics,Electronics,234.9,11863.0,53,42,69
+prd_02442,fashion_clothing,Fashion & Apparel,64.94,9124.0,24,54,79
+prd_02443,toys,Toys & Games,43.93,14854.0,29,6,56
+prd_02444,electronics,Electronics,729.31,11987.0,10,19,34
+prd_02445,electronics,Electronics,355.49,14681.0,19,26,46
+prd_02446,telephony,Telephony/Mobile,525.67,13274.0,31,39,27
+prd_02447,electronics,Electronics,419.22,12361.0,19,9,23
+prd_02448,home_appliances,Home Appliances,481.14,4521.0,10,60,60
+prd_02449,beauty_cosmetics,Beauty & Cosmetics,80.05,11894.0,81,27,24
+prd_02450,sports_leisure,Sports & Leisure,182.94,14810.0,44,69,37
+prd_02451,telephony,Telephony/Mobile,339.54,1506.0,60,35,26
+prd_02452,telephony,Telephony/Mobile,804.05,4771.0,79,38,52
+prd_02453,fashion_shoes,Shoes & Footwear,123.34,7121.0,36,68,59
+prd_02454,fashion_clothing,Fashion & Apparel,37.7,9165.0,13,14,64
+prd_02455,health_perfumery,Health & Perfumery,21.8,14289.0,57,61,12
+prd_02456,electronics,Electronics,580.5,2198.0,54,76,53
+prd_02457,home_appliances,Home Appliances,410.68,8743.0,66,72,10
+prd_02458,telephony,Telephony/Mobile,275.42,14910.0,19,17,53
+prd_02459,telephony,Telephony/Mobile,128.43,3301.0,36,10,79
+prd_02460,electronics,Electronics,195.06,9518.0,26,69,73
+prd_02461,fashion_clothing,Fashion & Apparel,40.36,1232.0,92,17,59
+prd_02462,home_appliances,Home Appliances,664.41,7579.0,23,28,50
+prd_02463,toys,Toys & Games,84.98,327.0,52,15,49
+prd_02464,automotive,Automotive Parts,115.72,6744.0,11,11,54
+prd_02465,electronics,Electronics,750.33,10484.0,12,13,52
+prd_02466,toys,Toys & Games,104.93,11831.0,39,38,21
+prd_02467,automotive,Automotive Parts,76.68,14732.0,83,25,22
+prd_02468,sports_leisure,Sports & Leisure,282.67,8052.0,54,65,61
+prd_02469,books_stationery,Books & Stationery,17.59,14399.0,32,34,14
+prd_02470,sports_leisure,Sports & Leisure,149.99,4970.0,26,25,58
+prd_02471,electronics,Electronics,715.0,9253.0,86,66,37
+prd_02472,toys,Toys & Games,82.7,10586.0,51,15,68
+prd_02473,health_perfumery,Health & Perfumery,89.71,191.0,50,17,56
+prd_02474,sports_leisure,Sports & Leisure,34.39,9918.0,34,23,56
+prd_02475,automotive,Automotive Parts,234.41,7939.0,14,33,56
+prd_02476,sports_leisure,Sports & Leisure,213.7,11526.0,59,75,71
+prd_02477,office_furniture,Office Furniture,369.77,14040.0,78,22,49
+prd_02478,electronics,Electronics,234.51,7795.0,23,44,44
+prd_02479,computers_accessories,Computers & Accessories,663.91,14422.0,69,50,30
+prd_02480,fashion_clothing,Fashion & Apparel,87.89,4689.0,39,39,31
+prd_02481,fashion_clothing,Fashion & Apparel,86.26,12623.0,33,22,32
+prd_02482,electronics,Electronics,385.26,11983.0,74,65,80
+prd_02483,beauty_cosmetics,Beauty & Cosmetics,15.46,13598.0,51,43,45
+prd_02484,fashion_clothing,Fashion & Apparel,50.73,3499.0,13,61,50
+prd_02485,beauty_cosmetics,Beauty & Cosmetics,80.76,10959.0,52,76,11
+prd_02486,housewares,Housewares,62.13,2171.0,90,20,42
+prd_02487,electronics,Electronics,116.16,11872.0,12,43,76
+prd_02488,fashion_shoes,Shoes & Footwear,125.49,3131.0,70,46,66
+prd_02489,housewares,Housewares,124.94,11276.0,78,17,53
+prd_02490,books_stationery,Books & Stationery,37.98,6098.0,14,7,52
+prd_02491,fashion_shoes,Shoes & Footwear,40.06,7331.0,61,77,35
+prd_02492,fashion_clothing,Fashion & Apparel,118.64,5088.0,100,76,53
+prd_02493,office_furniture,Office Furniture,350.72,4269.0,82,78,58
+prd_02494,fashion_shoes,Shoes & Footwear,88.1,542.0,64,38,27
+prd_02495,electronics,Electronics,182.41,3669.0,41,68,41
+prd_02496,electronics,Electronics,276.7,10174.0,45,79,16
+prd_02497,toys,Toys & Games,116.66,10855.0,16,50,19
+prd_02498,computers_accessories,Computers & Accessories,168.32,10555.0,95,9,19
+prd_02499,computers_accessories,Computers & Accessories,430.13,1750.0,78,10,51
+prd_02500,fashion_clothing,Fashion & Apparel,117.91,1612.0,40,20,57

@@ -1,6 +1,6 @@
 -- ====================================================================
--- E-Commerce Sales & Customer Analytics Database Schema
--- DBMS: MySQL
+-- E-Commerce Sales & Supply Chain Analytics Database Schema
+-- DBMS: MySQL / SQLite
 -- ====================================================================
 
 CREATE DATABASE IF NOT EXISTS ecommerce_analytics;
@@ -138,4 +138,6 @@ CREATE INDEX idx_products_category ON products(product_category_name);
 CREATE INDEX idx_payments_order_id ON payments(order_id);
 CREATE INDEX idx_reviews_order_id ON reviews(order_id);
 CREATE INDEX idx_shipping_order_id ON shipping(order_id);
+CREATE INDEX idx_shipping_carrier ON shipping(shipping_carrier);
+CREATE INDEX idx_shipping_delivery_dates ON shipping(shipping_actual_delivery_date, shipping_estimated_delivery_date);
 CREATE INDEX idx_returns_order_id ON returns(order_id);
